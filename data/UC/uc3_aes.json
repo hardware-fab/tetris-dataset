@@ -1,0 +1,4089 @@
+{
+    "EMPTY_EMPTY_EMPTY_EMPTY_EMPTY_MEM_AESx1": {
+        "BRAM18": 1192,
+        "DSP": 36,
+        "FF": 78964,
+        "LUT": 80254,
+        "throughput": {
+            "AES_0": 2.089
+        },
+        "throughput_total": {
+            "AES": 2.089
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_EMPTY_MEM_AESx2": {
+        "BRAM18": 1218,
+        "DSP": 45,
+        "FF": 80618,
+        "LUT": 82501,
+        "throughput": {
+            "AES_0": 4.088
+        },
+        "throughput_total": {
+            "AES": 4.088
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_EMPTY_MEM_AESx4": {
+        "BRAM18": 1270,
+        "DSP": 63,
+        "FF": 83924,
+        "LUT": 86957,
+        "throughput": {
+            "AES_0": 7.851
+        },
+        "throughput_total": {
+            "AES": 7.851
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_AESx1_AESx1": {
+        "BRAM18": 1218,
+        "DSP": 45,
+        "FF": 86796,
+        "LUT": 86095,
+        "throughput": {
+            "AES_0": 2.086,
+            "AES_1": 2.084
+        },
+        "throughput_total": {
+            "AES": 4.17
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_AESx1_AESx2": {
+        "BRAM18": 1244,
+        "DSP": 54,
+        "FF": 88578,
+        "LUT": 88548,
+        "throughput": {
+            "AES_0": 2.064,
+            "AES_1": 4.07
+        },
+        "throughput_total": {
+            "AES": 6.134
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_AESx1_AESx4": {
+        "BRAM18": 1296,
+        "DSP": 72,
+        "FF": 91884,
+        "LUT": 93161,
+        "throughput": {
+            "AES_0": 2.048,
+            "AES_1": 7.817
+        },
+        "throughput_total": {
+            "AES": 9.865
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_AESx2_AESx2": {
+        "BRAM18": 1270,
+        "DSP": 63,
+        "FF": 90357,
+        "LUT": 90998,
+        "throughput": {
+            "AES_0": 4.082,
+            "AES_1": 4.079
+        },
+        "throughput_total": {
+            "AES": 8.161
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_AESx2_AESx4": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 93664,
+        "LUT": 95563,
+        "throughput": {
+            "AES_0": 4.063,
+            "AES_1": 7.807
+        },
+        "throughput_total": {
+            "AES": 11.87
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_AESx4_AESx4": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 96973,
+        "LUT": 100152,
+        "throughput": {
+            "AES_0": 7.771,
+            "AES_1": 7.764
+        },
+        "throughput_total": {
+            "AES": 15.535
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_MEM_AESx1": {
+        "BRAM18": 1192,
+        "DSP": 36,
+        "FF": 86278,
+        "LUT": 84192,
+        "throughput": {
+            "AES_0": 2.088
+        },
+        "throughput_total": {
+            "AES": 2.088
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_MEM_AESx2": {
+        "BRAM18": 1218,
+        "DSP": 45,
+        "FF": 87932,
+        "LUT": 86593,
+        "throughput": {
+            "AES_0": 4.09
+        },
+        "throughput_total": {
+            "AES": 4.09
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_MEM_AESx4": {
+        "BRAM18": 1270,
+        "DSP": 63,
+        "FF": 91239,
+        "LUT": 91193,
+        "throughput": {
+            "AES_0": 7.849
+        },
+        "throughput_total": {
+            "AES": 7.849
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx1_AESx1_AESx1": {
+        "BRAM18": 1244,
+        "DSP": 54,
+        "FF": 94754,
+        "LUT": 92225,
+        "throughput": {
+            "AES_0": 2.087,
+            "AES_1": 2.085,
+            "AES_2": 2.083
+        },
+        "throughput_total": {
+            "AES": 6.255
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx1_AESx1_AESx2": {
+        "BRAM18": 1270,
+        "DSP": 63,
+        "FF": 96536,
+        "LUT": 94608,
+        "throughput": {
+            "AES_0": 2.081,
+            "AES_1": 2.079,
+            "AES_2": 4.071
+        },
+        "throughput_total": {
+            "AES": 8.231
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx1_AESx1_AESx4": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 99842,
+        "LUT": 99322,
+        "throughput": {
+            "AES_0": 2.074,
+            "AES_1": 2.045,
+            "AES_2": 7.787
+        },
+        "throughput_total": {
+            "AES": 11.906
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx1_AESx2_AESx2": {
+        "BRAM18": 1296,
+        "DSP": 72,
+        "FF": 98318,
+        "LUT": 97047,
+        "throughput": {
+            "AES_0": 2.063,
+            "AES_1": 4.081,
+            "AES_2": 4.078
+        },
+        "throughput_total": {
+            "AES": 10.222
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx1_AESx2_AESx4": {
+        "BRAM18": 1348,
+        "DSP": 90,
+        "FF": 101624,
+        "LUT": 101681,
+        "throughput": {
+            "AES_0": 2.061,
+            "AES_1": 4.042,
+            "AES_2": 7.793
+        },
+        "throughput_total": {
+            "AES": 13.896
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx1_AESx4_AESx4": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 104931,
+        "LUT": 106364,
+        "throughput": {
+            "AES_0": 2.054,
+            "AES_1": 7.839,
+            "AES_2": 7.832
+        },
+        "throughput_total": {
+            "AES": 17.725
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx2_AESx2_AESx2": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 100100,
+        "LUT": 99406,
+        "throughput": {
+            "AES_0": 4.085,
+            "AES_1": 4.081,
+            "AES_2": 4.077
+        },
+        "throughput_total": {
+            "AES": 12.243
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx2_AESx2_AESx4": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 103406,
+        "LUT": 103978,
+        "throughput": {
+            "AES_0": 4.065,
+            "AES_1": 4.061,
+            "AES_2": 7.798
+        },
+        "throughput_total": {
+            "AES": 15.924
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx2_AESx4_AESx4": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 106712,
+        "LUT": 108612,
+        "throughput": {
+            "AES_0": 4.036,
+            "AES_1": 7.814,
+            "AES_2": 7.807
+        },
+        "throughput_total": {
+            "AES": 19.657
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_AESx4_AESx4_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 110020,
+        "LUT": 113316,
+        "throughput": {
+            "AES_0": 7.786,
+            "AES_1": 7.779,
+            "AES_2": 7.772
+        },
+        "throughput_total": {
+            "AES": 23.337
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_AESx1_AESx1": {
+        "BRAM18": 1218,
+        "DSP": 45,
+        "FF": 94125,
+        "LUT": 90318,
+        "throughput": {
+            "AES_0": 2.085,
+            "AES_1": 2.087
+        },
+        "throughput_total": {
+            "AES": 4.172
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_AESx1_AESx2": {
+        "BRAM18": 1244,
+        "DSP": 54,
+        "FF": 95902,
+        "LUT": 92783,
+        "throughput": {
+            "AES_0": 2.067,
+            "AES_1": 4.085
+        },
+        "throughput_total": {
+            "AES": 6.152
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_AESx1_AESx4": {
+        "BRAM18": 1296,
+        "DSP": 72,
+        "FF": 99208,
+        "LUT": 97342,
+        "throughput": {
+            "AES_0": 2.082,
+            "AES_1": 7.828
+        },
+        "throughput_total": {
+            "AES": 9.91
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_AESx2_AESx2": {
+        "BRAM18": 1270,
+        "DSP": 63,
+        "FF": 97684,
+        "LUT": 95030,
+        "throughput": {
+            "AES_0": 4.081,
+            "AES_1": 4.085
+        },
+        "throughput_total": {
+            "AES": 8.166
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_AESx2_AESx4": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 100990,
+        "LUT": 99747,
+        "throughput": {
+            "AES_0": 4.015,
+            "AES_1": 7.846
+        },
+        "throughput_total": {
+            "AES": 11.861
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_AESx4_AESx4": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 104297,
+        "LUT": 104376,
+        "throughput": {
+            "AES_0": 7.81,
+            "AES_1": 7.803
+        },
+        "throughput_total": {
+            "AES": 15.613
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx1_AESx1_AESx1": {
+        "BRAM18": 1270,
+        "DSP": 63,
+        "FF": 102714,
+        "LUT": 98442,
+        "throughput": {
+            "AES_0": 2.085,
+            "AES_1": 2.083,
+            "AES_2": 2.081,
+            "AES_3": 2.079
+        },
+        "throughput_total": {
+            "AES": 8.328
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx1_AESx1_AESx2": {
+        "BRAM18": 1296,
+        "DSP": 72,
+        "FF": 104496,
+        "LUT": 100954,
+        "throughput": {
+            "AES_0": 2.059,
+            "AES_1": 2.065,
+            "AES_2": 2.063,
+            "AES_3": 4.064
+        },
+        "throughput_total": {
+            "AES": 10.251
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx1_AESx1_AESx4": {
+        "BRAM18": 1348,
+        "DSP": 90,
+        "FF": 107803,
+        "LUT": 105581,
+        "throughput": {
+            "AES_0": 2.059,
+            "AES_1": 2.041,
+            "AES_2": 2.04,
+            "AES_3": 7.792
+        },
+        "throughput_total": {
+            "AES": 13.932
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx1_AESx2_AESx2": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 106276,
+        "LUT": 103267,
+        "throughput": {
+            "AES_0": 2.063,
+            "AES_1": 2.062,
+            "AES_2": 4.07,
+            "AES_3": 4.066
+        },
+        "throughput_total": {
+            "AES": 12.261
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx1_AESx2_AESx4": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 109584,
+        "LUT": 107894,
+        "throughput": {
+            "AES_0": 2.041,
+            "AES_1": 2.035,
+            "AES_2": 4.001,
+            "AES_3": 7.786
+        },
+        "throughput_total": {
+            "AES": 15.863
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx1_AESx4_AESx4": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 112891,
+        "LUT": 112524,
+        "throughput": {
+            "AES_0": 2.034,
+            "AES_1": 2.03,
+            "AES_2": 7.788,
+            "AES_3": 7.809
+        },
+        "throughput_total": {
+            "AES": 19.661
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx2_AESx2_AESx2": {
+        "BRAM18": 1348,
+        "DSP": 90,
+        "FF": 108059,
+        "LUT": 105631,
+        "throughput": {
+            "AES_0": 2.056,
+            "AES_1": 4.076,
+            "AES_2": 4.072,
+            "AES_3": 4.068
+        },
+        "throughput_total": {
+            "AES": 14.272
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx2_AESx2_AESx4": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 111367,
+        "LUT": 110259,
+        "throughput": {
+            "AES_0": 2.034,
+            "AES_1": 4.017,
+            "AES_2": 4.013,
+            "AES_3": 7.757
+        },
+        "throughput_total": {
+            "AES": 17.821
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx2_AESx4_AESx4": {
+        "BRAM18": 1452,
+        "DSP": 126,
+        "FF": 114671,
+        "LUT": 114888,
+        "throughput": {
+            "AES_0": 2.034,
+            "AES_1": 3.997,
+            "AES_2": 7.781,
+            "AES_3": 7.798
+        },
+        "throughput_total": {
+            "AES": 21.61
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx1_AESx4_AESx4_AESx4": {
+        "BRAM18": 1504,
+        "DSP": 144,
+        "FF": 117980,
+        "LUT": 119631,
+        "throughput": {
+            "AES_0": 2.024,
+            "AES_1": 7.78,
+            "AES_2": 7.773,
+            "AES_3": 7.766
+        },
+        "throughput_total": {
+            "AES": 25.343
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx2_AESx2_AESx2_AESx2": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 109841,
+        "LUT": 107970,
+        "throughput": {
+            "AES_0": 4.083,
+            "AES_1": 4.079,
+            "AES_2": 4.075,
+            "AES_3": 4.071
+        },
+        "throughput_total": {
+            "AES": 16.308
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx2_AESx2_AESx2_AESx4": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 113147,
+        "LUT": 112786,
+        "throughput": {
+            "AES_0": 4.03,
+            "AES_1": 4.021,
+            "AES_2": 4.011,
+            "AES_3": 7.785
+        },
+        "throughput_total": {
+            "AES": 19.847
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx2_AESx2_AESx4_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 116453,
+        "LUT": 117279,
+        "throughput": {
+            "AES_0": 4.018,
+            "AES_1": 4.003,
+            "AES_2": 7.781,
+            "AES_3": 7.796
+        },
+        "throughput_total": {
+            "AES": 23.598
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx2_AESx4_AESx4_AESx4": {
+        "BRAM18": 1530,
+        "DSP": 153,
+        "FF": 119762,
+        "LUT": 121982,
+        "throughput": {
+            "AES_0": 3.891,
+            "AES_1": 7.803,
+            "AES_2": 7.795,
+            "AES_3": 7.788
+        },
+        "throughput_total": {
+            "AES": 27.277
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1582,
+        "DSP": 171,
+        "FF": 123064,
+        "LUT": 126845,
+        "throughput": {
+            "AES_0": 7.813,
+            "AES_1": 7.806,
+            "AES_2": 7.799,
+            "AES_3": 7.791
+        },
+        "throughput_total": {
+            "AES": 31.209
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx1_AESx1_AESx1": {
+        "BRAM18": 1244,
+        "DSP": 54,
+        "FF": 102077,
+        "LUT": 96185,
+        "throughput": {
+            "AES_0": 2.088,
+            "AES_1": 2.086,
+            "AES_2": 2.084
+        },
+        "throughput_total": {
+            "AES": 6.258
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx1_AESx1_AESx2": {
+        "BRAM18": 1270,
+        "DSP": 63,
+        "FF": 103859,
+        "LUT": 98781,
+        "throughput": {
+            "AES_0": 2.066,
+            "AES_1": 2.087,
+            "AES_2": 4.067
+        },
+        "throughput_total": {
+            "AES": 8.22
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx1_AESx1_AESx4": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 107167,
+        "LUT": 103602,
+        "throughput": {
+            "AES_0": 2.047,
+            "AES_1": 2.085,
+            "AES_2": 7.802
+        },
+        "throughput_total": {
+            "AES": 11.934
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx1_AESx2_AESx2": {
+        "BRAM18": 1296,
+        "DSP": 72,
+        "FF": 105641,
+        "LUT": 101377,
+        "throughput": {
+            "AES_0": 2.063,
+            "AES_1": 4.08,
+            "AES_2": 4.074
+        },
+        "throughput_total": {
+            "AES": 10.217
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx1_AESx2_AESx4": {
+        "BRAM18": 1348,
+        "DSP": 90,
+        "FF": 108948,
+        "LUT": 105890,
+        "throughput": {
+            "AES_0": 2.046,
+            "AES_1": 4.08,
+            "AES_2": 7.799
+        },
+        "throughput_total": {
+            "AES": 13.925
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx1_AESx4_AESx4": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 112255,
+        "LUT": 110565,
+        "throughput": {
+            "AES_0": 2.048,
+            "AES_1": 7.814,
+            "AES_2": 7.813
+        },
+        "throughput_total": {
+            "AES": 17.675
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx2_AESx2_AESx2": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 107423,
+        "LUT": 103537,
+        "throughput": {
+            "AES_0": 4.077,
+            "AES_1": 4.085,
+            "AES_2": 4.081
+        },
+        "throughput_total": {
+            "AES": 12.243
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx2_AESx2_AESx4": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 110727,
+        "LUT": 108483,
+        "throughput": {
+            "AES_0": 4.008,
+            "AES_1": 4.081,
+            "AES_2": 7.792
+        },
+        "throughput_total": {
+            "AES": 15.881
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx2_AESx4_AESx4": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 114035,
+        "LUT": 112865,
+        "throughput": {
+            "AES_0": 4.003,
+            "AES_1": 7.832,
+            "AES_2": 7.797
+        },
+        "throughput_total": {
+            "AES": 19.632
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_AESx4_AESx4_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 117344,
+        "LUT": 117590,
+        "throughput": {
+            "AES_0": 7.794,
+            "AES_1": 7.787,
+            "AES_2": 7.78
+        },
+        "throughput_total": {
+            "AES": 23.361
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_MEM_MEM_AESx1": {
+        "BRAM18": 1064,
+        "DSP": 36,
+        "FF": 100885,
+        "LUT": 92029,
+        "throughput": {
+            "AES_0": 2.082
+        },
+        "throughput_total": {
+            "AES": 2.082
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_MEM_MEM_AESx2": {
+        "BRAM18": 1090,
+        "DSP": 45,
+        "FF": 102536,
+        "LUT": 94329,
+        "throughput": {
+            "AES_0": 4.09
+        },
+        "throughput_total": {
+            "AES": 4.09
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_MEM_MEM_AESx4": {
+        "BRAM18": 1142,
+        "DSP": 63,
+        "FF": 105845,
+        "LUT": 98942,
+        "throughput": {
+            "AES_0": 7.849
+        },
+        "throughput_total": {
+            "AES": 7.849
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx1_AESx1_AESx1": {
+        "BRAM18": 1296,
+        "DSP": 72,
+        "FF": 110673,
+        "LUT": 104594,
+        "throughput": {
+            "AES_0": 2.078,
+            "AES_1": 2.086,
+            "AES_2": 2.084,
+            "AES_3": 2.082,
+            "AES_4": 2.08
+        },
+        "throughput_total": {
+            "AES": 10.41
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx1_AESx1_AESx2": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 112455,
+        "LUT": 106929,
+        "throughput": {
+            "AES_0": 2.067,
+            "AES_1": 2.066,
+            "AES_2": 2.064,
+            "AES_3": 2.061,
+            "AES_4": 4.069
+        },
+        "throughput_total": {
+            "AES": 12.327
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx1_AESx1_AESx4": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 115761,
+        "LUT": 111674,
+        "throughput": {
+            "AES_0": 2.049,
+            "AES_1": 2.04,
+            "AES_2": 2.062,
+            "AES_3": 2.033,
+            "AES_4": 7.772
+        },
+        "throughput_total": {
+            "AES": 15.956
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx1_AESx2_AESx2": {
+        "BRAM18": 1348,
+        "DSP": 90,
+        "FF": 114236,
+        "LUT": 109357,
+        "throughput": {
+            "AES_0": 2.057,
+            "AES_1": 2.055,
+            "AES_2": 2.053,
+            "AES_3": 4.071,
+            "AES_4": 4.067
+        },
+        "throughput_total": {
+            "AES": 14.303
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx1_AESx2_AESx4": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 117543,
+        "LUT": 114012,
+        "throughput": {
+            "AES_0": 2.043,
+            "AES_1": 2.033,
+            "AES_2": 2.053,
+            "AES_3": 4.016,
+            "AES_4": 7.769
+        },
+        "throughput_total": {
+            "AES": 17.914
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx1_AESx4_AESx4": {
+        "BRAM18": 1452,
+        "DSP": 126,
+        "FF": 120851,
+        "LUT": 118891,
+        "throughput": {
+            "AES_0": 2.034,
+            "AES_1": 2.021,
+            "AES_2": 2.037,
+            "AES_3": 7.789,
+            "AES_4": 7.781
+        },
+        "throughput_total": {
+            "AES": 21.662
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx2_AESx2_AESx2": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 116018,
+        "LUT": 111697,
+        "throughput": {
+            "AES_0": 2.05,
+            "AES_1": 2.048,
+            "AES_2": 4.068,
+            "AES_3": 4.065,
+            "AES_4": 4.061
+        },
+        "throughput_total": {
+            "AES": 16.292
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx2_AESx2_AESx4": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 119325,
+        "LUT": 116399,
+        "throughput": {
+            "AES_0": 2.029,
+            "AES_1": 2.022,
+            "AES_2": 4.015,
+            "AES_3": 4.029,
+            "AES_4": 7.758
+        },
+        "throughput_total": {
+            "AES": 19.853
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx2_AESx4_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 122631,
+        "LUT": 120944,
+        "throughput": {
+            "AES_0": 2.022,
+            "AES_1": 2.009,
+            "AES_2": 3.985,
+            "AES_3": 7.751,
+            "AES_4": 7.744
+        },
+        "throughput_total": {
+            "AES": 23.511
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx1_AESx4_AESx4_AESx4": {
+        "BRAM18": 1530,
+        "DSP": 153,
+        "FF": 125939,
+        "LUT": 125792,
+        "throughput": {
+            "AES_0": 1.991,
+            "AES_1": 1.985,
+            "AES_2": 7.761,
+            "AES_3": 7.754,
+            "AES_4": 7.782
+        },
+        "throughput_total": {
+            "AES": 27.273
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx2_AESx2_AESx2_AESx2": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 117801,
+        "LUT": 114088,
+        "throughput": {
+            "AES_0": 2.046,
+            "AES_1": 4.076,
+            "AES_2": 4.067,
+            "AES_3": 4.065,
+            "AES_4": 4.062
+        },
+        "throughput_total": {
+            "AES": 18.316
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx2_AESx2_AESx2_AESx4": {
+        "BRAM18": 1452,
+        "DSP": 126,
+        "FF": 121107,
+        "LUT": 118727,
+        "throughput": {
+            "AES_0": 2.022,
+            "AES_1": 4.011,
+            "AES_2": 4.025,
+            "AES_3": 4.021,
+            "AES_4": 7.753
+        },
+        "throughput_total": {
+            "AES": 21.832
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx2_AESx2_AESx4_AESx4": {
+        "BRAM18": 1504,
+        "DSP": 144,
+        "FF": 124413,
+        "LUT": 123449,
+        "throughput": {
+            "AES_0": 2.001,
+            "AES_1": 3.981,
+            "AES_2": 3.972,
+            "AES_3": 7.775,
+            "AES_4": 7.768
+        },
+        "throughput_total": {
+            "AES": 25.497
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx2_AESx4_AESx4_AESx4": {
+        "BRAM18": 1556,
+        "DSP": 162,
+        "FF": 127719,
+        "LUT": 128136,
+        "throughput": {
+            "AES_0": 1.985,
+            "AES_1": 3.965,
+            "AES_2": 7.784,
+            "AES_3": 7.777,
+            "AES_4": 7.77
+        },
+        "throughput_total": {
+            "AES": 29.281
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx1_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1608,
+        "DSP": 180,
+        "FF": 131022,
+        "LUT": 132932,
+        "throughput": {
+            "AES_0": 1.968,
+            "AES_1": 7.804,
+            "AES_2": 7.797,
+            "AES_3": 7.79,
+            "AES_4": 7.783
+        },
+        "throughput_total": {
+            "AES": 33.142
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx2_AESx2_AESx2_AESx2_AESx2": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 119580,
+        "LUT": 116404,
+        "throughput": {
+            "AES_0": 4.07,
+            "AES_1": 4.066,
+            "AES_2": 4.063,
+            "AES_3": 4.059,
+            "AES_4": 4.055
+        },
+        "throughput_total": {
+            "AES": 20.313
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_AESx2_AESx2_AESx2_AESx2_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 122887,
+        "LUT": 121172,
+        "throughput": {
+            "AES_0": 4.015,
+            "AES_1": 4.011,
+            "AES_2": 4.007,
+            "AES_3": 4.003,
+            "AES_4": 7.774
+        },
+        "throughput_total": {
+            "AES": 23.81
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx2_AESx2_AESx2_AESx4_AESx4": {
+        "BRAM18": 1530,
+        "DSP": 153,
+        "FF": 126197,
+        "LUT": 125940,
+        "throughput": {
+            "AES_0": 3.992,
+            "AES_1": 3.989,
+            "AES_2": 3.975,
+            "AES_3": 7.778,
+            "AES_4": 7.771
+        },
+        "throughput_total": {
+            "AES": 27.505
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx2_AESx2_AESx4_AESx4_AESx4": {
+        "BRAM18": 1582,
+        "DSP": 171,
+        "FF": 129503,
+        "LUT": 130580,
+        "throughput": {
+            "AES_0": 3.98,
+            "AES_1": 3.976,
+            "AES_2": 7.777,
+            "AES_3": 7.77,
+            "AES_4": 7.763
+        },
+        "throughput_total": {
+            "AES": 31.266
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx2_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1634,
+        "DSP": 189,
+        "FF": 132801,
+        "LUT": 135136,
+        "throughput": {
+            "AES_0": 3.982,
+            "AES_1": 7.785,
+            "AES_2": 7.773,
+            "AES_3": 7.766,
+            "AES_4": 7.794
+        },
+        "throughput_total": {
+            "AES": 35.1
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_AESx4_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1686,
+        "DSP": 207,
+        "FF": 136107,
+        "LUT": 139898,
+        "throughput": {
+            "AES_0": 7.822,
+            "AES_1": 7.815,
+            "AES_2": 7.808,
+            "AES_3": 7.8,
+            "AES_4": 7.793
+        },
+        "throughput_total": {
+            "AES": 39.038
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx4",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx1_AESx1_AESx1": {
+        "BRAM18": 1270,
+        "DSP": 63,
+        "FF": 110035,
+        "LUT": 102806,
+        "throughput": {
+            "AES_0": 2.079,
+            "AES_1": 2.085,
+            "AES_2": 2.083,
+            "AES_3": 2.081
+        },
+        "throughput_total": {
+            "AES": 8.328
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx1_AESx1_AESx2": {
+        "BRAM18": 1296,
+        "DSP": 72,
+        "FF": 111817,
+        "LUT": 105064,
+        "throughput": {
+            "AES_0": 2.084,
+            "AES_1": 2.06,
+            "AES_2": 2.084,
+            "AES_3": 4.076
+        },
+        "throughput_total": {
+            "AES": 10.304
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx1_AESx1_AESx4": {
+        "BRAM18": 1348,
+        "DSP": 90,
+        "FF": 115125,
+        "LUT": 109782,
+        "throughput": {
+            "AES_0": 2.084,
+            "AES_1": 2.05,
+            "AES_2": 2.079,
+            "AES_3": 7.828
+        },
+        "throughput_total": {
+            "AES": 14.041
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx1_AESx2_AESx2": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 113600,
+        "LUT": 107448,
+        "throughput": {
+            "AES_0": 2.063,
+            "AES_1": 2.061,
+            "AES_2": 4.074,
+            "AES_3": 4.074
+        },
+        "throughput_total": {
+            "AES": 12.272
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx1_AESx2_AESx4": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 116909,
+        "LUT": 112248,
+        "throughput": {
+            "AES_0": 2.063,
+            "AES_1": 2.054,
+            "AES_2": 4.068,
+            "AES_3": 7.816
+        },
+        "throughput_total": {
+            "AES": 16.001
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx1_AESx4_AESx4": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 120217,
+        "LUT": 116886,
+        "throughput": {
+            "AES_0": 2.051,
+            "AES_1": 2.049,
+            "AES_2": 7.799,
+            "AES_3": 7.82
+        },
+        "throughput_total": {
+            "AES": 19.719
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx2_AESx2_AESx2": {
+        "BRAM18": 1348,
+        "DSP": 90,
+        "FF": 115381,
+        "LUT": 109986,
+        "throughput": {
+            "AES_0": 2.062,
+            "AES_1": 4.071,
+            "AES_2": 4.073,
+            "AES_3": 4.079
+        },
+        "throughput_total": {
+            "AES": 14.285
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx2_AESx2_AESx4": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 118688,
+        "LUT": 114753,
+        "throughput": {
+            "AES_0": 2.068,
+            "AES_1": 4.003,
+            "AES_2": 4.059,
+            "AES_3": 7.817
+        },
+        "throughput_total": {
+            "AES": 17.947
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx2_AESx4_AESx4": {
+        "BRAM18": 1452,
+        "DSP": 126,
+        "FF": 121995,
+        "LUT": 119486,
+        "throughput": {
+            "AES_0": 2.049,
+            "AES_1": 4.002,
+            "AES_2": 7.792,
+            "AES_3": 7.813
+        },
+        "throughput_total": {
+            "AES": 21.656
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx1_AESx4_AESx4_AESx4": {
+        "BRAM18": 1504,
+        "DSP": 144,
+        "FF": 125303,
+        "LUT": 123800,
+        "throughput": {
+            "AES_0": 2.052,
+            "AES_1": 7.817,
+            "AES_2": 7.809,
+            "AES_3": 7.802
+        },
+        "throughput_total": {
+            "AES": 25.48
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx2_AESx2_AESx2_AESx2": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 117162,
+        "LUT": 112350,
+        "throughput": {
+            "AES_0": 4.08,
+            "AES_1": 4.077,
+            "AES_2": 4.073,
+            "AES_3": 4.069
+        },
+        "throughput_total": {
+            "AES": 16.299
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx2_AESx2_AESx2_AESx4": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 120471,
+        "LUT": 117034,
+        "throughput": {
+            "AES_0": 4.073,
+            "AES_1": 4.001,
+            "AES_2": 4.077,
+            "AES_3": 7.808
+        },
+        "throughput_total": {
+            "AES": 19.959
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx2_AESx2_AESx4_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 123776,
+        "LUT": 121365,
+        "throughput": {
+            "AES_0": 4.015,
+            "AES_1": 4.014,
+            "AES_2": 7.799,
+            "AES_3": 7.799
+        },
+        "throughput_total": {
+            "AES": 23.627
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx2_AESx4_AESx4_AESx4": {
+        "BRAM18": 1530,
+        "DSP": 153,
+        "FF": 127085,
+        "LUT": 126437,
+        "throughput": {
+            "AES_0": 4.028,
+            "AES_1": 7.805,
+            "AES_2": 7.807,
+            "AES_3": 7.819
+        },
+        "throughput_total": {
+            "AES": 27.459
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1582,
+        "DSP": 171,
+        "FF": 130385,
+        "LUT": 130942,
+        "throughput": {
+            "AES_0": 7.825,
+            "AES_1": 7.818,
+            "AES_2": 7.81,
+            "AES_3": 7.803
+        },
+        "throughput_total": {
+            "AES": 31.256
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_AESx1_AESx1": {
+        "BRAM18": 1090,
+        "DSP": 45,
+        "FF": 108714,
+        "LUT": 97910,
+        "throughput": {
+            "AES_0": 2.084,
+            "AES_1": 2.087
+        },
+        "throughput_total": {
+            "AES": 4.171
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx1"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_AESx1_AESx2": {
+        "BRAM18": 1116,
+        "DSP": 54,
+        "FF": 110496,
+        "LUT": 100472,
+        "throughput": {
+            "AES_0": 2.084,
+            "AES_1": 4.087
+        },
+        "throughput_total": {
+            "AES": 6.171
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_AESx1_AESx4": {
+        "BRAM18": 1168,
+        "DSP": 72,
+        "FF": 113803,
+        "LUT": 105105,
+        "throughput": {
+            "AES_0": 2.083,
+            "AES_1": 7.821
+        },
+        "throughput_total": {
+            "AES": 9.904
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_AESx2_AESx2": {
+        "BRAM18": 1142,
+        "DSP": 63,
+        "FF": 112275,
+        "LUT": 102788,
+        "throughput": {
+            "AES_0": 4.081,
+            "AES_1": 4.077
+        },
+        "throughput_total": {
+            "AES": 8.158
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_AESx2_AESx4": {
+        "BRAM18": 1194,
+        "DSP": 81,
+        "FF": 115584,
+        "LUT": 107497,
+        "throughput": {
+            "AES_0": 4.075,
+            "AES_1": 7.822
+        },
+        "throughput_total": {
+            "AES": 11.897
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_AESx4_AESx4": {
+        "BRAM18": 1246,
+        "DSP": 99,
+        "FF": 118893,
+        "LUT": 112174,
+        "throughput": {
+            "AES_0": 7.85,
+            "AES_1": 7.858
+        },
+        "throughput_total": {
+            "AES": 15.708
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx1_AESx1_AESx1": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 118631,
+        "LUT": 110712,
+        "throughput": {
+            "AES_0": 2.084,
+            "AES_1": 2.082,
+            "AES_2": 2.08,
+            "AES_3": 2.078,
+            "AES_4": 2.076,
+            "AES_5": 2.074
+        },
+        "throughput_total": {
+            "AES": 12.474
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx1",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx1"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx1_AESx1_AESx2": {
+        "BRAM18": 1348,
+        "DSP": 90,
+        "FF": 120413,
+        "LUT": 113121,
+        "throughput": {
+            "AES_0": 2.061,
+            "AES_1": 2.057,
+            "AES_2": 2.066,
+            "AES_3": 2.064,
+            "AES_4": 2.062,
+            "AES_5": 4.055
+        },
+        "throughput_total": {
+            "AES": 14.365
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx1",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx1_AESx1_AESx4": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 123720,
+        "LUT": 118021,
+        "throughput": {
+            "AES_0": 2.055,
+            "AES_1": 2.031,
+            "AES_2": 2.044,
+            "AES_3": 2.024,
+            "AES_4": 2.023,
+            "AES_5": 7.703
+        },
+        "throughput_total": {
+            "AES": 17.88
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx1",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx1_AESx2_AESx2": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 122195,
+        "LUT": 115465,
+        "throughput": {
+            "AES_0": 2.062,
+            "AES_1": 2.055,
+            "AES_2": 2.053,
+            "AES_3": 2.05,
+            "AES_4": 4.066,
+            "AES_5": 4.062
+        },
+        "throughput_total": {
+            "AES": 16.348
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx1_AESx2_AESx4": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 125501,
+        "LUT": 120093,
+        "throughput": {
+            "AES_0": 2.039,
+            "AES_1": 2.024,
+            "AES_2": 2.028,
+            "AES_3": 2.021,
+            "AES_4": 4.027,
+            "AES_5": 7.74
+        },
+        "throughput_total": {
+            "AES": 19.879
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx1_AESx4_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 128809,
+        "LUT": 124867,
+        "throughput": {
+            "AES_0": 2.024,
+            "AES_1": 2.001,
+            "AES_2": 2.024,
+            "AES_3": 2.006,
+            "AES_4": 7.742,
+            "AES_5": 7.735
+        },
+        "throughput_total": {
+            "AES": 23.532
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx2_AESx2_AESx2": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 123977,
+        "LUT": 117934,
+        "throughput": {
+            "AES_0": 2.055,
+            "AES_1": 2.045,
+            "AES_2": 2.055,
+            "AES_3": 4.064,
+            "AES_4": 4.06,
+            "AES_5": 4.056
+        },
+        "throughput_total": {
+            "AES": 18.335
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx2_AESx2_AESx4": {
+        "BRAM18": 1452,
+        "DSP": 126,
+        "FF": 127283,
+        "LUT": 122624,
+        "throughput": {
+            "AES_0": 2.035,
+            "AES_1": 2.022,
+            "AES_2": 2.026,
+            "AES_3": 4.011,
+            "AES_4": 4.0,
+            "AES_5": 7.746
+        },
+        "throughput_total": {
+            "AES": 21.84
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx2_AESx4_AESx4": {
+        "BRAM18": 1504,
+        "DSP": 144,
+        "FF": 130590,
+        "LUT": 127107,
+        "throughput": {
+            "AES_0": 2.024,
+            "AES_1": 2.003,
+            "AES_2": 2.013,
+            "AES_3": 3.984,
+            "AES_4": 7.735,
+            "AES_5": 7.726
+        },
+        "throughput_total": {
+            "AES": 25.485
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx1_AESx4_AESx4_AESx4": {
+        "BRAM18": 1556,
+        "DSP": 162,
+        "FF": 133898,
+        "LUT": 131996,
+        "throughput": {
+            "AES_0": 1.997,
+            "AES_1": 1.987,
+            "AES_2": 1.999,
+            "AES_3": 7.757,
+            "AES_4": 7.75,
+            "AES_5": 7.743
+        },
+        "throughput_total": {
+            "AES": 29.233
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx2_AESx2_AESx2_AESx2": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 125757,
+        "LUT": 120237,
+        "throughput": {
+            "AES_0": 2.056,
+            "AES_1": 2.044,
+            "AES_2": 4.051,
+            "AES_3": 4.069,
+            "AES_4": 4.065,
+            "AES_5": 4.061
+        },
+        "throughput_total": {
+            "AES": 20.346
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx2_AESx2_AESx2_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 129066,
+        "LUT": 124919,
+        "throughput": {
+            "AES_0": 2.031,
+            "AES_1": 2.022,
+            "AES_2": 4.009,
+            "AES_3": 4.004,
+            "AES_4": 3.997,
+            "AES_5": 7.749
+        },
+        "throughput_total": {
+            "AES": 23.812
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx2_AESx2_AESx4_AESx4": {
+        "BRAM18": 1530,
+        "DSP": 153,
+        "FF": 132370,
+        "LUT": 129588,
+        "throughput": {
+            "AES_0": 2.018,
+            "AES_1": 2.002,
+            "AES_2": 3.991,
+            "AES_3": 3.975,
+            "AES_4": 7.73,
+            "AES_5": 7.763
+        },
+        "throughput_total": {
+            "AES": 27.479
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx2_AESx4_AESx4_AESx4": {
+        "BRAM18": 1582,
+        "DSP": 171,
+        "FF": 135679,
+        "LUT": 134314,
+        "throughput": {
+            "AES_0": 1.995,
+            "AES_1": 1.975,
+            "AES_2": 3.97,
+            "AES_3": 7.772,
+            "AES_4": 7.765,
+            "AES_5": 7.758
+        },
+        "throughput_total": {
+            "AES": 31.235
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx1_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1634,
+        "DSP": 189,
+        "FF": 138980,
+        "LUT": 138937,
+        "throughput": {
+            "AES_0": 1.984,
+            "AES_1": 1.974,
+            "AES_2": 7.771,
+            "AES_3": 7.764,
+            "AES_4": 7.757,
+            "AES_5": 7.749
+        },
+        "throughput_total": {
+            "AES": 34.999
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx2_AESx2_AESx2_AESx2_AESx2": {
+        "BRAM18": 1452,
+        "DSP": 126,
+        "FF": 127540,
+        "LUT": 122766,
+        "throughput": {
+            "AES_0": 2.061,
+            "AES_1": 4.061,
+            "AES_2": 4.055,
+            "AES_3": 4.052,
+            "AES_4": 4.071,
+            "AES_5": 4.067
+        },
+        "throughput_total": {
+            "AES": 22.367
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_AESx1_AESx2_AESx2_AESx2_AESx2_AESx4": {
+        "BRAM18": 1504,
+        "DSP": 144,
+        "FF": 130844,
+        "LUT": 127260,
+        "throughput": {
+            "AES_0": 2.033,
+            "AES_1": 4.011,
+            "AES_2": 4.008,
+            "AES_3": 4.003,
+            "AES_4": 3.998,
+            "AES_5": 7.722
+        },
+        "throughput_total": {
+            "AES": 25.775
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx2_AESx2_AESx2_AESx4_AESx4": {
+        "BRAM18": 1556,
+        "DSP": 162,
+        "FF": 134152,
+        "LUT": 132072,
+        "throughput": {
+            "AES_0": 2.02,
+            "AES_1": 3.991,
+            "AES_2": 3.987,
+            "AES_3": 3.975,
+            "AES_4": 7.731,
+            "AES_5": 7.766
+        },
+        "throughput_total": {
+            "AES": 29.47
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx2_AESx2_AESx4_AESx4_AESx4": {
+        "BRAM18": 1608,
+        "DSP": 180,
+        "FF": 137462,
+        "LUT": 136626,
+        "throughput": {
+            "AES_0": 2.007,
+            "AES_1": 3.968,
+            "AES_2": 3.985,
+            "AES_3": 7.764,
+            "AES_4": 7.757,
+            "AES_5": 7.75
+        },
+        "throughput_total": {
+            "AES": 33.231
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx2_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1660,
+        "DSP": 198,
+        "FF": 140760,
+        "LUT": 141336,
+        "throughput": {
+            "AES_0": 1.997,
+            "AES_1": 3.967,
+            "AES_2": 7.767,
+            "AES_3": 7.76,
+            "AES_4": 7.753,
+            "AES_5": 7.745
+        },
+        "throughput_total": {
+            "AES": 36.989
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx1_AESx4_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1712,
+        "DSP": 216,
+        "FF": 144066,
+        "LUT": 146023,
+        "throughput": {
+            "AES_0": 2.011,
+            "AES_1": 7.776,
+            "AES_2": 7.766,
+            "AES_3": 7.759,
+            "AES_4": 7.752,
+            "AES_5": 7.744
+        },
+        "throughput_total": {
+            "AES": 40.808
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx1",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx4",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx2_AESx2_AESx2_AESx2_AESx2_AESx2": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 129321,
+        "LUT": 125029,
+        "throughput": {
+            "AES_0": 4.076,
+            "AES_1": 4.073,
+            "AES_2": 4.069,
+            "AES_3": 4.065,
+            "AES_4": 4.061,
+            "AES_5": 4.057
+        },
+        "throughput_total": {
+            "AES": 24.401
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx2",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_AESx2_AESx2_AESx2_AESx2_AESx2_AESx4": {
+        "BRAM18": 1530,
+        "DSP": 153,
+        "FF": 132630,
+        "LUT": 129853,
+        "throughput": {
+            "AES_0": 4.009,
+            "AES_1": 4.003,
+            "AES_2": 3.999,
+            "AES_3": 3.993,
+            "AES_4": 3.99,
+            "AES_5": 7.761
+        },
+        "throughput_total": {
+            "AES": 27.755
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx2",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx2_AESx2_AESx2_AESx2_AESx4_AESx4": {
+        "BRAM18": 1582,
+        "DSP": 171,
+        "FF": 135934,
+        "LUT": 134369,
+        "throughput": {
+            "AES_0": 3.99,
+            "AES_1": 3.984,
+            "AES_2": 4.002,
+            "AES_3": 3.989,
+            "AES_4": 7.756,
+            "AES_5": 7.747
+        },
+        "throughput_total": {
+            "AES": 31.468
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx2",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx2_AESx2_AESx2_AESx4_AESx4_AESx4": {
+        "BRAM18": 1634,
+        "DSP": 189,
+        "FF": 139240,
+        "LUT": 139144,
+        "throughput": {
+            "AES_0": 3.98,
+            "AES_1": 3.995,
+            "AES_2": 3.987,
+            "AES_3": 7.759,
+            "AES_4": 7.752,
+            "AES_5": 7.744
+        },
+        "throughput_total": {
+            "AES": 35.217
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx2",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx2_AESx2_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1686,
+        "DSP": 207,
+        "FF": 142540,
+        "LUT": 143662,
+        "throughput": {
+            "AES_0": 3.974,
+            "AES_1": 3.972,
+            "AES_2": 7.77,
+            "AES_3": 7.762,
+            "AES_4": 7.755,
+            "AES_5": 7.748
+        },
+        "throughput_total": {
+            "AES": 38.981
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx2",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx2_AESx4_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1738,
+        "DSP": 225,
+        "FF": 145846,
+        "LUT": 148470,
+        "throughput": {
+            "AES_0": 3.973,
+            "AES_1": 7.781,
+            "AES_2": 7.774,
+            "AES_3": 7.766,
+            "AES_4": 7.758,
+            "AES_5": 7.751
+        },
+        "throughput_total": {
+            "AES": 42.803
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx2",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx4",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_AESx4_AESx4_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1790,
+        "DSP": 243,
+        "FF": 149155,
+        "LUT": 153111,
+        "throughput": {
+            "AES_0": 7.789,
+            "AES_1": 7.782,
+            "AES_2": 7.775,
+            "AES_3": 7.767,
+            "AES_4": 7.76,
+            "AES_5": 7.753
+        },
+        "throughput_total": {
+            "AES": 46.626
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "AESx4",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx4",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx1_AESx1_AESx1": {
+        "BRAM18": 1296,
+        "DSP": 72,
+        "FF": 117996,
+        "LUT": 108712,
+        "throughput": {
+            "AES_0": 2.085,
+            "AES_1": 2.083,
+            "AES_2": 2.081,
+            "AES_3": 2.079,
+            "AES_4": 2.077
+        },
+        "throughput_total": {
+            "AES": 10.405
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx1",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx1"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx1_AESx1_AESx2": {
+        "BRAM18": 1322,
+        "DSP": 81,
+        "FF": 119776,
+        "LUT": 111032,
+        "throughput": {
+            "AES_0": 2.069,
+            "AES_1": 2.085,
+            "AES_2": 2.064,
+            "AES_3": 2.08,
+            "AES_4": 4.054
+        },
+        "throughput_total": {
+            "AES": 12.352
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx1",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx1_AESx1_AESx4": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 123085,
+        "LUT": 116017,
+        "throughput": {
+            "AES_0": 2.043,
+            "AES_1": 2.082,
+            "AES_2": 2.042,
+            "AES_3": 2.079,
+            "AES_4": 7.799
+        },
+        "throughput_total": {
+            "AES": 16.045
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx1",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx1_AESx2_AESx2": {
+        "BRAM18": 1348,
+        "DSP": 90,
+        "FF": 121562,
+        "LUT": 113685,
+        "throughput": {
+            "AES_0": 2.063,
+            "AES_1": 2.065,
+            "AES_2": 2.068,
+            "AES_3": 4.073,
+            "AES_4": 4.061
+        },
+        "throughput_total": {
+            "AES": 14.33
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx1_AESx2_AESx4": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 124867,
+        "LUT": 118401,
+        "throughput": {
+            "AES_0": 2.041,
+            "AES_1": 2.065,
+            "AES_2": 2.04,
+            "AES_3": 4.06,
+            "AES_4": 7.79
+        },
+        "throughput_total": {
+            "AES": 17.996
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx1_AESx4_AESx4": {
+        "BRAM18": 1452,
+        "DSP": 126,
+        "FF": 128173,
+        "LUT": 123038,
+        "throughput": {
+            "AES_0": 2.039,
+            "AES_1": 2.044,
+            "AES_2": 2.036,
+            "AES_3": 7.808,
+            "AES_4": 7.779
+        },
+        "throughput_total": {
+            "AES": 21.706
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx2_AESx2_AESx2": {
+        "BRAM18": 1374,
+        "DSP": 99,
+        "FF": 123342,
+        "LUT": 115935,
+        "throughput": {
+            "AES_0": 2.059,
+            "AES_1": 2.066,
+            "AES_2": 4.056,
+            "AES_3": 4.076,
+            "AES_4": 4.067
+        },
+        "throughput_total": {
+            "AES": 16.324
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx2_AESx2_AESx4": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 126649,
+        "LUT": 120541,
+        "throughput": {
+            "AES_0": 2.033,
+            "AES_1": 2.063,
+            "AES_2": 4.023,
+            "AES_3": 4.076,
+            "AES_4": 7.778
+        },
+        "throughput_total": {
+            "AES": 19.973
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx2_AESx4_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 129956,
+        "LUT": 125257,
+        "throughput": {
+            "AES_0": 2.032,
+            "AES_1": 2.044,
+            "AES_2": 4.023,
+            "AES_3": 7.811,
+            "AES_4": 7.778
+        },
+        "throughput_total": {
+            "AES": 23.688
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx1_AESx4_AESx4_AESx4": {
+        "BRAM18": 1530,
+        "DSP": 153,
+        "FF": 133264,
+        "LUT": 129825,
+        "throughput": {
+            "AES_0": 2.015,
+            "AES_1": 2.042,
+            "AES_2": 7.794,
+            "AES_3": 7.802,
+            "AES_4": 7.781
+        },
+        "throughput_total": {
+            "AES": 27.434
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx1",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx2_AESx2_AESx2_AESx2": {
+        "BRAM18": 1400,
+        "DSP": 108,
+        "FF": 125124,
+        "LUT": 118353,
+        "throughput": {
+            "AES_0": 2.061,
+            "AES_1": 4.074,
+            "AES_2": 4.061,
+            "AES_3": 4.065,
+            "AES_4": 4.073
+        },
+        "throughput_total": {
+            "AES": 18.334
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_MEM_AESx1_AESx2_AESx2_AESx2_AESx4": {
+        "BRAM18": 1452,
+        "DSP": 126,
+        "FF": 128431,
+        "LUT": 123089,
+        "throughput": {
+            "AES_0": 2.032,
+            "AES_1": 4.066,
+            "AES_2": 4.039,
+            "AES_3": 4.077,
+            "AES_4": 7.766
+        },
+        "throughput_total": {
+            "AES": 21.98
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx2_AESx2_AESx4_AESx4": {
+        "BRAM18": 1504,
+        "DSP": 144,
+        "FF": 131738,
+        "LUT": 127734,
+        "throughput": {
+            "AES_0": 2.033,
+            "AES_1": 4.011,
+            "AES_2": 4.022,
+            "AES_3": 7.803,
+            "AES_4": 7.776
+        },
+        "throughput_total": {
+            "AES": 25.645
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx2_AESx4_AESx4_AESx4": {
+        "BRAM18": 1556,
+        "DSP": 162,
+        "FF": 135043,
+        "LUT": 132371,
+        "throughput": {
+            "AES_0": 2.01,
+            "AES_1": 4.019,
+            "AES_2": 7.786,
+            "AES_3": 7.789,
+            "AES_4": 7.77
+        },
+        "throughput_total": {
+            "AES": 29.374
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx1_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1608,
+        "DSP": 180,
+        "FF": 138345,
+        "LUT": 137113,
+        "throughput": {
+            "AES_0": 2.019,
+            "AES_1": 7.8,
+            "AES_2": 7.78,
+            "AES_3": 7.782,
+            "AES_4": 7.794
+        },
+        "throughput_total": {
+            "AES": 33.175
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx1",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx2_AESx2_AESx2_AESx2_AESx2": {
+        "BRAM18": 1426,
+        "DSP": 117,
+        "FF": 126906,
+        "LUT": 120707,
+        "throughput": {
+            "AES_0": 4.085,
+            "AES_1": 4.081,
+            "AES_2": 4.077,
+            "AES_3": 4.074,
+            "AES_4": 4.07
+        },
+        "throughput_total": {
+            "AES": 20.387
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_MEM_AESx2_AESx2_AESx2_AESx2_AESx4": {
+        "BRAM18": 1478,
+        "DSP": 135,
+        "FF": 130210,
+        "LUT": 125216,
+        "throughput": {
+            "AES_0": 4.025,
+            "AES_1": 4.074,
+            "AES_2": 4.006,
+            "AES_3": 4.066,
+            "AES_4": 7.779
+        },
+        "throughput_total": {
+            "AES": 23.95
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx2_AESx2_AESx2_AESx4_AESx4": {
+        "BRAM18": 1530,
+        "DSP": 153,
+        "FF": 133517,
+        "LUT": 130279,
+        "throughput": {
+            "AES_0": 4.024,
+            "AES_1": 4.019,
+            "AES_2": 4.009,
+            "AES_3": 7.779,
+            "AES_4": 7.754
+        },
+        "throughput_total": {
+            "AES": 27.585
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx2_AESx2_AESx4_AESx4_AESx4": {
+        "BRAM18": 1582,
+        "DSP": 171,
+        "FF": 136823,
+        "LUT": 134718,
+        "throughput": {
+            "AES_0": 4.027,
+            "AES_1": 4.016,
+            "AES_2": 7.781,
+            "AES_3": 7.778,
+            "AES_4": 7.766
+        },
+        "throughput_total": {
+            "AES": 31.368
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx2",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx2_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1634,
+        "DSP": 189,
+        "FF": 140128,
+        "LUT": 139526,
+        "throughput": {
+            "AES_0": 4.013,
+            "AES_1": 7.794,
+            "AES_2": 7.769,
+            "AES_3": 7.807,
+            "AES_4": 7.786
+        },
+        "throughput_total": {
+            "AES": 35.169
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx2",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_AESx4_AESx4_AESx4_AESx4_AESx4": {
+        "BRAM18": 1686,
+        "DSP": 207,
+        "FF": 143432,
+        "LUT": 144135,
+        "throughput": {
+            "AES_0": 7.848,
+            "AES_1": 7.841,
+            "AES_2": 7.834,
+            "AES_3": 7.826,
+            "AES_4": 7.819
+        },
+        "throughput_total": {
+            "AES": 39.168
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "AESx4",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "AESx4",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx1_AESx1_AESx1": {
+        "BRAM18": 1116,
+        "DSP": 54,
+        "FF": 116664,
+        "LUT": 104261,
+        "throughput": {
+            "AES_0": 2.084,
+            "AES_1": 2.088,
+            "AES_2": 2.086
+        },
+        "throughput_total": {
+            "AES": 6.258
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx1"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx1_AESx1_AESx2": {
+        "BRAM18": 1142,
+        "DSP": 63,
+        "FF": 118444,
+        "LUT": 106644,
+        "throughput": {
+            "AES_0": 2.085,
+            "AES_1": 2.085,
+            "AES_2": 4.081
+        },
+        "throughput_total": {
+            "AES": 8.251
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx1_AESx1_AESx4": {
+        "BRAM18": 1194,
+        "DSP": 81,
+        "FF": 121752,
+        "LUT": 111308,
+        "throughput": {
+            "AES_0": 2.081,
+            "AES_1": 2.083,
+            "AES_2": 7.836
+        },
+        "throughput_total": {
+            "AES": 12.0
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx1",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx1_AESx2_AESx2": {
+        "BRAM18": 1168,
+        "DSP": 72,
+        "FF": 120228,
+        "LUT": 108939,
+        "throughput": {
+            "AES_0": 2.081,
+            "AES_1": 4.089,
+            "AES_2": 4.085
+        },
+        "throughput_total": {
+            "AES": 10.255
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx1_AESx2_AESx4": {
+        "BRAM18": 1220,
+        "DSP": 90,
+        "FF": 123534,
+        "LUT": 113655,
+        "throughput": {
+            "AES_0": 2.081,
+            "AES_1": 4.079,
+            "AES_2": 7.835
+        },
+        "throughput_total": {
+            "AES": 13.995
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx1_AESx4_AESx4": {
+        "BRAM18": 1272,
+        "DSP": 108,
+        "FF": 126841,
+        "LUT": 118259,
+        "throughput": {
+            "AES_0": 2.082,
+            "AES_1": 7.849,
+            "AES_2": 7.842
+        },
+        "throughput_total": {
+            "AES": 17.773
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx2_AESx2_AESx2": {
+        "BRAM18": 1194,
+        "DSP": 81,
+        "FF": 122005,
+        "LUT": 111312,
+        "throughput": {
+            "AES_0": 4.082,
+            "AES_1": 4.089,
+            "AES_2": 4.085
+        },
+        "throughput_total": {
+            "AES": 12.256
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx2"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx2_AESx2_AESx4": {
+        "BRAM18": 1246,
+        "DSP": 99,
+        "FF": 125316,
+        "LUT": 116046,
+        "throughput": {
+            "AES_0": 4.071,
+            "AES_1": 4.08,
+            "AES_2": 7.835
+        },
+        "throughput_total": {
+            "AES": 15.986
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx2",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx2_AESx4_AESx4": {
+        "BRAM18": 1298,
+        "DSP": 117,
+        "FF": 128621,
+        "LUT": 120716,
+        "throughput": {
+            "AES_0": 4.067,
+            "AES_1": 7.835,
+            "AES_2": 7.849
+        },
+        "throughput_total": {
+            "AES": 19.751
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_AESx4_AESx4_AESx4": {
+        "BRAM18": 1350,
+        "DSP": 135,
+        "FF": 131930,
+        "LUT": 125364,
+        "throughput": {
+            "AES_0": 7.784,
+            "AES_1": 7.799,
+            "AES_2": 7.792
+        },
+        "throughput_total": {
+            "AES": 23.375
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "AESx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "AESx4",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "AESx4"
+        }
+    }
+}

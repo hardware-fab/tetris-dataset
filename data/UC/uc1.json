@@ -1,0 +1,7220 @@
+{
+    "DFADDx1_DFADDx1_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 89624,
+        "LUT": 95416,
+        "throughput": {
+            "DFADD_0": 3.802,
+            "DFADD_1": 3.809,
+            "DFADD_2": 3.805
+        },
+        "throughput_total": {
+            "DFADD": 11.416
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx1_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92515,
+        "LUT": 101176,
+        "throughput": {
+            "DFADD_0": 3.726,
+            "DFADD_1": 3.722,
+            "DFADD_2": 7.443
+        },
+        "throughput_total": {
+            "DFADD": 14.891
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx1_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98039,
+        "LUT": 112724,
+        "throughput": {
+            "DFADD_0": 3.64,
+            "DFADD_1": 3.637,
+            "DFADD_2": 14.401
+        },
+        "throughput_total": {
+            "DFADD": 21.678
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx1_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80564,
+        "LUT": 85912,
+        "throughput": {
+            "DFADD_0": 5.611,
+            "DFADD_1": 5.606
+        },
+        "throughput_total": {
+            "DFADD": 11.217
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx1_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 89620,
+        "LUT": 95414,
+        "throughput": {
+            "DFADD_0": 3.805,
+            "DFADD_1": 3.801,
+            "DFADD_2": 3.798
+        },
+        "throughput_total": {
+            "DFADD": 11.404
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx1_DFADDx1_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92512,
+        "LUT": 101191,
+        "throughput": {
+            "DFADD_0": 3.733,
+            "DFADD_1": 3.73,
+            "DFADD_2": 7.473
+        },
+        "throughput_total": {
+            "DFADD": 14.936
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx1_DFADDx1_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98034,
+        "LUT": 112770,
+        "throughput": {
+            "DFADD_0": 3.641,
+            "DFADD_1": 3.637,
+            "DFADD_2": 14.404
+        },
+        "throughput_total": {
+            "DFADD": 21.682
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx1_DFADDx1_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80561,
+        "LUT": 85926,
+        "throughput": {
+            "DFADD_0": 5.603,
+            "DFADD_1": 5.598
+        },
+        "throughput_total": {
+            "DFADD": 11.201
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx1_DFADDx1_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 87876,
+        "LUT": 90038,
+        "throughput": {
+            "DFADD_0": 6.188,
+            "DFADD_1": 6.75
+        },
+        "throughput_total": {
+            "DFADD": 12.938
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx2_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92515,
+        "LUT": 101223,
+        "throughput": {
+            "DFADD_0": 3.721,
+            "DFADD_1": 7.456,
+            "DFADD_2": 3.725
+        },
+        "throughput_total": {
+            "DFADD": 14.902
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx2_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95404,
+        "LUT": 106893,
+        "throughput": {
+            "DFADD_0": 3.675,
+            "DFADD_1": 7.309,
+            "DFADD_2": 7.302
+        },
+        "throughput_total": {
+            "DFADD": 18.286
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx2_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100929,
+        "LUT": 118424,
+        "throughput": {
+            "DFADD_0": 3.589,
+            "DFADD_1": 7.133,
+            "DFADD_2": 14.135
+        },
+        "throughput_total": {
+            "DFADD": 24.857
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx2_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91641,
+        "throughput": {
+            "DFADD_0": 5.414,
+            "DFADD_1": 10.785
+        },
+        "throughput_total": {
+            "DFADD": 16.199
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx2_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92512,
+        "LUT": 101203,
+        "throughput": {
+            "DFADD_0": 3.727,
+            "DFADD_1": 7.467,
+            "DFADD_2": 3.73
+        },
+        "throughput_total": {
+            "DFADD": 14.924
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx1_DFADDx2_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95402,
+        "LUT": 106829,
+        "throughput": {
+            "DFADD_0": 3.657,
+            "DFADD_1": 7.328,
+            "DFADD_2": 7.321
+        },
+        "throughput_total": {
+            "DFADD": 18.306
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx1_DFADDx2_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100925,
+        "LUT": 118510,
+        "throughput": {
+            "DFADD_0": 3.586,
+            "DFADD_1": 7.136,
+            "DFADD_2": 14.161
+        },
+        "throughput_total": {
+            "DFADD": 24.883
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx1_DFADDx2_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83451,
+        "LUT": 91610,
+        "throughput": {
+            "DFADD_0": 5.462,
+            "DFADD_1": 10.861
+        },
+        "throughput_total": {
+            "DFADD": 16.323
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx1_DFADDx2_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90766,
+        "LUT": 95928,
+        "throughput": {
+            "DFADD_0": 6.386,
+            "DFADD_1": 12.782
+        },
+        "throughput_total": {
+            "DFADD": 19.168
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx4_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98039,
+        "LUT": 112759,
+        "throughput": {
+            "DFADD_0": 3.639,
+            "DFADD_1": 14.41,
+            "DFADD_2": 3.642
+        },
+        "throughput_total": {
+            "DFADD": 21.691
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx4_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100930,
+        "LUT": 118495,
+        "throughput": {
+            "DFADD_0": 3.588,
+            "DFADD_1": 14.12,
+            "DFADD_2": 7.147
+        },
+        "throughput_total": {
+            "DFADD": 24.855
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx4_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106453,
+        "LUT": 130054,
+        "throughput": {
+            "DFADD_0": 3.481,
+            "DFADD_1": 13.756,
+            "DFADD_2": 13.743
+        },
+        "throughput_total": {
+            "DFADD": 30.98
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx4_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103281,
+        "throughput": {
+            "DFADD_0": 5.227,
+            "DFADD_1": 20.615
+        },
+        "throughput_total": {
+            "DFADD": 25.842
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_DFADDx4_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98034,
+        "LUT": 112725,
+        "throughput": {
+            "DFADD_0": 3.637,
+            "DFADD_1": 14.397,
+            "DFADD_2": 3.64
+        },
+        "throughput_total": {
+            "DFADD": 21.674
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx1_DFADDx4_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100925,
+        "LUT": 118433,
+        "throughput": {
+            "DFADD_0": 3.586,
+            "DFADD_1": 14.142,
+            "DFADD_2": 7.138
+        },
+        "throughput_total": {
+            "DFADD": 24.866
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx1_DFADDx4_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106449,
+        "LUT": 130159,
+        "throughput": {
+            "DFADD_0": 3.503,
+            "DFADD_1": 13.729,
+            "DFADD_2": 13.754
+        },
+        "throughput_total": {
+            "DFADD": 30.986
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx1_DFADDx4_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88974,
+        "LUT": 103250,
+        "throughput": {
+            "DFADD_0": 5.223,
+            "DFADD_1": 20.628
+        },
+        "throughput_total": {
+            "DFADD": 25.851
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx1_DFADDx4_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96289,
+        "LUT": 107422,
+        "throughput": {
+            "DFADD_0": 5.948,
+            "DFADD_1": 23.682
+        },
+        "throughput_total": {
+            "DFADD": 29.63
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_EMPTY_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80564,
+        "LUT": 85929,
+        "throughput": {
+            "DFADD_0": 5.604,
+            "DFADD_1": 5.598
+        },
+        "throughput_total": {
+            "DFADD": 11.202
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_EMPTY_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91735,
+        "throughput": {
+            "DFADD_0": 5.453,
+            "DFADD_1": 10.86
+        },
+        "throughput_total": {
+            "DFADD": 16.313
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_EMPTY_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103264,
+        "throughput": {
+            "DFADD_0": 5.223,
+            "DFADD_1": 20.633
+        },
+        "throughput_total": {
+            "DFADD": 25.856
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_EMPTY_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71505,
+        "LUT": 76497,
+        "throughput": {
+            "DFADD_0": 6.146
+        },
+        "throughput_total": {
+            "DFADD": 6.146
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_EMPTY_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80561,
+        "LUT": 86012,
+        "throughput": {
+            "DFADD_0": 5.611,
+            "DFADD_1": 5.605
+        },
+        "throughput_total": {
+            "DFADD": 11.216
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx1_EMPTY_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83449,
+        "LUT": 91623,
+        "throughput": {
+            "DFADD_0": 5.441,
+            "DFADD_1": 10.836
+        },
+        "throughput_total": {
+            "DFADD": 16.277
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx1_EMPTY_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88974,
+        "LUT": 103191,
+        "throughput": {
+            "DFADD_0": 5.219,
+            "DFADD_1": 20.61
+        },
+        "throughput_total": {
+            "DFADD": 25.829
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx1_EMPTY_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71501,
+        "LUT": 76493,
+        "throughput": {
+            "DFADD_0": 6.366
+        },
+        "throughput_total": {
+            "DFADD": 6.366
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx1_EMPTY_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78815,
+        "LUT": 80614,
+        "throughput": {
+            "DFADD_0": 6.366
+        },
+        "throughput_total": {
+            "DFADD": 6.366
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_MEM_DFADDx1_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 89624,
+        "LUT": 95564,
+        "throughput": {
+            "DFADD_0": 3.807,
+            "DFADD_1": 3.803,
+            "DFADD_2": 3.8
+        },
+        "throughput_total": {
+            "DFADD": 11.41
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx1_MEM_DFADDx1_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92516,
+        "LUT": 101202,
+        "throughput": {
+            "DFADD_0": 3.726,
+            "DFADD_1": 3.722,
+            "DFADD_2": 7.457
+        },
+        "throughput_total": {
+            "DFADD": 14.905
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx1_MEM_DFADDx1_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98039,
+        "LUT": 112859,
+        "throughput": {
+            "DFADD_0": 3.641,
+            "DFADD_1": 3.637,
+            "DFADD_2": 14.405
+        },
+        "throughput_total": {
+            "DFADD": 21.683
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx1_MEM_DFADDx1_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80564,
+        "LUT": 85961,
+        "throughput": {
+            "DFADD_0": 5.596,
+            "DFADD_1": 5.601
+        },
+        "throughput_total": {
+            "DFADD": 11.197
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx1_MEM_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 87884,
+        "LUT": 90097,
+        "throughput": {
+            "DFADD_0": 6.472,
+            "DFADD_1": 6.75
+        },
+        "throughput_total": {
+            "DFADD": 13.222
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_MEM_DFADDx2_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92516,
+        "LUT": 101214,
+        "throughput": {
+            "DFADD_0": 3.736,
+            "DFADD_1": 7.45,
+            "DFADD_2": 3.739
+        },
+        "throughput_total": {
+            "DFADD": 14.925
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx1_MEM_DFADDx2_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95406,
+        "LUT": 106893,
+        "throughput": {
+            "DFADD_0": 3.657,
+            "DFADD_1": 7.328,
+            "DFADD_2": 7.321
+        },
+        "throughput_total": {
+            "DFADD": 18.306
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx1_MEM_DFADDx2_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100930,
+        "LUT": 118667,
+        "throughput": {
+            "DFADD_0": 3.581,
+            "DFADD_1": 7.128,
+            "DFADD_2": 14.146
+        },
+        "throughput_total": {
+            "DFADD": 24.855
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx1_MEM_DFADDx2_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83453,
+        "LUT": 91679,
+        "throughput": {
+            "DFADD_0": 5.453,
+            "DFADD_1": 10.862
+        },
+        "throughput_total": {
+            "DFADD": 16.315
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx1_MEM_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90775,
+        "LUT": 95860,
+        "throughput": {
+            "DFADD_0": 6.425,
+            "DFADD_1": 12.756
+        },
+        "throughput_total": {
+            "DFADD": 19.181
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_MEM_DFADDx4_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98039,
+        "LUT": 112817,
+        "throughput": {
+            "DFADD_0": 3.638,
+            "DFADD_1": 14.403,
+            "DFADD_2": 3.641
+        },
+        "throughput_total": {
+            "DFADD": 21.682
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx1_MEM_DFADDx4_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100928,
+        "LUT": 118535,
+        "throughput": {
+            "DFADD_0": 3.582,
+            "DFADD_1": 14.147,
+            "DFADD_2": 7.147
+        },
+        "throughput_total": {
+            "DFADD": 24.876
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx1_MEM_DFADDx4_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106452,
+        "LUT": 130248,
+        "throughput": {
+            "DFADD_0": 3.505,
+            "DFADD_1": 13.737,
+            "DFADD_2": 13.763
+        },
+        "throughput_total": {
+            "DFADD": 31.005
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx1_MEM_DFADDx4_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103234,
+        "throughput": {
+            "DFADD_0": 5.222,
+            "DFADD_1": 20.623
+        },
+        "throughput_total": {
+            "DFADD": 25.845
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx1_MEM_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96298,
+        "LUT": 107480,
+        "throughput": {
+            "DFADD_0": 6.481,
+            "DFADD_1": 23.498
+        },
+        "throughput_total": {
+            "DFADD": 29.979
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_MEM_EMPTY_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80564,
+        "LUT": 85978,
+        "throughput": {
+            "DFADD_0": 5.61,
+            "DFADD_1": 5.605
+        },
+        "throughput_total": {
+            "DFADD": 11.215
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx1_MEM_EMPTY_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83453,
+        "LUT": 91829,
+        "throughput": {
+            "DFADD_0": 5.443,
+            "DFADD_1": 10.821
+        },
+        "throughput_total": {
+            "DFADD": 16.264
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx1_MEM_EMPTY_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103195,
+        "throughput": {
+            "DFADD_0": 5.223,
+            "DFADD_1": 20.62
+        },
+        "throughput_total": {
+            "DFADD": 25.843
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx1_MEM_EMPTY_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71505,
+        "LUT": 76569,
+        "throughput": {
+            "DFADD_0": 6.241
+        },
+        "throughput_total": {
+            "DFADD": 6.241
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx1_MEM_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78825,
+        "LUT": 80683,
+        "throughput": {
+            "DFADD_0": 6.241
+        },
+        "throughput_total": {
+            "DFADD": 6.241
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx1_MEM_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 87886,
+        "LUT": 90067,
+        "throughput": {
+            "DFADD_0": 6.472,
+            "DFADD_1": 6.749
+        },
+        "throughput_total": {
+            "DFADD": 13.221
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx1_MEM_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90777,
+        "LUT": 95865,
+        "throughput": {
+            "DFADD_0": 6.435,
+            "DFADD_1": 12.787
+        },
+        "throughput_total": {
+            "DFADD": 19.222
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx1_MEM_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96299,
+        "LUT": 107451,
+        "throughput": {
+            "DFADD_0": 6.483,
+            "DFADD_1": 23.666
+        },
+        "throughput_total": {
+            "DFADD": 30.149
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx1_MEM_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78828,
+        "LUT": 80632,
+        "throughput": {
+            "DFADD_0": 6.241
+        },
+        "throughput_total": {
+            "DFADD": 6.241
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx1",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx2_DFADDx1_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92515,
+        "LUT": 101167,
+        "throughput": {
+            "DFADD_0": 7.441,
+            "DFADD_1": 3.727,
+            "DFADD_2": 3.724
+        },
+        "throughput_total": {
+            "DFADD": 14.892
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx1_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95406,
+        "LUT": 106948,
+        "throughput": {
+            "DFADD_0": 7.313,
+            "DFADD_1": 3.678,
+            "DFADD_2": 7.299
+        },
+        "throughput_total": {
+            "DFADD": 18.29
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx1_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100930,
+        "LUT": 118539,
+        "throughput": {
+            "DFADD_0": 7.151,
+            "DFADD_1": 3.591,
+            "DFADD_2": 14.126
+        },
+        "throughput_total": {
+            "DFADD": 24.868
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx1_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91706,
+        "throughput": {
+            "DFADD_0": 10.861,
+            "DFADD_1": 5.426
+        },
+        "throughput_total": {
+            "DFADD": 16.287
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx1_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92512,
+        "LUT": 101319,
+        "throughput": {
+            "DFADD_0": 7.445,
+            "DFADD_1": 3.74,
+            "DFADD_2": 3.737
+        },
+        "throughput_total": {
+            "DFADD": 14.922
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx2_DFADDx1_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95403,
+        "LUT": 106971,
+        "throughput": {
+            "DFADD_0": 7.334,
+            "DFADD_1": 3.664,
+            "DFADD_2": 7.321
+        },
+        "throughput_total": {
+            "DFADD": 18.319
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx2_DFADDx1_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100926,
+        "LUT": 118528,
+        "throughput": {
+            "DFADD_0": 7.151,
+            "DFADD_1": 3.573,
+            "DFADD_2": 14.145
+        },
+        "throughput_total": {
+            "DFADD": 24.869
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx2_DFADDx1_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83451,
+        "LUT": 91615,
+        "throughput": {
+            "DFADD_0": 10.866,
+            "DFADD_1": 5.455
+        },
+        "throughput_total": {
+            "DFADD": 16.321
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx2_DFADDx1_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90767,
+        "LUT": 95725,
+        "throughput": {
+            "DFADD_0": 11.837,
+            "DFADD_1": 6.727
+        },
+        "throughput_total": {
+            "DFADD": 18.564
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx2_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95406,
+        "LUT": 106867,
+        "throughput": {
+            "DFADD_0": 7.301,
+            "DFADD_1": 7.294,
+            "DFADD_2": 3.683
+        },
+        "throughput_total": {
+            "DFADD": 18.278
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx2_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98297,
+        "LUT": 112582,
+        "throughput": {
+            "DFADD_0": 7.183,
+            "DFADD_1": 7.176,
+            "DFADD_2": 7.169
+        },
+        "throughput_total": {
+            "DFADD": 21.528
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx2_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103821,
+        "LUT": 124268,
+        "throughput": {
+            "DFADD_0": 6.977,
+            "DFADD_1": 6.97,
+            "DFADD_2": 13.928
+        },
+        "throughput_total": {
+            "DFADD": 27.875
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx2_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86346,
+        "LUT": 97415,
+        "throughput": {
+            "DFADD_0": 10.559,
+            "DFADD_1": 10.55
+        },
+        "throughput_total": {
+            "DFADD": 21.109
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx2_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95403,
+        "LUT": 106845,
+        "throughput": {
+            "DFADD_0": 7.3,
+            "DFADD_1": 7.293,
+            "DFADD_2": 3.682
+        },
+        "throughput_total": {
+            "DFADD": 18.275
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx2_DFADDx2_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98294,
+        "LUT": 112540,
+        "throughput": {
+            "DFADD_0": 7.18,
+            "DFADD_1": 7.193,
+            "DFADD_2": 7.186
+        },
+        "throughput_total": {
+            "DFADD": 21.559
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx2_DFADDx2_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103817,
+        "LUT": 124163,
+        "throughput": {
+            "DFADD_0": 6.985,
+            "DFADD_1": 6.998,
+            "DFADD_2": 13.983
+        },
+        "throughput_total": {
+            "DFADD": 27.966
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx2_DFADDx2_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86343,
+        "LUT": 97489,
+        "throughput": {
+            "DFADD_0": 10.496,
+            "DFADD_1": 10.506
+        },
+        "throughput_total": {
+            "DFADD": 21.002
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx2_DFADDx2_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 93658,
+        "LUT": 101467,
+        "throughput": {
+            "DFADD_0": 11.829,
+            "DFADD_1": 12.697
+        },
+        "throughput_total": {
+            "DFADD": 24.526
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx4_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100930,
+        "LUT": 118554,
+        "throughput": {
+            "DFADD_0": 7.124,
+            "DFADD_1": 14.171,
+            "DFADD_2": 3.591
+        },
+        "throughput_total": {
+            "DFADD": 24.886
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx4_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103821,
+        "LUT": 124265,
+        "throughput": {
+            "DFADD_0": 7.006,
+            "DFADD_1": 13.879,
+            "DFADD_2": 7.013
+        },
+        "throughput_total": {
+            "DFADD": 27.898
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx4_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109344,
+        "LUT": 135809,
+        "throughput": {
+            "DFADD_0": 6.807,
+            "DFADD_1": 13.54,
+            "DFADD_2": 13.527
+        },
+        "throughput_total": {
+            "DFADD": 33.874
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx4_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91870,
+        "LUT": 108962,
+        "throughput": {
+            "DFADD_0": 10.089,
+            "DFADD_1": 20.016
+        },
+        "throughput_total": {
+            "DFADD": 30.105
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_DFADDx4_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100926,
+        "LUT": 118479,
+        "throughput": {
+            "DFADD_0": 7.137,
+            "DFADD_1": 14.142,
+            "DFADD_2": 3.591
+        },
+        "throughput_total": {
+            "DFADD": 24.87
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx2_DFADDx4_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103817,
+        "LUT": 124327,
+        "throughput": {
+            "DFADD_0": 6.98,
+            "DFADD_1": 13.985,
+            "DFADD_2": 6.986
+        },
+        "throughput_total": {
+            "DFADD": 27.951
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx2_DFADDx4_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109339,
+        "LUT": 135860,
+        "throughput": {
+            "DFADD_0": 6.806,
+            "DFADD_1": 13.537,
+            "DFADD_2": 13.524
+        },
+        "throughput_total": {
+            "DFADD": 33.867
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx2_DFADDx4_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91865,
+        "LUT": 108985,
+        "throughput": {
+            "DFADD_0": 10.086,
+            "DFADD_1": 20.01
+        },
+        "throughput_total": {
+            "DFADD": 30.096
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx2_DFADDx4_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99180,
+        "LUT": 113200,
+        "throughput": {
+            "DFADD_0": 11.798,
+            "DFADD_1": 23.618
+        },
+        "throughput_total": {
+            "DFADD": 35.416
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_EMPTY_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91717,
+        "throughput": {
+            "DFADD_0": 10.825,
+            "DFADD_1": 5.461
+        },
+        "throughput_total": {
+            "DFADD": 16.286
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_EMPTY_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86346,
+        "LUT": 97407,
+        "throughput": {
+            "DFADD_0": 10.56,
+            "DFADD_1": 10.55
+        },
+        "throughput_total": {
+            "DFADD": 21.11
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_EMPTY_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91870,
+        "LUT": 108901,
+        "throughput": {
+            "DFADD_0": 10.099,
+            "DFADD_1": 19.999
+        },
+        "throughput_total": {
+            "DFADD": 30.098
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_EMPTY_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74395,
+        "LUT": 82308,
+        "throughput": {
+            "DFADD_0": 11.988
+        },
+        "throughput_total": {
+            "DFADD": 11.988
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_EMPTY_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83451,
+        "LUT": 91604,
+        "throughput": {
+            "DFADD_0": 10.826,
+            "DFADD_1": 5.461
+        },
+        "throughput_total": {
+            "DFADD": 16.287
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx2_EMPTY_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86343,
+        "LUT": 97430,
+        "throughput": {
+            "DFADD_0": 10.581,
+            "DFADD_1": 10.591
+        },
+        "throughput_total": {
+            "DFADD": 21.172
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx2_EMPTY_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91865,
+        "LUT": 108881,
+        "throughput": {
+            "DFADD_0": 10.095,
+            "DFADD_1": 19.993
+        },
+        "throughput_total": {
+            "DFADD": 30.088
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx2_EMPTY_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74392,
+        "LUT": 82322,
+        "throughput": {
+            "DFADD_0": 11.679
+        },
+        "throughput_total": {
+            "DFADD": 11.679
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx2_EMPTY_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81706,
+        "LUT": 86254,
+        "throughput": {
+            "DFADD_0": 11.679
+        },
+        "throughput_total": {
+            "DFADD": 11.679
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_MEM_DFADDx1_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92516,
+        "LUT": 101153,
+        "throughput": {
+            "DFADD_0": 7.455,
+            "DFADD_1": 3.725,
+            "DFADD_2": 3.721
+        },
+        "throughput_total": {
+            "DFADD": 14.901
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx2_MEM_DFADDx1_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95405,
+        "LUT": 106892,
+        "throughput": {
+            "DFADD_0": 7.322,
+            "DFADD_1": 3.667,
+            "DFADD_2": 7.329
+        },
+        "throughput_total": {
+            "DFADD": 18.318
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx2_MEM_DFADDx1_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100930,
+        "LUT": 118517,
+        "throughput": {
+            "DFADD_0": 7.156,
+            "DFADD_1": 3.589,
+            "DFADD_2": 14.118
+        },
+        "throughput_total": {
+            "DFADD": 24.863
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx2_MEM_DFADDx1_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91655,
+        "throughput": {
+            "DFADD_0": 10.857,
+            "DFADD_1": 5.46
+        },
+        "throughput_total": {
+            "DFADD": 16.317
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx2_MEM_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90775,
+        "LUT": 95773,
+        "throughput": {
+            "DFADD_0": 12.292,
+            "DFADD_1": 6.737
+        },
+        "throughput_total": {
+            "DFADD": 19.029
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_MEM_DFADDx2_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95407,
+        "LUT": 106942,
+        "throughput": {
+            "DFADD_0": 7.296,
+            "DFADD_1": 7.29,
+            "DFADD_2": 3.671
+        },
+        "throughput_total": {
+            "DFADD": 18.257
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx2_MEM_DFADDx2_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98298,
+        "LUT": 112717,
+        "throughput": {
+            "DFADD_0": 7.163,
+            "DFADD_1": 7.176,
+            "DFADD_2": 7.169
+        },
+        "throughput_total": {
+            "DFADD": 21.508
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx2_MEM_DFADDx2_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103821,
+        "LUT": 124250,
+        "throughput": {
+            "DFADD_0": 6.973,
+            "DFADD_1": 6.966,
+            "DFADD_2": 13.92
+        },
+        "throughput_total": {
+            "DFADD": 27.859
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx2_MEM_DFADDx2_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86345,
+        "LUT": 97480,
+        "throughput": {
+            "DFADD_0": 10.561,
+            "DFADD_1": 10.551
+        },
+        "throughput_total": {
+            "DFADD": 21.112
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx2_MEM_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 93664,
+        "LUT": 101707,
+        "throughput": {
+            "DFADD_0": 12.31,
+            "DFADD_1": 12.723
+        },
+        "throughput_total": {
+            "DFADD": 25.033
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_MEM_DFADDx4_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100930,
+        "LUT": 118542,
+        "throughput": {
+            "DFADD_0": 7.117,
+            "DFADD_1": 14.185,
+            "DFADD_2": 3.59
+        },
+        "throughput_total": {
+            "DFADD": 24.892
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx2_MEM_DFADDx4_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103821,
+        "LUT": 124197,
+        "throughput": {
+            "DFADD_0": 6.994,
+            "DFADD_1": 13.974,
+            "DFADD_2": 6.981
+        },
+        "throughput_total": {
+            "DFADD": 27.949
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx2_MEM_DFADDx4_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109341,
+        "LUT": 135905,
+        "throughput": {
+            "DFADD_0": 6.805,
+            "DFADD_1": 13.537,
+            "DFADD_2": 13.524
+        },
+        "throughput_total": {
+            "DFADD": 33.866
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx2_MEM_DFADDx4_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91870,
+        "LUT": 108957,
+        "throughput": {
+            "DFADD_0": 10.091,
+            "DFADD_1": 20.02
+        },
+        "throughput_total": {
+            "DFADD": 30.111
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx2_MEM_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99189,
+        "LUT": 113166,
+        "throughput": {
+            "DFADD_0": 12.175,
+            "DFADD_1": 23.594
+        },
+        "throughput_total": {
+            "DFADD": 35.769
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_MEM_EMPTY_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91713,
+        "throughput": {
+            "DFADD_0": 10.758,
+            "DFADD_1": 5.426
+        },
+        "throughput_total": {
+            "DFADD": 16.184
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx2_MEM_EMPTY_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86345,
+        "LUT": 97411,
+        "throughput": {
+            "DFADD_0": 10.476,
+            "DFADD_1": 10.467
+        },
+        "throughput_total": {
+            "DFADD": 20.943
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx2_MEM_EMPTY_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91870,
+        "LUT": 108944,
+        "throughput": {
+            "DFADD_0": 10.086,
+            "DFADD_1": 20.011
+        },
+        "throughput_total": {
+            "DFADD": 30.097
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx2_MEM_EMPTY_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74396,
+        "LUT": 82222,
+        "throughput": {
+            "DFADD_0": 11.909
+        },
+        "throughput_total": {
+            "DFADD": 11.909
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx2_MEM_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81716,
+        "LUT": 86298,
+        "throughput": {
+            "DFADD_0": 11.909
+        },
+        "throughput_total": {
+            "DFADD": 11.909
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx2_MEM_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90777,
+        "LUT": 95896,
+        "throughput": {
+            "DFADD_0": 12.352,
+            "DFADD_1": 6.724
+        },
+        "throughput_total": {
+            "DFADD": 19.076
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx2_MEM_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 93668,
+        "LUT": 101678,
+        "throughput": {
+            "DFADD_0": 12.322,
+            "DFADD_1": 12.758
+        },
+        "throughput_total": {
+            "DFADD": 25.08
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx2_MEM_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99191,
+        "LUT": 113168,
+        "throughput": {
+            "DFADD_0": 12.188,
+            "DFADD_1": 23.578
+        },
+        "throughput_total": {
+            "DFADD": 35.766
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx2_MEM_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81717,
+        "LUT": 86343,
+        "throughput": {
+            "DFADD_0": 11.909
+        },
+        "throughput_total": {
+            "DFADD": 11.909
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx2",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx4_DFADDx1_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98038,
+        "LUT": 112829,
+        "throughput": {
+            "DFADD_0": 14.397,
+            "DFADD_1": 3.649,
+            "DFADD_2": 3.646
+        },
+        "throughput_total": {
+            "DFADD": 21.692
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx1_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100930,
+        "LUT": 118497,
+        "throughput": {
+            "DFADD_0": 14.125,
+            "DFADD_1": 3.589,
+            "DFADD_2": 7.159
+        },
+        "throughput_total": {
+            "DFADD": 24.873
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx1_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106453,
+        "LUT": 130072,
+        "throughput": {
+            "DFADD_0": 13.811,
+            "DFADD_1": 3.501,
+            "DFADD_2": 13.785
+        },
+        "throughput_total": {
+            "DFADD": 31.097
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx1_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103223,
+        "throughput": {
+            "DFADD_0": 20.613,
+            "DFADD_1": 5.221
+        },
+        "throughput_total": {
+            "DFADD": 25.834
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx1_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98035,
+        "LUT": 112762,
+        "throughput": {
+            "DFADD_0": 14.39,
+            "DFADD_1": 3.646,
+            "DFADD_2": 3.642
+        },
+        "throughput_total": {
+            "DFADD": 21.678
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx4_DFADDx1_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100926,
+        "LUT": 118443,
+        "throughput": {
+            "DFADD_0": 14.155,
+            "DFADD_1": 3.584,
+            "DFADD_2": 7.152
+        },
+        "throughput_total": {
+            "DFADD": 24.891
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx4_DFADDx1_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106448,
+        "LUT": 130277,
+        "throughput": {
+            "DFADD_0": 13.754,
+            "DFADD_1": 3.515,
+            "DFADD_2": 13.767
+        },
+        "throughput_total": {
+            "DFADD": 31.036
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx4_DFADDx1_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88975,
+        "LUT": 103186,
+        "throughput": {
+            "DFADD_0": 20.612,
+            "DFADD_1": 5.221
+        },
+        "throughput_total": {
+            "DFADD": 25.833
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx4_DFADDx1_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96289,
+        "LUT": 107496,
+        "throughput": {
+            "DFADD_0": 22.169,
+            "DFADD_1": 6.728
+        },
+        "throughput_total": {
+            "DFADD": 28.897
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx2_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100930,
+        "LUT": 118475,
+        "throughput": {
+            "DFADD_0": 14.132,
+            "DFADD_1": 7.151,
+            "DFADD_2": 3.591
+        },
+        "throughput_total": {
+            "DFADD": 24.874
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx2_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103821,
+        "LUT": 124197,
+        "throughput": {
+            "DFADD_0": 13.962,
+            "DFADD_1": 6.975,
+            "DFADD_2": 6.969
+        },
+        "throughput_total": {
+            "DFADD": 27.906
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx2_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109344,
+        "LUT": 135853,
+        "throughput": {
+            "DFADD_0": 13.532,
+            "DFADD_1": 6.832,
+            "DFADD_2": 13.507
+        },
+        "throughput_total": {
+            "DFADD": 33.871
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx2_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91869,
+        "LUT": 108979,
+        "throughput": {
+            "DFADD_0": 20.006,
+            "DFADD_1": 10.102
+        },
+        "throughput_total": {
+            "DFADD": 30.108
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx2_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100926,
+        "LUT": 118405,
+        "throughput": {
+            "DFADD_0": 14.118,
+            "DFADD_1": 7.156,
+            "DFADD_2": 3.592
+        },
+        "throughput_total": {
+            "DFADD": 24.866
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx4_DFADDx2_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103817,
+        "LUT": 124135,
+        "throughput": {
+            "DFADD_0": 13.905,
+            "DFADD_1": 7.007,
+            "DFADD_2": 7.0
+        },
+        "throughput_total": {
+            "DFADD": 27.912
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx4_DFADDx2_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109339,
+        "LUT": 135886,
+        "throughput": {
+            "DFADD_0": 13.54,
+            "DFADD_1": 6.819,
+            "DFADD_2": 13.515
+        },
+        "throughput_total": {
+            "DFADD": 33.874
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx4_DFADDx2_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91866,
+        "LUT": 109109,
+        "throughput": {
+            "DFADD_0": 19.998,
+            "DFADD_1": 10.098
+        },
+        "throughput_total": {
+            "DFADD": 30.096
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx4_DFADDx2_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99180,
+        "LUT": 113078,
+        "throughput": {
+            "DFADD_0": 22.314,
+            "DFADD_1": 12.739
+        },
+        "throughput_total": {
+            "DFADD": 35.053
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx4_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106453,
+        "LUT": 130149,
+        "throughput": {
+            "DFADD_0": 13.791,
+            "DFADD_1": 13.778,
+            "DFADD_2": 3.475
+        },
+        "throughput_total": {
+            "DFADD": 31.044
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx4_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109342,
+        "LUT": 135787,
+        "throughput": {
+            "DFADD_0": 13.501,
+            "DFADD_1": 13.488,
+            "DFADD_2": 6.757
+        },
+        "throughput_total": {
+            "DFADD": 33.746
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx4_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 135,
+        "FF": 114866,
+        "LUT": 147517,
+        "throughput": {
+            "DFADD_0": 13.191,
+            "DFADD_1": 13.179,
+            "DFADD_2": 13.167
+        },
+        "throughput_total": {
+            "DFADD": 39.537
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx4_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97393,
+        "LUT": 120564,
+        "throughput": {
+            "DFADD_0": 19.216,
+            "DFADD_1": 19.234
+        },
+        "throughput_total": {
+            "DFADD": 38.45
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_DFADDx4_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106448,
+        "LUT": 130090,
+        "throughput": {
+            "DFADD_0": 13.763,
+            "DFADD_1": 13.751,
+            "DFADD_2": 3.493
+        },
+        "throughput_total": {
+            "DFADD": 31.007
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx4_DFADDx4_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109337,
+        "LUT": 135790,
+        "throughput": {
+            "DFADD_0": 13.534,
+            "DFADD_1": 13.521,
+            "DFADD_2": 6.815
+        },
+        "throughput_total": {
+            "DFADD": 33.87
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx4_DFADDx4_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 135,
+        "FF": 114863,
+        "LUT": 147327,
+        "throughput": {
+            "DFADD_0": 13.181,
+            "DFADD_1": 13.169,
+            "DFADD_2": 13.157
+        },
+        "throughput_total": {
+            "DFADD": 39.507
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx4_DFADDx4_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97389,
+        "LUT": 120557,
+        "throughput": {
+            "DFADD_0": 19.24,
+            "DFADD_1": 19.223
+        },
+        "throughput_total": {
+            "DFADD": 38.463
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx4_DFADDx4_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 104703,
+        "LUT": 124816,
+        "throughput": {
+            "DFADD_0": 21.813,
+            "DFADD_1": 23.226
+        },
+        "throughput_total": {
+            "DFADD": 45.039
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_EMPTY_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103282,
+        "throughput": {
+            "DFADD_0": 20.618,
+            "DFADD_1": 5.223
+        },
+        "throughput_total": {
+            "DFADD": 25.841
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_EMPTY_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91869,
+        "LUT": 108995,
+        "throughput": {
+            "DFADD_0": 20.006,
+            "DFADD_1": 10.102
+        },
+        "throughput_total": {
+            "DFADD": 30.108
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_EMPTY_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97393,
+        "LUT": 120601,
+        "throughput": {
+            "DFADD_0": 19.216,
+            "DFADD_1": 19.234
+        },
+        "throughput_total": {
+            "DFADD": 38.45
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_EMPTY_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79919,
+        "LUT": 93738,
+        "throughput": {
+            "DFADD_0": 21.621
+        },
+        "throughput_total": {
+            "DFADD": 21.621
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_EMPTY_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88975,
+        "LUT": 103316,
+        "throughput": {
+            "DFADD_0": 20.602,
+            "DFADD_1": 5.227
+        },
+        "throughput_total": {
+            "DFADD": 25.829
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx4_EMPTY_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91866,
+        "LUT": 109036,
+        "throughput": {
+            "DFADD_0": 20.103,
+            "DFADD_1": 10.136
+        },
+        "throughput_total": {
+            "DFADD": 30.239
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx4_EMPTY_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97389,
+        "LUT": 120545,
+        "throughput": {
+            "DFADD_0": 19.232,
+            "DFADD_1": 19.214
+        },
+        "throughput_total": {
+            "DFADD": 38.446
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx4_EMPTY_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79915,
+        "LUT": 93791,
+        "throughput": {
+            "DFADD_0": 21.538
+        },
+        "throughput_total": {
+            "DFADD": 21.538
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx4_EMPTY_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87229,
+        "LUT": 97901,
+        "throughput": {
+            "DFADD_0": 21.538
+        },
+        "throughput_total": {
+            "DFADD": 21.538
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_MEM_DFADDx1_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98039,
+        "LUT": 112848,
+        "throughput": {
+            "DFADD_0": 14.397,
+            "DFADD_1": 3.649,
+            "DFADD_2": 3.646
+        },
+        "throughput_total": {
+            "DFADD": 21.692
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx4_MEM_DFADDx1_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100928,
+        "LUT": 118411,
+        "throughput": {
+            "DFADD_0": 14.147,
+            "DFADD_1": 3.587,
+            "DFADD_2": 7.152
+        },
+        "throughput_total": {
+            "DFADD": 24.886
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx4_MEM_DFADDx1_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106452,
+        "LUT": 130210,
+        "throughput": {
+            "DFADD_0": 13.78,
+            "DFADD_1": 3.512,
+            "DFADD_2": 13.754
+        },
+        "throughput_total": {
+            "DFADD": 31.046
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx4_MEM_DFADDx1_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103317,
+        "throughput": {
+            "DFADD_0": 20.628,
+            "DFADD_1": 5.225
+        },
+        "throughput_total": {
+            "DFADD": 25.853
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx4_MEM_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96303,
+        "LUT": 107679,
+        "throughput": {
+            "DFADD_0": 22.106,
+            "DFADD_1": 6.748
+        },
+        "throughput_total": {
+            "DFADD": 28.854
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_MEM_DFADDx2_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100928,
+        "LUT": 118479,
+        "throughput": {
+            "DFADD_0": 14.129,
+            "DFADD_1": 7.154,
+            "DFADD_2": 3.59
+        },
+        "throughput_total": {
+            "DFADD": 24.873
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx4_MEM_DFADDx2_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103819,
+        "LUT": 124185,
+        "throughput": {
+            "DFADD_0": 13.911,
+            "DFADD_1": 7.006,
+            "DFADD_2": 7.0
+        },
+        "throughput_total": {
+            "DFADD": 27.917
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx4_MEM_DFADDx2_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109343,
+        "LUT": 135891,
+        "throughput": {
+            "DFADD_0": 13.585,
+            "DFADD_1": 6.787,
+            "DFADD_2": 13.56
+        },
+        "throughput_total": {
+            "DFADD": 33.932
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx4_MEM_DFADDx2_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91868,
+        "LUT": 109003,
+        "throughput": {
+            "DFADD_0": 20.006,
+            "DFADD_1": 10.102
+        },
+        "throughput_total": {
+            "DFADD": 30.108
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx4_MEM_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99189,
+        "LUT": 113248,
+        "throughput": {
+            "DFADD_0": 22.183,
+            "DFADD_1": 12.76
+        },
+        "throughput_total": {
+            "DFADD": 34.943
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_MEM_DFADDx4_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106452,
+        "LUT": 130078,
+        "throughput": {
+            "DFADD_0": 13.754,
+            "DFADD_1": 13.741,
+            "DFADD_2": 3.485
+        },
+        "throughput_total": {
+            "DFADD": 30.98
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx4_MEM_DFADDx4_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109341,
+        "LUT": 135874,
+        "throughput": {
+            "DFADD_0": 13.489,
+            "DFADD_1": 13.476,
+            "DFADD_2": 6.845
+        },
+        "throughput_total": {
+            "DFADD": 33.81
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx4_MEM_DFADDx4_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 135,
+        "FF": 114867,
+        "LUT": 147612,
+        "throughput": {
+            "DFADD_0": 13.166,
+            "DFADD_1": 13.154,
+            "DFADD_2": 13.142
+        },
+        "throughput_total": {
+            "DFADD": 39.462
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx4_MEM_DFADDx4_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97393,
+        "LUT": 120542,
+        "throughput": {
+            "DFADD_0": 19.313,
+            "DFADD_1": 19.295
+        },
+        "throughput_total": {
+            "DFADD": 38.608
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx4_MEM_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 104712,
+        "LUT": 124780,
+        "throughput": {
+            "DFADD_0": 22.314,
+            "DFADD_1": 23.35
+        },
+        "throughput_total": {
+            "DFADD": 45.664
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_MEM_EMPTY_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103242,
+        "throughput": {
+            "DFADD_0": 20.606,
+            "DFADD_1": 5.219
+        },
+        "throughput_total": {
+            "DFADD": 25.825
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx4_MEM_EMPTY_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91868,
+        "LUT": 109001,
+        "throughput": {
+            "DFADD_0": 19.967,
+            "DFADD_1": 10.083
+        },
+        "throughput_total": {
+            "DFADD": 30.05
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx4_MEM_EMPTY_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97393,
+        "LUT": 120622,
+        "throughput": {
+            "DFADD_0": 19.303,
+            "DFADD_1": 19.285
+        },
+        "throughput_total": {
+            "DFADD": 38.588
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx4_MEM_EMPTY_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79919,
+        "LUT": 93853,
+        "throughput": {
+            "DFADD_0": 21.869
+        },
+        "throughput_total": {
+            "DFADD": 21.869
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "DFADDx4_MEM_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87239,
+        "LUT": 97871,
+        "throughput": {
+            "DFADD_0": 21.869
+        },
+        "throughput_total": {
+            "DFADD": 21.869
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "DFADDx4_MEM_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96300,
+        "LUT": 107380,
+        "throughput": {
+            "DFADD_0": 22.174,
+            "DFADD_1": 6.73
+        },
+        "throughput_total": {
+            "DFADD": 28.904
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "DFADDx4_MEM_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99191,
+        "LUT": 113150,
+        "throughput": {
+            "DFADD_0": 22.534,
+            "DFADD_1": 12.792
+        },
+        "throughput_total": {
+            "DFADD": 35.326
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "DFADDx4_MEM_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 104713,
+        "LUT": 124574,
+        "throughput": {
+            "DFADD_0": 22.175,
+            "DFADD_1": 23.583
+        },
+        "throughput_total": {
+            "DFADD": 45.758
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "DFADDx4_MEM_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87239,
+        "LUT": 97897,
+        "throughput": {
+            "DFADD_0": 21.869
+        },
+        "throughput_total": {
+            "DFADD": 21.869
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "DFADDx4",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "EMPTY_DFADDx1_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80564,
+        "LUT": 85861,
+        "throughput": {
+            "DFADD_0": 5.604,
+            "DFADD_1": 5.599
+        },
+        "throughput_total": {
+            "DFADD": 11.203
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx1_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91575,
+        "throughput": {
+            "DFADD_0": 5.454,
+            "DFADD_1": 10.862
+        },
+        "throughput_total": {
+            "DFADD": 16.316
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx1_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88978,
+        "LUT": 103217,
+        "throughput": {
+            "DFADD_0": 5.224,
+            "DFADD_1": 20.632
+        },
+        "throughput_total": {
+            "DFADD": 25.856
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx1_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71505,
+        "LUT": 76454,
+        "throughput": {
+            "DFADD_0": 6.265
+        },
+        "throughput_total": {
+            "DFADD": 6.265
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx1_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80561,
+        "LUT": 85999,
+        "throughput": {
+            "DFADD_0": 5.611,
+            "DFADD_1": 5.606
+        },
+        "throughput_total": {
+            "DFADD": 11.217
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "EMPTY_DFADDx1_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83449,
+        "LUT": 91708,
+        "throughput": {
+            "DFADD_0": 5.441,
+            "DFADD_1": 10.838
+        },
+        "throughput_total": {
+            "DFADD": 16.279
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "EMPTY_DFADDx1_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88974,
+        "LUT": 103234,
+        "throughput": {
+            "DFADD_0": 5.225,
+            "DFADD_1": 20.6
+        },
+        "throughput_total": {
+            "DFADD": 25.825
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "EMPTY_DFADDx1_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71501,
+        "LUT": 76373,
+        "throughput": {
+            "DFADD_0": 6.168
+        },
+        "throughput_total": {
+            "DFADD": 6.168
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "EMPTY_DFADDx1_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78815,
+        "LUT": 80676,
+        "throughput": {
+            "DFADD_0": 6.169
+        },
+        "throughput_total": {
+            "DFADD": 6.169
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx2_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91727,
+        "throughput": {
+            "DFADD_0": 10.828,
+            "DFADD_1": 5.461
+        },
+        "throughput_total": {
+            "DFADD": 16.289
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx2_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86347,
+        "LUT": 97461,
+        "throughput": {
+            "DFADD_0": 10.552,
+            "DFADD_1": 10.542
+        },
+        "throughput_total": {
+            "DFADD": 21.094
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx2_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91867,
+        "LUT": 108910,
+        "throughput": {
+            "DFADD_0": 10.091,
+            "DFADD_1": 20.021
+        },
+        "throughput_total": {
+            "DFADD": 30.112
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx2_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74395,
+        "LUT": 82506,
+        "throughput": {
+            "DFADD_0": 11.909
+        },
+        "throughput_total": {
+            "DFADD": 11.909
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx2_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83451,
+        "LUT": 91738,
+        "throughput": {
+            "DFADD_0": 10.826,
+            "DFADD_1": 5.461
+        },
+        "throughput_total": {
+            "DFADD": 16.287
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "EMPTY_DFADDx2_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86342,
+        "LUT": 97416,
+        "throughput": {
+            "DFADD_0": 10.582,
+            "DFADD_1": 10.592
+        },
+        "throughput_total": {
+            "DFADD": 21.174
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "EMPTY_DFADDx2_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91864,
+        "LUT": 108946,
+        "throughput": {
+            "DFADD_0": 10.095,
+            "DFADD_1": 19.993
+        },
+        "throughput_total": {
+            "DFADD": 30.088
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "EMPTY_DFADDx2_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74391,
+        "LUT": 82208,
+        "throughput": {
+            "DFADD_0": 11.739
+        },
+        "throughput_total": {
+            "DFADD": 11.739
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "EMPTY_DFADDx2_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81707,
+        "LUT": 86387,
+        "throughput": {
+            "DFADD_0": 11.988
+        },
+        "throughput_total": {
+            "DFADD": 11.988
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx4_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88978,
+        "LUT": 103201,
+        "throughput": {
+            "DFADD_0": 20.628,
+            "DFADD_1": 5.225
+        },
+        "throughput_total": {
+            "DFADD": 25.853
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx4_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91869,
+        "LUT": 108959,
+        "throughput": {
+            "DFADD_0": 20.026,
+            "DFADD_1": 10.094
+        },
+        "throughput_total": {
+            "DFADD": 30.12
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx4_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97392,
+        "LUT": 120511,
+        "throughput": {
+            "DFADD_0": 19.354,
+            "DFADD_1": 19.336
+        },
+        "throughput_total": {
+            "DFADD": 38.69
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx4_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79918,
+        "LUT": 93740,
+        "throughput": {
+            "DFADD_0": 21.869
+        },
+        "throughput_total": {
+            "DFADD": 21.869
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_DFADDx4_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88974,
+        "LUT": 103260,
+        "throughput": {
+            "DFADD_0": 20.622,
+            "DFADD_1": 5.223
+        },
+        "throughput_total": {
+            "DFADD": 25.845
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "EMPTY_DFADDx4_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91865,
+        "LUT": 108976,
+        "throughput": {
+            "DFADD_0": 19.977,
+            "DFADD_1": 10.087
+        },
+        "throughput_total": {
+            "DFADD": 30.064
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "EMPTY_DFADDx4_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97389,
+        "LUT": 120569,
+        "throughput": {
+            "DFADD_0": 19.31,
+            "DFADD_1": 19.292
+        },
+        "throughput_total": {
+            "DFADD": 38.602
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "EMPTY_DFADDx4_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79915,
+        "LUT": 93747,
+        "throughput": {
+            "DFADD_0": 21.662
+        },
+        "throughput_total": {
+            "DFADD": 21.662
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "EMPTY_DFADDx4_MEM_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87229,
+        "LUT": 97936,
+        "throughput": {
+            "DFADD_0": 21.662
+        },
+        "throughput_total": {
+            "DFADD": 21.662
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_EMPTY_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71505,
+        "LUT": 76617,
+        "throughput": {
+            "DFADD_0": 6.265
+        },
+        "throughput_total": {
+            "DFADD": 6.265
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_EMPTY_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74395,
+        "LUT": 82182,
+        "throughput": {
+            "DFADD_0": 11.909
+        },
+        "throughput_total": {
+            "DFADD": 11.909
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_EMPTY_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79918,
+        "LUT": 93769,
+        "throughput": {
+            "DFADD_0": 21.869
+        },
+        "throughput_total": {
+            "DFADD": 21.869
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_EMPTY_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71502,
+        "LUT": 76512,
+        "throughput": {
+            "DFADD_0": 6.241
+        },
+        "throughput_total": {
+            "DFADD": 6.241
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "EMPTY_EMPTY_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74391,
+        "LUT": 82242,
+        "throughput": {
+            "DFADD_0": 12.565
+        },
+        "throughput_total": {
+            "DFADD": 12.565
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79915,
+        "LUT": 93790,
+        "throughput": {
+            "DFADD_0": 21.863
+        },
+        "throughput_total": {
+            "DFADD": 21.863
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "EMPTY_MEM_DFADDx1_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80566,
+        "LUT": 85928,
+        "throughput": {
+            "DFADD_0": 5.611,
+            "DFADD_1": 5.606
+        },
+        "throughput_total": {
+            "DFADD": 11.217
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "EMPTY_MEM_DFADDx1_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83456,
+        "LUT": 91709,
+        "throughput": {
+            "DFADD_0": 5.441,
+            "DFADD_1": 10.838
+        },
+        "throughput_total": {
+            "DFADD": 16.279
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "EMPTY_MEM_DFADDx1_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88980,
+        "LUT": 103236,
+        "throughput": {
+            "DFADD_0": 5.225,
+            "DFADD_1": 20.6
+        },
+        "throughput_total": {
+            "DFADD": 25.825
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "EMPTY_MEM_DFADDx1_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71505,
+        "LUT": 76489,
+        "throughput": {
+            "DFADD_0": 6.17
+        },
+        "throughput_total": {
+            "DFADD": 6.17
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "EMPTY_MEM_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78824,
+        "LUT": 80579,
+        "throughput": {
+            "DFADD_0": 6.169
+        },
+        "throughput_total": {
+            "DFADD": 6.169
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_MEM_DFADDx2_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83456,
+        "LUT": 91718,
+        "throughput": {
+            "DFADD_0": 10.826,
+            "DFADD_1": 5.461
+        },
+        "throughput_total": {
+            "DFADD": 16.287
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "EMPTY_MEM_DFADDx2_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86348,
+        "LUT": 97457,
+        "throughput": {
+            "DFADD_0": 10.589,
+            "DFADD_1": 10.579
+        },
+        "throughput_total": {
+            "DFADD": 21.168
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "EMPTY_MEM_DFADDx2_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91871,
+        "LUT": 108994,
+        "throughput": {
+            "DFADD_0": 10.095,
+            "DFADD_1": 19.993
+        },
+        "throughput_total": {
+            "DFADD": 30.088
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "EMPTY_MEM_DFADDx2_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74396,
+        "LUT": 82218,
+        "throughput": {
+            "DFADD_0": 11.988
+        },
+        "throughput_total": {
+            "DFADD": 11.988
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "EMPTY_MEM_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81714,
+        "LUT": 86269,
+        "throughput": {
+            "DFADD_0": 11.988
+        },
+        "throughput_total": {
+            "DFADD": 11.988
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_MEM_DFADDx4_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88980,
+        "LUT": 103235,
+        "throughput": {
+            "DFADD_0": 20.622,
+            "DFADD_1": 5.223
+        },
+        "throughput_total": {
+            "DFADD": 25.845
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "EMPTY_MEM_DFADDx4_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91871,
+        "LUT": 108958,
+        "throughput": {
+            "DFADD_0": 19.977,
+            "DFADD_1": 10.087
+        },
+        "throughput_total": {
+            "DFADD": 30.064
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "EMPTY_MEM_DFADDx4_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97394,
+        "LUT": 120500,
+        "throughput": {
+            "DFADD_0": 19.298,
+            "DFADD_1": 19.281
+        },
+        "throughput_total": {
+            "DFADD": 38.579
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "EMPTY_MEM_DFADDx4_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79919,
+        "LUT": 93776,
+        "throughput": {
+            "DFADD_0": 21.662
+        },
+        "throughput_total": {
+            "DFADD": 21.662
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "EMPTY_MEM_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87238,
+        "LUT": 97841,
+        "throughput": {
+            "DFADD_0": 21.662
+        },
+        "throughput_total": {
+            "DFADD": 21.662
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM"
+        }
+    },
+    "EMPTY_MEM_EMPTY_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71505,
+        "LUT": 76569,
+        "throughput": {
+            "DFADD_0": 6.241
+        },
+        "throughput_total": {
+            "DFADD": 6.241
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "EMPTY_MEM_EMPTY_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74396,
+        "LUT": 82333,
+        "throughput": {
+            "DFADD_0": 12.565
+        },
+        "throughput_total": {
+            "DFADD": 12.565
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "EMPTY_MEM_EMPTY_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79919,
+        "LUT": 93772,
+        "throughput": {
+            "DFADD_0": 21.863
+        },
+        "throughput_total": {
+            "DFADD": 21.863
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "EMPTY_MEM_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78830,
+        "LUT": 80695,
+        "throughput": {
+            "DFADD_0": 6.241
+        },
+        "throughput_total": {
+            "DFADD": 6.241
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "EMPTY_MEM_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81717,
+        "LUT": 86394,
+        "throughput": {
+            "DFADD_0": 12.565
+        },
+        "throughput_total": {
+            "DFADD": 12.565
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "EMPTY_MEM_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87239,
+        "LUT": 97899,
+        "throughput": {
+            "DFADD_0": 21.863
+        },
+        "throughput_total": {
+            "DFADD": 21.863
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx1_DFADDx1_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 89624,
+        "LUT": 95493,
+        "throughput": {
+            "DFADD_0": 3.81,
+            "DFADD_1": 3.806,
+            "DFADD_2": 3.813
+        },
+        "throughput_total": {
+            "DFADD": 11.429
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx1_DFADDx1_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92514,
+        "LUT": 101178,
+        "throughput": {
+            "DFADD_0": 3.736,
+            "DFADD_1": 3.732,
+            "DFADD_2": 7.479
+        },
+        "throughput_total": {
+            "DFADD": 14.947
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx1_DFADDx1_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98038,
+        "LUT": 112721,
+        "throughput": {
+            "DFADD_0": 3.639,
+            "DFADD_1": 3.634,
+            "DFADD_2": 14.427
+        },
+        "throughput_total": {
+            "DFADD": 21.7
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx1_DFADDx1_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80564,
+        "LUT": 85883,
+        "throughput": {
+            "DFADD_0": 5.603,
+            "DFADD_1": 5.597
+        },
+        "throughput_total": {
+            "DFADD": 11.2
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx1_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 87876,
+        "LUT": 90116,
+        "throughput": {
+            "DFADD_0": 6.513,
+            "DFADD_1": 6.743
+        },
+        "throughput_total": {
+            "DFADD": 13.256
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx1_DFADDx2_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92514,
+        "LUT": 101162,
+        "throughput": {
+            "DFADD_0": 3.742,
+            "DFADD_1": 7.465,
+            "DFADD_2": 3.746
+        },
+        "throughput_total": {
+            "DFADD": 14.953
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx1_DFADDx2_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95406,
+        "LUT": 106939,
+        "throughput": {
+            "DFADD_0": 3.666,
+            "DFADD_1": 7.326,
+            "DFADD_2": 7.319
+        },
+        "throughput_total": {
+            "DFADD": 18.311
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx1_DFADDx2_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100929,
+        "LUT": 118482,
+        "throughput": {
+            "DFADD_0": 3.584,
+            "DFADD_1": 7.147,
+            "DFADD_2": 14.136
+        },
+        "throughput_total": {
+            "DFADD": 24.867
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx1_DFADDx2_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83453,
+        "LUT": 91622,
+        "throughput": {
+            "DFADD_0": 5.446,
+            "DFADD_1": 10.848
+        },
+        "throughput_total": {
+            "DFADD": 16.294
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx1_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90768,
+        "LUT": 95816,
+        "throughput": {
+            "DFADD_0": 6.425,
+            "DFADD_1": 12.756
+        },
+        "throughput_total": {
+            "DFADD": 19.181
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx1_DFADDx4_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98038,
+        "LUT": 112790,
+        "throughput": {
+            "DFADD_0": 3.64,
+            "DFADD_1": 14.385,
+            "DFADD_2": 3.643
+        },
+        "throughput_total": {
+            "DFADD": 21.668
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx1_DFADDx4_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100929,
+        "LUT": 118476,
+        "throughput": {
+            "DFADD_0": 3.591,
+            "DFADD_1": 14.155,
+            "DFADD_2": 7.126
+        },
+        "throughput_total": {
+            "DFADD": 24.872
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx1_DFADDx4_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106451,
+        "LUT": 130105,
+        "throughput": {
+            "DFADD_0": 3.502,
+            "DFADD_1": 13.763,
+            "DFADD_2": 13.788
+        },
+        "throughput_total": {
+            "DFADD": 31.053
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx1_DFADDx4_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88978,
+        "LUT": 103271,
+        "throughput": {
+            "DFADD_0": 5.234,
+            "DFADD_1": 20.448
+        },
+        "throughput_total": {
+            "DFADD": 25.682
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx1_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96291,
+        "LUT": 107435,
+        "throughput": {
+            "DFADD_0": 6.477,
+            "DFADD_1": 23.503
+        },
+        "throughput_total": {
+            "DFADD": 29.98
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx1_EMPTY_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80564,
+        "LUT": 86020,
+        "throughput": {
+            "DFADD_0": 5.61,
+            "DFADD_1": 5.605
+        },
+        "throughput_total": {
+            "DFADD": 11.215
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx1_EMPTY_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83453,
+        "LUT": 91593,
+        "throughput": {
+            "DFADD_0": 5.445,
+            "DFADD_1": 10.846
+        },
+        "throughput_total": {
+            "DFADD": 16.291
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx1_EMPTY_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88978,
+        "LUT": 103374,
+        "throughput": {
+            "DFADD_0": 5.215,
+            "DFADD_1": 20.681
+        },
+        "throughput_total": {
+            "DFADD": 25.896
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx1_EMPTY_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71504,
+        "LUT": 76538,
+        "throughput": {
+            "DFADD_0": 6.265
+        },
+        "throughput_total": {
+            "DFADD": 6.265
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx1_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78817,
+        "LUT": 80649,
+        "throughput": {
+            "DFADD_0": 6.265
+        },
+        "throughput_total": {
+            "DFADD": 6.265
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx1_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 87884,
+        "LUT": 89923,
+        "throughput": {
+            "DFADD_0": 6.477,
+            "DFADD_1": 6.743
+        },
+        "throughput_total": {
+            "DFADD": 13.22
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx1_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90775,
+        "LUT": 95792,
+        "throughput": {
+            "DFADD_0": 6.426,
+            "DFADD_1": 12.791
+        },
+        "throughput_total": {
+            "DFADD": 19.217
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx1_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96298,
+        "LUT": 107278,
+        "throughput": {
+            "DFADD_0": 6.491,
+            "DFADD_1": 23.667
+        },
+        "throughput_total": {
+            "DFADD": 30.158
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx1_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78825,
+        "LUT": 80556,
+        "throughput": {
+            "DFADD_0": 6.265
+        },
+        "throughput_total": {
+            "DFADD": 6.265
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx1",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx2_DFADDx1_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 92514,
+        "LUT": 101308,
+        "throughput": {
+            "DFADD_0": 7.453,
+            "DFADD_1": 3.747,
+            "DFADD_2": 3.743
+        },
+        "throughput_total": {
+            "DFADD": 14.943
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx2_DFADDx1_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95404,
+        "LUT": 107005,
+        "throughput": {
+            "DFADD_0": 7.317,
+            "DFADD_1": 3.68,
+            "DFADD_2": 7.303
+        },
+        "throughput_total": {
+            "DFADD": 18.3
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx2_DFADDx1_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100927,
+        "LUT": 118477,
+        "throughput": {
+            "DFADD_0": 7.145,
+            "DFADD_1": 3.582,
+            "DFADD_2": 14.146
+        },
+        "throughput_total": {
+            "DFADD": 24.873
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx2_DFADDx1_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91627,
+        "throughput": {
+            "DFADD_0": 10.845,
+            "DFADD_1": 5.445
+        },
+        "throughput_total": {
+            "DFADD": 16.29
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx2_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90767,
+        "LUT": 95829,
+        "throughput": {
+            "DFADD_0": 12.303,
+            "DFADD_1": 6.732
+        },
+        "throughput_total": {
+            "DFADD": 19.035
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx2_DFADDx2_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 95404,
+        "LUT": 106894,
+        "throughput": {
+            "DFADD_0": 7.321,
+            "DFADD_1": 7.314,
+            "DFADD_2": 3.654
+        },
+        "throughput_total": {
+            "DFADD": 18.289
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx2_DFADDx2_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98296,
+        "LUT": 112636,
+        "throughput": {
+            "DFADD_0": 7.196,
+            "DFADD_1": 7.189,
+            "DFADD_2": 7.183
+        },
+        "throughput_total": {
+            "DFADD": 21.568
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx2_DFADDx2_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103820,
+        "LUT": 124234,
+        "throughput": {
+            "DFADD_0": 6.977,
+            "DFADD_1": 6.97,
+            "DFADD_2": 13.966
+        },
+        "throughput_total": {
+            "DFADD": 27.913
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx2_DFADDx2_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86345,
+        "LUT": 97470,
+        "throughput": {
+            "DFADD_0": 10.622,
+            "DFADD_1": 10.612
+        },
+        "throughput_total": {
+            "DFADD": 21.234
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx2_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 93659,
+        "LUT": 101466,
+        "throughput": {
+            "DFADD_0": 12.31,
+            "DFADD_1": 12.727
+        },
+        "throughput_total": {
+            "DFADD": 25.037
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx2_DFADDx4_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100927,
+        "LUT": 118425,
+        "throughput": {
+            "DFADD_0": 7.138,
+            "DFADD_1": 14.153,
+            "DFADD_2": 3.587
+        },
+        "throughput_total": {
+            "DFADD": 24.878
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx2_DFADDx4_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103820,
+        "LUT": 124238,
+        "throughput": {
+            "DFADD_0": 6.965,
+            "DFADD_1": 13.955,
+            "DFADD_2": 6.971
+        },
+        "throughput_total": {
+            "DFADD": 27.891
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx2_DFADDx4_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109342,
+        "LUT": 135903,
+        "throughput": {
+            "DFADD_0": 6.812,
+            "DFADD_1": 13.608,
+            "DFADD_2": 13.633
+        },
+        "throughput_total": {
+            "DFADD": 34.053
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx2_DFADDx4_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91869,
+        "LUT": 109039,
+        "throughput": {
+            "DFADD_0": 10.104,
+            "DFADD_1": 20.227
+        },
+        "throughput_total": {
+            "DFADD": 30.331
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx2_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99182,
+        "LUT": 113029,
+        "throughput": {
+            "DFADD_0": 12.266,
+            "DFADD_1": 23.532
+        },
+        "throughput_total": {
+            "DFADD": 35.798
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx2_EMPTY_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83455,
+        "LUT": 91693,
+        "throughput": {
+            "DFADD_0": 10.857,
+            "DFADD_1": 5.46
+        },
+        "throughput_total": {
+            "DFADD": 16.317
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx2_EMPTY_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86345,
+        "LUT": 97509,
+        "throughput": {
+            "DFADD_0": 10.535,
+            "DFADD_1": 10.545
+        },
+        "throughput_total": {
+            "DFADD": 21.08
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx2_EMPTY_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91869,
+        "LUT": 108911,
+        "throughput": {
+            "DFADD_0": 10.087,
+            "DFADD_1": 20.012
+        },
+        "throughput_total": {
+            "DFADD": 30.099
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx2_EMPTY_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74395,
+        "LUT": 82253,
+        "throughput": {
+            "DFADD_0": 11.909
+        },
+        "throughput_total": {
+            "DFADD": 11.909
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx2_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81707,
+        "LUT": 86348,
+        "throughput": {
+            "DFADD_0": 11.909
+        },
+        "throughput_total": {
+            "DFADD": 11.909
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx2_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90775,
+        "LUT": 95735,
+        "throughput": {
+            "DFADD_0": 12.34,
+            "DFADD_1": 6.73
+        },
+        "throughput_total": {
+            "DFADD": 19.07
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx2_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 93666,
+        "LUT": 101454,
+        "throughput": {
+            "DFADD_0": 12.213,
+            "DFADD_1": 12.779
+        },
+        "throughput_total": {
+            "DFADD": 24.992
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx2_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99190,
+        "LUT": 113134,
+        "throughput": {
+            "DFADD_0": 12.191,
+            "DFADD_1": 23.584
+        },
+        "throughput_total": {
+            "DFADD": 35.775
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx2_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81716,
+        "LUT": 86235,
+        "throughput": {
+            "DFADD_0": 11.909
+        },
+        "throughput_total": {
+            "DFADD": 11.909
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx2",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx4_DFADDx1_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 98038,
+        "LUT": 112771,
+        "throughput": {
+            "DFADD_0": 14.365,
+            "DFADD_1": 3.645,
+            "DFADD_2": 3.641
+        },
+        "throughput_total": {
+            "DFADD": 21.651
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx4_DFADDx1_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100929,
+        "LUT": 118519,
+        "throughput": {
+            "DFADD_0": 14.152,
+            "DFADD_1": 3.587,
+            "DFADD_2": 7.135
+        },
+        "throughput_total": {
+            "DFADD": 24.874
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx4_DFADDx1_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106451,
+        "LUT": 130156,
+        "throughput": {
+            "DFADD_0": 13.78,
+            "DFADD_1": 3.509,
+            "DFADD_2": 13.755
+        },
+        "throughput_total": {
+            "DFADD": 31.044
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx4_DFADDx1_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88978,
+        "LUT": 103299,
+        "throughput": {
+            "DFADD_0": 20.712,
+            "DFADD_1": 5.251
+        },
+        "throughput_total": {
+            "DFADD": 25.963
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx4_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96291,
+        "LUT": 107401,
+        "throughput": {
+            "DFADD_0": 22.111,
+            "DFADD_1": 6.748
+        },
+        "throughput_total": {
+            "DFADD": 28.859
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx4_DFADDx2_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 90,
+        "FF": 100929,
+        "LUT": 118486,
+        "throughput": {
+            "DFADD_0": 14.186,
+            "DFADD_1": 7.131,
+            "DFADD_2": 3.584
+        },
+        "throughput_total": {
+            "DFADD": 24.901
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx4_DFADDx2_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 103819,
+        "LUT": 124172,
+        "throughput": {
+            "DFADD_0": 13.97,
+            "DFADD_1": 6.978,
+            "DFADD_2": 6.972
+        },
+        "throughput_total": {
+            "DFADD": 27.92
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx4_DFADDx2_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109343,
+        "LUT": 135813,
+        "throughput": {
+            "DFADD_0": 13.622,
+            "DFADD_1": 6.806,
+            "DFADD_2": 13.596
+        },
+        "throughput_total": {
+            "DFADD": 34.024
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx4_DFADDx2_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91869,
+        "LUT": 108942,
+        "throughput": {
+            "DFADD_0": 20.108,
+            "DFADD_1": 10.139
+        },
+        "throughput_total": {
+            "DFADD": 30.247
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx4_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99182,
+        "LUT": 113275,
+        "throughput": {
+            "DFADD_0": 22.162,
+            "DFADD_1": 12.771
+        },
+        "throughput_total": {
+            "DFADD": 34.933
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx4_DFADDx4_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 108,
+        "FF": 106451,
+        "LUT": 130139,
+        "throughput": {
+            "DFADD_0": 13.803,
+            "DFADD_1": 13.791,
+            "DFADD_2": 3.496
+        },
+        "throughput_total": {
+            "DFADD": 31.09
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx4_DFADDx4_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 117,
+        "FF": 109341,
+        "LUT": 135842,
+        "throughput": {
+            "DFADD_0": 13.532,
+            "DFADD_1": 13.519,
+            "DFADD_2": 6.754
+        },
+        "throughput_total": {
+            "DFADD": 33.805
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx4_DFADDx4_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 135,
+        "FF": 114866,
+        "LUT": 147444,
+        "throughput": {
+            "DFADD_0": 13.165,
+            "DFADD_1": 13.153,
+            "DFADD_2": 13.14
+        },
+        "throughput_total": {
+            "DFADD": 39.458
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx4_DFADDx4_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97392,
+        "LUT": 120605,
+        "throughput": {
+            "DFADD_0": 19.253,
+            "DFADD_1": 19.236
+        },
+        "throughput_total": {
+            "DFADD": 38.489
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx4_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 104705,
+        "LUT": 124623,
+        "throughput": {
+            "DFADD_0": 22.351,
+            "DFADD_1": 23.262
+        },
+        "throughput_total": {
+            "DFADD": 45.613
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx4_EMPTY_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88978,
+        "LUT": 103300,
+        "throughput": {
+            "DFADD_0": 20.601,
+            "DFADD_1": 5.218
+        },
+        "throughput_total": {
+            "DFADD": 25.819
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx4_EMPTY_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91869,
+        "LUT": 108985,
+        "throughput": {
+            "DFADD_0": 20.018,
+            "DFADD_1": 10.09
+        },
+        "throughput_total": {
+            "DFADD": 30.108
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx4_EMPTY_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97392,
+        "LUT": 120665,
+        "throughput": {
+            "DFADD_0": 19.246,
+            "DFADD_1": 19.228
+        },
+        "throughput_total": {
+            "DFADD": 38.474
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx4_EMPTY_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79917,
+        "LUT": 93748,
+        "throughput": {
+            "DFADD_0": 21.911
+        },
+        "throughput_total": {
+            "DFADD": 21.911
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_DFADDx4_EMPTY_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87231,
+        "LUT": 97883,
+        "throughput": {
+            "DFADD_0": 21.911
+        },
+        "throughput_total": {
+            "DFADD": 21.911
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_DFADDx4_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96299,
+        "LUT": 107326,
+        "throughput": {
+            "DFADD_0": 22.169,
+            "DFADD_1": 6.728
+        },
+        "throughput_total": {
+            "DFADD": 28.897
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_DFADDx4_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99190,
+        "LUT": 113161,
+        "throughput": {
+            "DFADD_0": 22.323,
+            "DFADD_1": 12.745
+        },
+        "throughput_total": {
+            "DFADD": 35.068
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_DFADDx4_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 104713,
+        "LUT": 124683,
+        "throughput": {
+            "DFADD_0": 22.466,
+            "DFADD_1": 23.421
+        },
+        "throughput_total": {
+            "DFADD": 45.887
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_DFADDx4_MEM_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87239,
+        "LUT": 97888,
+        "throughput": {
+            "DFADD_0": 22.04
+        },
+        "throughput_total": {
+            "DFADD": 22.04
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "DFADDx4",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_EMPTY_DFADDx1_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 80565,
+        "LUT": 85915,
+        "throughput": {
+            "DFADD_0": 5.609,
+            "DFADD_1": 5.604
+        },
+        "throughput_total": {
+            "DFADD": 11.213
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_EMPTY_DFADDx1_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83454,
+        "LUT": 91736,
+        "throughput": {
+            "DFADD_0": 5.455,
+            "DFADD_1": 10.847
+        },
+        "throughput_total": {
+            "DFADD": 16.302
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_EMPTY_DFADDx1_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103347,
+        "throughput": {
+            "DFADD_0": 5.252,
+            "DFADD_1": 20.621
+        },
+        "throughput_total": {
+            "DFADD": 25.873
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_EMPTY_DFADDx1_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71504,
+        "LUT": 76471,
+        "throughput": {
+            "DFADD_0": 6.051
+        },
+        "throughput_total": {
+            "DFADD": 6.051
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_EMPTY_DFADDx1_MEM": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78817,
+        "LUT": 80689,
+        "throughput": {
+            "DFADD_0": 6.051
+        },
+        "throughput_total": {
+            "DFADD": 6.051
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_EMPTY_DFADDx2_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 83456,
+        "LUT": 91689,
+        "throughput": {
+            "DFADD_0": 10.845,
+            "DFADD_1": 5.445
+        },
+        "throughput_total": {
+            "DFADD": 16.29
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_EMPTY_DFADDx2_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 86346,
+        "LUT": 97436,
+        "throughput": {
+            "DFADD_0": 10.616,
+            "DFADD_1": 10.607
+        },
+        "throughput_total": {
+            "DFADD": 21.223
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_EMPTY_DFADDx2_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91870,
+        "LUT": 109068,
+        "throughput": {
+            "DFADD_0": 10.143,
+            "DFADD_1": 20.08
+        },
+        "throughput_total": {
+            "DFADD": 30.223
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_EMPTY_DFADDx2_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74396,
+        "LUT": 82421,
+        "throughput": {
+            "DFADD_0": 11.525
+        },
+        "throughput_total": {
+            "DFADD": 11.525
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_EMPTY_DFADDx2_MEM": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81707,
+        "LUT": 86407,
+        "throughput": {
+            "DFADD_0": 11.525
+        },
+        "throughput_total": {
+            "DFADD": 11.525
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_EMPTY_DFADDx4_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 88979,
+        "LUT": 103220,
+        "throughput": {
+            "DFADD_0": 20.576,
+            "DFADD_1": 5.24
+        },
+        "throughput_total": {
+            "DFADD": 25.816
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_EMPTY_DFADDx4_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 91870,
+        "LUT": 109021,
+        "throughput": {
+            "DFADD_0": 20.088,
+            "DFADD_1": 10.128
+        },
+        "throughput_total": {
+            "DFADD": 30.216
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_EMPTY_DFADDx4_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 97393,
+        "LUT": 120644,
+        "throughput": {
+            "DFADD_0": 19.267,
+            "DFADD_1": 19.25
+        },
+        "throughput_total": {
+            "DFADD": 38.517
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_EMPTY_DFADDx4_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79917,
+        "LUT": 93794,
+        "throughput": {
+            "DFADD_0": 21.279
+        },
+        "throughput_total": {
+            "DFADD": 21.279
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_EMPTY_DFADDx4_MEM": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87231,
+        "LUT": 97884,
+        "throughput": {
+            "DFADD_0": 21.279
+        },
+        "throughput_total": {
+            "DFADD": 21.279
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM"
+        }
+    },
+    "MEM_EMPTY_EMPTY_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 71504,
+        "LUT": 76563,
+        "throughput": {
+            "DFADD_0": 6.145
+        },
+        "throughput_total": {
+            "DFADD": 6.145
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_EMPTY_EMPTY_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 74395,
+        "LUT": 82177,
+        "throughput": {
+            "DFADD_0": 12.047
+        },
+        "throughput_total": {
+            "DFADD": 12.047
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_EMPTY_EMPTY_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 79918,
+        "LUT": 93778,
+        "throughput": {
+            "DFADD_0": 21.616
+        },
+        "throughput_total": {
+            "DFADD": 21.616
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_EMPTY_MEM_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78825,
+        "LUT": 80598,
+        "throughput": {
+            "DFADD_0": 6.145
+        },
+        "throughput_total": {
+            "DFADD": 6.145
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_EMPTY_MEM_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81715,
+        "LUT": 86181,
+        "throughput": {
+            "DFADD_0": 12.045
+        },
+        "throughput_total": {
+            "DFADD": 12.045
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_EMPTY_MEM_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87238,
+        "LUT": 97794,
+        "throughput": {
+            "DFADD_0": 21.616
+        },
+        "throughput_total": {
+            "DFADD": 21.616
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_MEM_DFADDx1_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 87875,
+        "LUT": 90056,
+        "throughput": {
+            "DFADD_0": 6.399,
+            "DFADD_1": 6.742
+        },
+        "throughput_total": {
+            "DFADD": 13.141
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_MEM_DFADDx1_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90765,
+        "LUT": 95832,
+        "throughput": {
+            "DFADD_0": 6.41,
+            "DFADD_1": 12.755
+        },
+        "throughput_total": {
+            "DFADD": 19.165
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_MEM_DFADDx1_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96289,
+        "LUT": 107491,
+        "throughput": {
+            "DFADD_0": 6.366,
+            "DFADD_1": 23.41
+        },
+        "throughput_total": {
+            "DFADD": 29.776
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_MEM_DFADDx1_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78814,
+        "LUT": 80334,
+        "throughput": {
+            "DFADD_0": 6.051
+        },
+        "throughput_total": {
+            "DFADD": 6.051
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_MEM_DFADDx2_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 54,
+        "FF": 90765,
+        "LUT": 95724,
+        "throughput": {
+            "DFADD_0": 11.911,
+            "DFADD_1": 6.726
+        },
+        "throughput_total": {
+            "DFADD": 18.637
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_MEM_DFADDx2_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 93656,
+        "LUT": 101515,
+        "throughput": {
+            "DFADD_0": 11.788,
+            "DFADD_1": 12.758
+        },
+        "throughput_total": {
+            "DFADD": 24.546
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_MEM_DFADDx2_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99180,
+        "LUT": 113077,
+        "throughput": {
+            "DFADD_0": 11.858,
+            "DFADD_1": 23.479
+        },
+        "throughput_total": {
+            "DFADD": 35.337
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_MEM_DFADDx2_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81705,
+        "LUT": 86263,
+        "throughput": {
+            "DFADD_0": 11.525
+        },
+        "throughput_total": {
+            "DFADD": 11.525
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_MEM_DFADDx4_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 72,
+        "FF": 96289,
+        "LUT": 107383,
+        "throughput": {
+            "DFADD_0": 21.531,
+            "DFADD_1": 6.731
+        },
+        "throughput_total": {
+            "DFADD": 28.262
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_MEM_DFADDx4_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 81,
+        "FF": 99180,
+        "LUT": 113066,
+        "throughput": {
+            "DFADD_0": 21.607,
+            "DFADD_1": 12.779
+        },
+        "throughput_total": {
+            "DFADD": 34.386
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_MEM_DFADDx4_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 99,
+        "FF": 104702,
+        "LUT": 124662,
+        "throughput": {
+            "DFADD_0": 22.149,
+            "DFADD_1": 23.015
+        },
+        "throughput_total": {
+            "DFADD": 45.164
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    },
+    "MEM_MEM_DFADDx4_EMPTY": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87228,
+        "LUT": 97920,
+        "throughput": {
+            "DFADD_0": 21.279
+        },
+        "throughput_total": {
+            "DFADD": 21.279
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "DFADDx4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "EMPTY"
+        }
+    },
+    "MEM_MEM_EMPTY_DFADDx1": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 78814,
+        "LUT": 80590,
+        "throughput": {
+            "DFADD_0": 6.145
+        },
+        "throughput_total": {
+            "DFADD": 6.145
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx1"
+        }
+    },
+    "MEM_MEM_EMPTY_DFADDx2": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 81705,
+        "LUT": 86148,
+        "throughput": {
+            "DFADD_0": 12.112
+        },
+        "throughput_total": {
+            "DFADD": 12.112
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx2"
+        }
+    },
+    "MEM_MEM_EMPTY_DFADDx4": {
+        "BRAM18": 1166,
+        "DSP": 63,
+        "FF": 87228,
+        "LUT": 97821,
+        "throughput": {
+            "DFADD_0": 21.616
+        },
+        "throughput_total": {
+            "DFADD": 21.616
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "DFADDx4"
+        }
+    }
+}

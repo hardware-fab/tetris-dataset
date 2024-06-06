@@ -1,0 +1,4089 @@
+{
+    "EMPTY_EMPTY_EMPTY_EMPTY_EMPTY_MEM_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 28,
+        "FF": 80385,
+        "LUT": 83718,
+        "throughput": {
+            "SHA3_0": 178.996
+        },
+        "throughput_total": {
+            "SHA3": 178.996
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_EMPTY_MEM_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 29,
+        "FF": 83720,
+        "LUT": 89852,
+        "throughput": {
+            "SHA3_0": 213.542
+        },
+        "throughput_total": {
+            "SHA3": 213.542
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_EMPTY_MEM_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 31,
+        "FF": 90127,
+        "LUT": 101789,
+        "throughput": {
+            "SHA3_0": 237.9
+        },
+        "throughput_total": {
+            "SHA3": 237.9
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "EMPTY",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_MEM_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 28,
+        "FF": 87699,
+        "LUT": 87796,
+        "throughput": {
+            "SHA3_0": 178.311
+        },
+        "throughput_total": {
+            "SHA3": 178.311
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_MEM_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 29,
+        "FF": 91034,
+        "LUT": 94014,
+        "throughput": {
+            "SHA3_0": 213.124
+        },
+        "throughput_total": {
+            "SHA3": 213.124
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_MEM_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 31,
+        "FF": 97443,
+        "LUT": 106027,
+        "throughput": {
+            "SHA3_0": 237.41
+        },
+        "throughput_total": {
+            "SHA3": 237.41
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_SHA3x1_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 29,
+        "FF": 89893,
+        "LUT": 93538,
+        "throughput": {
+            "SHA3_0": 166.743,
+            "SHA3_1": 166.589
+        },
+        "throughput_total": {
+            "SHA3": 333.332
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_SHA3x1_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 30,
+        "FF": 93228,
+        "LUT": 99596,
+        "throughput": {
+            "SHA3_0": 121.975,
+            "SHA3_1": 183.13
+        },
+        "throughput_total": {
+            "SHA3": 305.105
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_SHA3x1_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 32,
+        "FF": 99637,
+        "LUT": 111746,
+        "throughput": {
+            "SHA3_0": 83.358,
+            "SHA3_1": 208.588
+        },
+        "throughput_total": {
+            "SHA3": 291.946
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 31,
+        "FF": 96563,
+        "LUT": 105764,
+        "throughput": {
+            "SHA3_0": 150.31,
+            "SHA3_1": 150.172
+        },
+        "throughput_total": {
+            "SHA3": 300.482
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 102972,
+        "LUT": 117849,
+        "throughput": {
+            "SHA3_0": 106.468,
+            "SHA3_1": 186.491
+        },
+        "throughput_total": {
+            "SHA3": 292.959
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_EMPTY_MEM_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 109379,
+        "LUT": 130020,
+        "throughput": {
+            "SHA3_0": 146.531,
+            "SHA3_1": 146.396
+        },
+        "throughput_total": {
+            "SHA3": 292.927
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "EMPTY",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_SHA3x1_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 29,
+        "FF": 97218,
+        "LUT": 97776,
+        "throughput": {
+            "SHA3_0": 189.601,
+            "SHA3_1": 189.427
+        },
+        "throughput_total": {
+            "SHA3": 379.028
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_SHA3x1_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 30,
+        "FF": 100552,
+        "LUT": 103894,
+        "throughput": {
+            "SHA3_0": 122.464,
+            "SHA3_1": 204.293
+        },
+        "throughput_total": {
+            "SHA3": 326.757
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_SHA3x1_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 32,
+        "FF": 106962,
+        "LUT": 115849,
+        "throughput": {
+            "SHA3_0": 82.809,
+            "SHA3_1": 221.025
+        },
+        "throughput_total": {
+            "SHA3": 303.834
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 31,
+        "FF": 103888,
+        "LUT": 109939,
+        "throughput": {
+            "SHA3_0": 204.708,
+            "SHA3_1": 204.896
+        },
+        "throughput_total": {
+            "SHA3": 409.604
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 110296,
+        "LUT": 122078,
+        "throughput": {
+            "SHA3_0": 128.083,
+            "SHA3_1": 224.351
+        },
+        "throughput_total": {
+            "SHA3": 352.434
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_MEM_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 116709,
+        "LUT": 134155,
+        "throughput": {
+            "SHA3_0": 200.738,
+            "SHA3_1": 200.552
+        },
+        "throughput_total": {
+            "SHA3": 401.29
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 30,
+        "FF": 99401,
+        "LUT": 103385,
+        "throughput": {
+            "SHA3_0": 110.383,
+            "SHA3_1": 110.28,
+            "SHA3_2": 110.177
+        },
+        "throughput_total": {
+            "SHA3": 330.84
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x1_SHA3x1_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 31,
+        "FF": 102736,
+        "LUT": 109513,
+        "throughput": {
+            "SHA3_0": 91.485,
+            "SHA3_1": 91.399,
+            "SHA3_2": 152.616
+        },
+        "throughput_total": {
+            "SHA3": 335.5
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x1_SHA3x1_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 109144,
+        "LUT": 121543,
+        "throughput": {
+            "SHA3_0": 64.709,
+            "SHA3_1": 64.648,
+            "SHA3_2": 194.304
+        },
+        "throughput_total": {
+            "SHA3": 323.661
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x1_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 32,
+        "FF": 106070,
+        "LUT": 115851,
+        "throughput": {
+            "SHA3_0": 73.733,
+            "SHA3_1": 125.231,
+            "SHA3_2": 125.114
+        },
+        "throughput_total": {
+            "SHA3": 324.078
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x1_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 34,
+        "FF": 112478,
+        "LUT": 127733,
+        "throughput": {
+            "SHA3_0": 57.073,
+            "SHA3_1": 95.031,
+            "SHA3_2": 161.855
+        },
+        "throughput_total": {
+            "SHA3": 313.959
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x1_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 118887,
+        "LUT": 139700,
+        "throughput": {
+            "SHA3_0": 44.642,
+            "SHA3_1": 134.173,
+            "SHA3_2": 134.049
+        },
+        "throughput_total": {
+            "SHA3": 312.864
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 109406,
+        "LUT": 121832,
+        "throughput": {
+            "SHA3_0": 101.729,
+            "SHA3_1": 101.636,
+            "SHA3_2": 101.54
+        },
+        "throughput_total": {
+            "SHA3": 304.905
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 115814,
+        "LUT": 133970,
+        "throughput": {
+            "SHA3_0": 82.268,
+            "SHA3_1": 82.192,
+            "SHA3_2": 143.703
+        },
+        "throughput_total": {
+            "SHA3": 308.163
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 122220,
+        "LUT": 145803,
+        "throughput": {
+            "SHA3_0": 68.722,
+            "SHA3_1": 120.487,
+            "SHA3_2": 120.376
+        },
+        "throughput_total": {
+            "SHA3": 309.585
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_EMPTY_MEM_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 128629,
+        "LUT": 157970,
+        "throughput": {
+            "SHA3_0": 101.46,
+            "SHA3_1": 101.367,
+            "SHA3_2": 101.272
+        },
+        "throughput_total": {
+            "SHA3": 304.099
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "EMPTY",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_MEM_MEM_SHA3x1": {
+        "BRAM18": 1038,
+        "DSP": 28,
+        "FF": 102305,
+        "LUT": 95510,
+        "throughput": {
+            "SHA3_0": 178.407
+        },
+        "throughput_total": {
+            "SHA3": 178.407
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_MEM_MEM_SHA3x2": {
+        "BRAM18": 1038,
+        "DSP": 29,
+        "FF": 105641,
+        "LUT": 101658,
+        "throughput": {
+            "SHA3_0": 213.124
+        },
+        "throughput_total": {
+            "SHA3": 213.124
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_MEM_MEM_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 31,
+        "FF": 112050,
+        "LUT": 113663,
+        "throughput": {
+            "SHA3_0": 237.641
+        },
+        "throughput_total": {
+            "SHA3": 237.641
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "MEM",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x1_SHA3x1_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 30,
+        "FF": 106724,
+        "LUT": 107641,
+        "throughput": {
+            "SHA3_0": 164.309,
+            "SHA3_1": 164.158,
+            "SHA3_2": 164.003
+        },
+        "throughput_total": {
+            "SHA3": 492.47
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x1_SHA3x1_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 31,
+        "FF": 110059,
+        "LUT": 113733,
+        "throughput": {
+            "SHA3_0": 116.114,
+            "SHA3_1": 174.494,
+            "SHA3_2": 188.862
+        },
+        "throughput_total": {
+            "SHA3": 479.47
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x1_SHA3x1_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 116465,
+        "LUT": 125794,
+        "throughput": {
+            "SHA3_0": 96.211,
+            "SHA3_1": 192.245,
+            "SHA3_2": 192.067
+        },
+        "throughput_total": {
+            "SHA3": 480.523
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x1_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 32,
+        "FF": 113393,
+        "LUT": 120030,
+        "throughput": {
+            "SHA3_0": 113.884,
+            "SHA3_1": 197.077,
+            "SHA3_2": 196.504
+        },
+        "throughput_total": {
+            "SHA3": 507.465
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x1_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 34,
+        "FF": 119802,
+        "LUT": 132008,
+        "throughput": {
+            "SHA3_0": 96.034,
+            "SHA3_1": 192.424,
+            "SHA3_2": 192.247
+        },
+        "throughput_total": {
+            "SHA3": 480.705
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x1_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 126212,
+        "LUT": 144176,
+        "throughput": {
+            "SHA3_0": 96.034,
+            "SHA3_1": 192.424,
+            "SHA3_2": 192.247
+        },
+        "throughput_total": {
+            "SHA3": 480.705
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 116729,
+        "LUT": 126357,
+        "throughput": {
+            "SHA3_0": 148.168,
+            "SHA3_1": 207.822,
+            "SHA3_2": 148.308
+        },
+        "throughput_total": {
+            "SHA3": 504.298
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 123138,
+        "LUT": 138143,
+        "throughput": {
+            "SHA3_0": 110.103,
+            "SHA3_1": 183.845,
+            "SHA3_2": 183.676
+        },
+        "throughput_total": {
+            "SHA3": 477.624
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 129544,
+        "LUT": 150157,
+        "throughput": {
+            "SHA3_0": 111.834,
+            "SHA3_1": 201.115,
+            "SHA3_2": 178.602
+        },
+        "throughput_total": {
+            "SHA3": 491.551
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_MEM_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 135953,
+        "LUT": 162445,
+        "throughput": {
+            "SHA3_0": 144.36,
+            "SHA3_1": 216.339,
+            "SHA3_2": 144.092
+        },
+        "throughput_total": {
+            "SHA3": 504.791
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 31,
+        "FF": 108909,
+        "LUT": 113291,
+        "throughput": {
+            "SHA3_0": 87.777,
+            "SHA3_1": 87.696,
+            "SHA3_2": 87.614,
+            "SHA3_3": 87.532
+        },
+        "throughput_total": {
+            "SHA3": 350.619
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 32,
+        "FF": 112245,
+        "LUT": 119465,
+        "throughput": {
+            "SHA3_0": 71.082,
+            "SHA3_1": 71.015,
+            "SHA3_2": 70.949,
+            "SHA3_3": 124.508
+        },
+        "throughput_total": {
+            "SHA3": 337.554
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 34,
+        "FF": 118653,
+        "LUT": 131337,
+        "throughput": {
+            "SHA3_0": 54.272,
+            "SHA3_1": 54.223,
+            "SHA3_2": 54.171,
+            "SHA3_3": 162.969
+        },
+        "throughput_total": {
+            "SHA3": 325.635
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 115579,
+        "LUT": 125510,
+        "throughput": {
+            "SHA3_0": 57.214,
+            "SHA3_1": 57.162,
+            "SHA3_2": 114.213,
+            "SHA3_3": 100.217
+        },
+        "throughput_total": {
+            "SHA3": 328.806
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 121988,
+        "LUT": 137566,
+        "throughput": {
+            "SHA3_0": 45.823,
+            "SHA3_1": 45.781,
+            "SHA3_2": 91.476,
+            "SHA3_3": 137.086
+        },
+        "throughput_total": {
+            "SHA3": 320.166
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x1_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 128396,
+        "LUT": 149755,
+        "throughput": {
+            "SHA3_0": 39.39,
+            "SHA3_1": 39.353,
+            "SHA3_2": 118.389,
+            "SHA3_3": 118.279
+        },
+        "throughput_total": {
+            "SHA3": 315.411
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 34,
+        "FF": 118914,
+        "LUT": 131718,
+        "throughput": {
+            "SHA3_0": 48.167,
+            "SHA3_1": 92.807,
+            "SHA3_2": 93.066,
+            "SHA3_3": 89.536
+        },
+        "throughput_total": {
+            "SHA3": 323.576
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 125322,
+        "LUT": 143873,
+        "throughput": {
+            "SHA3_0": 35.173,
+            "SHA3_1": 70.28,
+            "SHA3_2": 70.213,
+            "SHA3_3": 140.814
+        },
+        "throughput_total": {
+            "SHA3": 316.48
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 38,
+        "FF": 131730,
+        "LUT": 155980,
+        "throughput": {
+            "SHA3_0": 32.978,
+            "SHA3_1": 66.138,
+            "SHA3_2": 107.379,
+            "SHA3_3": 107.276
+        },
+        "throughput_total": {
+            "SHA3": 313.771
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x1_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 40,
+        "FF": 138137,
+        "LUT": 167623,
+        "throughput": {
+            "SHA3_0": 30.98,
+            "SHA3_1": 93.197,
+            "SHA3_2": 93.11,
+            "SHA3_3": 93.02
+        },
+        "throughput_total": {
+            "SHA3": 310.307
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 122249,
+        "LUT": 137881,
+        "throughput": {
+            "SHA3_0": 80.152,
+            "SHA3_1": 80.078,
+            "SHA3_2": 80.003,
+            "SHA3_3": 79.928
+        },
+        "throughput_total": {
+            "SHA3": 320.161
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 128655,
+        "LUT": 149839,
+        "throughput": {
+            "SHA3_0": 67.412,
+            "SHA3_1": 67.35,
+            "SHA3_2": 67.287,
+            "SHA3_3": 112.039
+        },
+        "throughput_total": {
+            "SHA3": 314.088
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x2_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 135065,
+        "LUT": 161790,
+        "throughput": {
+            "SHA3_0": 59.998,
+            "SHA3_1": 59.942,
+            "SHA3_2": 95.818,
+            "SHA3_3": 96.085
+        },
+        "throughput_total": {
+            "SHA3": 311.843
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x2_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 41,
+        "FF": 141474,
+        "LUT": 173989,
+        "throughput": {
+            "SHA3_0": 55.538,
+            "SHA3_1": 83.231,
+            "SHA3_2": 83.153,
+            "SHA3_3": 83.075
+        },
+        "throughput_total": {
+            "SHA3": 304.997
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_EMPTY_MEM_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 43,
+        "FF": 147881,
+        "LUT": 185850,
+        "throughput": {
+            "SHA3_0": 77.4,
+            "SHA3_1": 77.329,
+            "SHA3_2": 77.256,
+            "SHA3_3": 77.184
+        },
+        "throughput_total": {
+            "SHA3": 309.169
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "EMPTY",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_SHA3x1_SHA3x1": {
+        "BRAM18": 1038,
+        "DSP": 29,
+        "FF": 111812,
+        "LUT": 105501,
+        "throughput": {
+            "SHA3_0": 175.133,
+            "SHA3_1": 175.295
+        },
+        "throughput_total": {
+            "SHA3": 350.428
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_SHA3x1_SHA3x2": {
+        "BRAM18": 1038,
+        "DSP": 30,
+        "FF": 115147,
+        "LUT": 111616,
+        "throughput": {
+            "SHA3_0": 178.98,
+            "SHA3_1": 208.618
+        },
+        "throughput_total": {
+            "SHA3": 387.598
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_SHA3x1_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 32,
+        "FF": 121556,
+        "LUT": 123637,
+        "throughput": {
+            "SHA3_0": 180.39,
+            "SHA3_1": 225.694
+        },
+        "throughput_total": {
+            "SHA3": 406.084
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_SHA3x2_SHA3x2": {
+        "BRAM18": 1038,
+        "DSP": 31,
+        "FF": 118482,
+        "LUT": 117932,
+        "throughput": {
+            "SHA3_0": 205.541,
+            "SHA3_1": 205.351
+        },
+        "throughput_total": {
+            "SHA3": 410.892
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_SHA3x2_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 33,
+        "FF": 124891,
+        "LUT": 129890,
+        "throughput": {
+            "SHA3_0": 224.483,
+            "SHA3_1": 224.276
+        },
+        "throughput_total": {
+            "SHA3": 448.759
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_MEM_MEM_SHA3x4_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 35,
+        "FF": 131300,
+        "LUT": 141788,
+        "throughput": {
+            "SHA3_0": 223.969,
+            "SHA3_1": 224.175
+        },
+        "throughput_total": {
+            "SHA3": 448.144
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "MEM",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 31,
+        "FF": 116232,
+        "LUT": 117357,
+        "throughput": {
+            "SHA3_0": 165.643,
+            "SHA3_1": 166.107,
+            "SHA3_2": 165.954,
+            "SHA3_3": 165.798
+        },
+        "throughput_total": {
+            "SHA3": 663.502
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 32,
+        "FF": 119567,
+        "LUT": 123521,
+        "throughput": {
+            "SHA3_0": 153.387,
+            "SHA3_1": 114.933,
+            "SHA3_2": 153.671,
+            "SHA3_3": 191.914
+        },
+        "throughput_total": {
+            "SHA3": 613.905
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 34,
+        "FF": 125975,
+        "LUT": 135585,
+        "throughput": {
+            "SHA3_0": 146.386,
+            "SHA3_1": 97.5,
+            "SHA3_2": 146.112,
+            "SHA3_3": 195.36
+        },
+        "throughput_total": {
+            "SHA3": 585.358
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 122902,
+        "LUT": 129737,
+        "throughput": {
+            "SHA3_0": 103.309,
+            "SHA3_1": 103.216,
+            "SHA3_2": 206.226,
+            "SHA3_3": 206.035
+        },
+        "throughput_total": {
+            "SHA3": 618.786
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 129308,
+        "LUT": 141740,
+        "throughput": {
+            "SHA3_0": 110.08,
+            "SHA3_1": 96.23,
+            "SHA3_2": 178.547,
+            "SHA3_3": 192.818
+        },
+        "throughput_total": {
+            "SHA3": 577.675
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x1_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 135720,
+        "LUT": 153797,
+        "throughput": {
+            "SHA3_0": 86.553,
+            "SHA3_1": 97.278,
+            "SHA3_2": 195.114,
+            "SHA3_3": 194.933
+        },
+        "throughput_total": {
+            "SHA3": 573.878
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 34,
+        "FF": 126237,
+        "LUT": 136036,
+        "throughput": {
+            "SHA3_0": 112.297,
+            "SHA3_1": 149.589,
+            "SHA3_2": 187.51,
+            "SHA3_3": 149.871
+        },
+        "throughput_total": {
+            "SHA3": 599.267
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 132646,
+        "LUT": 147846,
+        "throughput": {
+            "SHA3_0": 115.887,
+            "SHA3_1": 116.212,
+            "SHA3_2": 174.157,
+            "SHA3_3": 173.994
+        },
+        "throughput_total": {
+            "SHA3": 580.25
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 38,
+        "FF": 139059,
+        "LUT": 159955,
+        "throughput": {
+            "SHA3_0": 84.249,
+            "SHA3_1": 126.256,
+            "SHA3_2": 168.813,
+            "SHA3_3": 168.657
+        },
+        "throughput_total": {
+            "SHA3": 547.975
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x1_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 40,
+        "FF": 145461,
+        "LUT": 171928,
+        "throughput": {
+            "SHA3_0": 77.706,
+            "SHA3_1": 155.265,
+            "SHA3_2": 207.599,
+            "SHA3_3": 129.63
+        },
+        "throughput_total": {
+            "SHA3": 570.2
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 129571,
+        "LUT": 142220,
+        "throughput": {
+            "SHA3_0": 148.026,
+            "SHA3_1": 147.891,
+            "SHA3_2": 147.753,
+            "SHA3_3": 147.614
+        },
+        "throughput_total": {
+            "SHA3": 591.284
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 135978,
+        "LUT": 154325,
+        "throughput": {
+            "SHA3_0": 146.517,
+            "SHA3_1": 146.926,
+            "SHA3_2": 146.792,
+            "SHA3_3": 146.656
+        },
+        "throughput_total": {
+            "SHA3": 586.891
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x2_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 142389,
+        "LUT": 166170,
+        "throughput": {
+            "SHA3_0": 103.553,
+            "SHA3_1": 103.458,
+            "SHA3_2": 206.721,
+            "SHA3_3": 206.526
+        },
+        "throughput_total": {
+            "SHA3": 620.258
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x2_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 41,
+        "FF": 148795,
+        "LUT": 178060,
+        "throughput": {
+            "SHA3_0": 109.4,
+            "SHA3_1": 145.73,
+            "SHA3_2": 182.672,
+            "SHA3_3": 146.002
+        },
+        "throughput_total": {
+            "SHA3": 583.804
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_MEM_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 43,
+        "FF": 155204,
+        "LUT": 190726,
+        "throughput": {
+            "SHA3_0": 148.397,
+            "SHA3_1": 148.26,
+            "SHA3_2": 148.121,
+            "SHA3_3": 147.982
+        },
+        "throughput_total": {
+            "SHA3": 592.76
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 32,
+        "FF": 118418,
+        "LUT": 123099,
+        "throughput": {
+            "SHA3_0": 75.078,
+            "SHA3_1": 75.009,
+            "SHA3_2": 74.939,
+            "SHA3_3": 74.869,
+            "SHA3_4": 74.799
+        },
+        "throughput_total": {
+            "SHA3": 374.694
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 121753,
+        "LUT": 129219,
+        "throughput": {
+            "SHA3_0": 58.483,
+            "SHA3_1": 58.428,
+            "SHA3_2": 58.373,
+            "SHA3_3": 58.319,
+            "SHA3_4": 117.072
+        },
+        "throughput_total": {
+            "SHA3": 350.675
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 128159,
+        "LUT": 141179,
+        "throughput": {
+            "SHA3_0": 48.316,
+            "SHA3_1": 48.27,
+            "SHA3_2": 48.223,
+            "SHA3_3": 48.181,
+            "SHA3_4": 145.096
+        },
+        "throughput_total": {
+            "SHA3": 338.086
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 34,
+        "FF": 125087,
+        "LUT": 135398,
+        "throughput": {
+            "SHA3_0": 50.738,
+            "SHA3_1": 50.928,
+            "SHA3_2": 49.312,
+            "SHA3_3": 95.393,
+            "SHA3_4": 95.303
+        },
+        "throughput_total": {
+            "SHA3": 341.674
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 131495,
+        "LUT": 147300,
+        "throughput": {
+            "SHA3_0": 44.414,
+            "SHA3_1": 44.372,
+            "SHA3_2": 44.33,
+            "SHA3_3": 77.87,
+            "SHA3_4": 122.253
+        },
+        "throughput_total": {
+            "SHA3": 333.239
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 38,
+        "FF": 137901,
+        "LUT": 159507,
+        "throughput": {
+            "SHA3_0": 36.318,
+            "SHA3_1": 36.285,
+            "SHA3_2": 36.419,
+            "SHA3_3": 109.165,
+            "SHA3_4": 109.064
+        },
+        "throughput_total": {
+            "SHA3": 327.251
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 128423,
+        "LUT": 141654,
+        "throughput": {
+            "SHA3_0": 42.13,
+            "SHA3_1": 42.091,
+            "SHA3_2": 84.103,
+            "SHA3_3": 84.024,
+            "SHA3_4": 83.945
+        },
+        "throughput_total": {
+            "SHA3": 336.293
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 134830,
+        "LUT": 153653,
+        "throughput": {
+            "SHA3_0": 35.412,
+            "SHA3_1": 35.378,
+            "SHA3_2": 70.691,
+            "SHA3_3": 70.625,
+            "SHA3_4": 117.603
+        },
+        "throughput_total": {
+            "SHA3": 329.709
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 141236,
+        "LUT": 165472,
+        "throughput": {
+            "SHA3_0": 30.795,
+            "SHA3_1": 30.911,
+            "SHA3_2": 58.823,
+            "SHA3_3": 103.58,
+            "SHA3_4": 99.079
+        },
+        "throughput_total": {
+            "SHA3": 323.188
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x1_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 41,
+        "FF": 147647,
+        "LUT": 177625,
+        "throughput": {
+            "SHA3_0": 27.453,
+            "SHA3_1": 27.555,
+            "SHA3_2": 88.095,
+            "SHA3_3": 88.011,
+            "SHA3_4": 87.929
+        },
+        "throughput_total": {
+            "SHA3": 319.043
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 131758,
+        "LUT": 147822,
+        "throughput": {
+            "SHA3_0": 19.74,
+            "SHA3_1": 78.883,
+            "SHA3_2": 78.81,
+            "SHA3_3": 78.737,
+            "SHA3_4": 78.663
+        },
+        "throughput_total": {
+            "SHA3": 334.833
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 38,
+        "FF": 138165,
+        "LUT": 159860,
+        "throughput": {
+            "SHA3_0": 32.615,
+            "SHA3_1": 65.168,
+            "SHA3_2": 65.109,
+            "SHA3_3": 65.047,
+            "SHA3_4": 97.948
+        },
+        "throughput_total": {
+            "SHA3": 325.887
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 40,
+        "FF": 144573,
+        "LUT": 171887,
+        "throughput": {
+            "SHA3_0": 26.667,
+            "SHA3_1": 53.283,
+            "SHA3_2": 53.234,
+            "SHA3_3": 93.507,
+            "SHA3_4": 93.414
+        },
+        "throughput_total": {
+            "SHA3": 320.105
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x2_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 42,
+        "FF": 150982,
+        "LUT": 183689,
+        "throughput": {
+            "SHA3_0": 26.365,
+            "SHA3_1": 52.926,
+            "SHA3_2": 79.317,
+            "SHA3_3": 79.243,
+            "SHA3_4": 79.169
+        },
+        "throughput_total": {
+            "SHA3": 317.02
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x1_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 44,
+        "FF": 157389,
+        "LUT": 195789,
+        "throughput": {
+            "SHA3_0": 24.095,
+            "SHA3_1": 72.221,
+            "SHA3_2": 72.153,
+            "SHA3_3": 72.085,
+            "SHA3_4": 72.018
+        },
+        "throughput_total": {
+            "SHA3": 312.572
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 135092,
+        "LUT": 153990,
+        "throughput": {
+            "SHA3_0": 73.492,
+            "SHA3_1": 36.714,
+            "SHA3_2": 73.355,
+            "SHA3_3": 73.287,
+            "SHA3_4": 73.219
+        },
+        "throughput_total": {
+            "SHA3": 330.067
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "EMPTY_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 141500,
+        "LUT": 166051,
+        "throughput": {
+            "SHA3_0": 53.309,
+            "SHA3_1": 53.264,
+            "SHA3_2": 53.214,
+            "SHA3_3": 53.163,
+            "SHA3_4": 106.204
+        },
+        "throughput_total": {
+            "SHA3": 319.154
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 41,
+        "FF": 147908,
+        "LUT": 177986,
+        "throughput": {
+            "SHA3_0": 47.779,
+            "SHA3_1": 51.408,
+            "SHA3_2": 51.358,
+            "SHA3_3": 87.961,
+            "SHA3_4": 80.555
+        },
+        "throughput_total": {
+            "SHA3": 319.061
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x2_SHA3x2_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 43,
+        "FF": 154316,
+        "LUT": 190015,
+        "throughput": {
+            "SHA3_0": 39.567,
+            "SHA3_1": 39.53,
+            "SHA3_2": 78.977,
+            "SHA3_3": 78.906,
+            "SHA3_4": 78.831
+        },
+        "throughput_total": {
+            "SHA3": 315.811
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x2_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 160741,
+        "LUT": 202131,
+        "throughput": {
+            "SHA3_0": 40.665,
+            "SHA3_1": 63.856,
+            "SHA3_2": 69.583,
+            "SHA3_3": 69.518,
+            "SHA3_4": 69.445
+        },
+        "throughput_total": {
+            "SHA3": 313.067
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "EMPTY_MEM_SHA3x4_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 47,
+        "FF": 167131,
+        "LUT": 213976,
+        "throughput": {
+            "SHA3_0": 62.469,
+            "SHA3_1": 62.411,
+            "SHA3_2": 62.353,
+            "SHA3_3": 62.294,
+            "SHA3_4": 62.236
+        },
+        "throughput_total": {
+            "SHA3": 311.763
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x4",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "EMPTY",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x1_SHA3x1_SHA3x1": {
+        "BRAM18": 1038,
+        "DSP": 30,
+        "FF": 121310,
+        "LUT": 115261,
+        "throughput": {
+            "SHA3_0": 192.282,
+            "SHA3_1": 192.105,
+            "SHA3_2": 191.925
+        },
+        "throughput_total": {
+            "SHA3": 576.312
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x1_SHA3x1_SHA3x2": {
+        "BRAM18": 1038,
+        "DSP": 31,
+        "FF": 124645,
+        "LUT": 121550,
+        "throughput": {
+            "SHA3_0": 187.693,
+            "SHA3_1": 187.521,
+            "SHA3_2": 187.346
+        },
+        "throughput_total": {
+            "SHA3": 562.56
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x1_SHA3x1_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 33,
+        "FF": 131054,
+        "LUT": 133444,
+        "throughput": {
+            "SHA3_0": 192.747,
+            "SHA3_1": 192.57,
+            "SHA3_2": 192.403
+        },
+        "throughput_total": {
+            "SHA3": 577.72
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x1_SHA3x2_SHA3x2": {
+        "BRAM18": 1038,
+        "DSP": 32,
+        "FF": 127980,
+        "LUT": 127580,
+        "throughput": {
+            "SHA3_0": 186.381,
+            "SHA3_1": 186.727,
+            "SHA3_2": 186.556
+        },
+        "throughput_total": {
+            "SHA3": 559.664
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x1_SHA3x2_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 34,
+        "FF": 134390,
+        "LUT": 139568,
+        "throughput": {
+            "SHA3_0": 190.312,
+            "SHA3_1": 190.134,
+            "SHA3_2": 190.487
+        },
+        "throughput_total": {
+            "SHA3": 570.933
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x1_SHA3x4_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 36,
+        "FF": 140799,
+        "LUT": 151594,
+        "throughput": {
+            "SHA3_0": 192.783,
+            "SHA3_1": 192.631,
+            "SHA3_2": 192.451
+        },
+        "throughput_total": {
+            "SHA3": 577.865
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1038,
+        "DSP": 33,
+        "FF": 131316,
+        "LUT": 133685,
+        "throughput": {
+            "SHA3_0": 220.838,
+            "SHA3_1": 220.635,
+            "SHA3_2": 220.428
+        },
+        "throughput_total": {
+            "SHA3": 661.901
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 35,
+        "FF": 137724,
+        "LUT": 145633,
+        "throughput": {
+            "SHA3_0": 194.054,
+            "SHA3_1": 193.875,
+            "SHA3_2": 193.695
+        },
+        "throughput_total": {
+            "SHA3": 581.624
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 37,
+        "FF": 144129,
+        "LUT": 157601,
+        "throughput": {
+            "SHA3_0": 191.943,
+            "SHA3_1": 191.768,
+            "SHA3_2": 191.588
+        },
+        "throughput_total": {
+            "SHA3": 575.299
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_MEM_MEM_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1038,
+        "DSP": 39,
+        "FF": 150539,
+        "LUT": 169599,
+        "throughput": {
+            "SHA3_0": 243.4,
+            "SHA3_1": 243.175,
+            "SHA3_2": 242.947
+        },
+        "throughput_total": {
+            "SHA3": 729.522
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "MEM",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "MEM",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 32,
+        "FF": 125741,
+        "LUT": 127167,
+        "throughput": {
+            "SHA3_0": 120.685,
+            "SHA3_1": 120.574,
+            "SHA3_2": 121.021,
+            "SHA3_3": 120.914,
+            "SHA3_4": 120.796
+        },
+        "throughput_total": {
+            "SHA3": 603.99
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 129076,
+        "LUT": 133520,
+        "throughput": {
+            "SHA3_0": 106.343,
+            "SHA3_1": 106.247,
+            "SHA3_2": 95.532,
+            "SHA3_3": 106.048,
+            "SHA3_4": 137.734
+        },
+        "throughput_total": {
+            "SHA3": 551.904
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 135482,
+        "LUT": 145375,
+        "throughput": {
+            "SHA3_0": 64.474,
+            "SHA3_1": 77.294,
+            "SHA3_2": 64.352,
+            "SHA3_3": 77.149,
+            "SHA3_4": 192.425
+        },
+        "throughput_total": {
+            "SHA3": 475.694
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 34,
+        "FF": 132410,
+        "LUT": 139381,
+        "throughput": {
+            "SHA3_0": 82.852,
+            "SHA3_1": 97.022,
+            "SHA3_2": 80.778,
+            "SHA3_3": 166.017,
+            "SHA3_4": 140.522
+        },
+        "throughput_total": {
+            "SHA3": 567.191
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 138817,
+        "LUT": 151443,
+        "throughput": {
+            "SHA3_0": 62.08,
+            "SHA3_1": 62.026,
+            "SHA3_2": 61.963,
+            "SHA3_3": 123.811,
+            "SHA3_4": 186.399
+        },
+        "throughput_total": {
+            "SHA3": 496.279
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 38,
+        "FF": 145228,
+        "LUT": 163624,
+        "throughput": {
+            "SHA3_0": 62.713,
+            "SHA3_1": 62.654,
+            "SHA3_2": 62.596,
+            "SHA3_3": 188.486,
+            "SHA3_4": 188.313
+        },
+        "throughput_total": {
+            "SHA3": 564.762
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 135745,
+        "LUT": 145900,
+        "throughput": {
+            "SHA3_0": 67.186,
+            "SHA3_1": 100.683,
+            "SHA3_2": 111.766,
+            "SHA3_3": 168.276,
+            "SHA3_4": 112.081
+        },
+        "throughput_total": {
+            "SHA3": 559.992
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 142155,
+        "LUT": 157875,
+        "throughput": {
+            "SHA3_0": 51.763,
+            "SHA3_1": 77.933,
+            "SHA3_2": 77.864,
+            "SHA3_3": 155.571,
+            "SHA3_4": 155.432
+        },
+        "throughput_total": {
+            "SHA3": 518.563
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 148563,
+        "LUT": 169548,
+        "throughput": {
+            "SHA3_0": 46.826,
+            "SHA3_1": 70.174,
+            "SHA3_2": 70.436,
+            "SHA3_3": 140.741,
+            "SHA3_4": 140.61
+        },
+        "throughput_total": {
+            "SHA3": 468.787
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x1_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 41,
+        "FF": 154973,
+        "LUT": 181823,
+        "throughput": {
+            "SHA3_0": 38.942,
+            "SHA3_1": 77.809,
+            "SHA3_2": 117.15,
+            "SHA3_3": 156.056,
+            "SHA3_4": 116.932
+        },
+        "throughput_total": {
+            "SHA3": 506.889
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 139081,
+        "LUT": 151763,
+        "throughput": {
+            "SHA3_0": 65.964,
+            "SHA3_1": 131.807,
+            "SHA3_2": 115.761,
+            "SHA3_3": 132.178,
+            "SHA3_4": 115.547
+        },
+        "throughput_total": {
+            "SHA3": 561.257
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 38,
+        "FF": 145488,
+        "LUT": 163862,
+        "throughput": {
+            "SHA3_0": 52.071,
+            "SHA3_1": 104.047,
+            "SHA3_2": 86.625,
+            "SHA3_3": 103.852,
+            "SHA3_4": 155.631
+        },
+        "throughput_total": {
+            "SHA3": 502.226
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 40,
+        "FF": 151896,
+        "LUT": 175752,
+        "throughput": {
+            "SHA3_0": 47.044,
+            "SHA3_1": 94.0,
+            "SHA3_2": 80.872,
+            "SHA3_3": 161.593,
+            "SHA3_4": 134.537
+        },
+        "throughput_total": {
+            "SHA3": 518.046
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x2_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 42,
+        "FF": 158305,
+        "LUT": 187731,
+        "throughput": {
+            "SHA3_0": 36.908,
+            "SHA3_1": 111.132,
+            "SHA3_2": 111.031,
+            "SHA3_3": 110.93,
+            "SHA3_4": 110.823
+        },
+        "throughput_total": {
+            "SHA3": 480.824
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x1_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 44,
+        "FF": 164712,
+        "LUT": 199689,
+        "throughput": {
+            "SHA3_0": 44.93,
+            "SHA3_1": 120.262,
+            "SHA3_2": 105.133,
+            "SHA3_3": 120.039,
+            "SHA3_4": 104.936
+        },
+        "throughput_total": {
+            "SHA3": 495.3
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 142416,
+        "LUT": 158064,
+        "throughput": {
+            "SHA3_0": 108.809,
+            "SHA3_1": 124.24,
+            "SHA3_2": 93.092,
+            "SHA3_3": 124.007,
+            "SHA3_4": 92.92
+        },
+        "throughput_total": {
+            "SHA3": 543.068
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 148825,
+        "LUT": 169873,
+        "throughput": {
+            "SHA3_0": 91.131,
+            "SHA3_1": 91.051,
+            "SHA3_2": 90.961,
+            "SHA3_3": 90.882,
+            "SHA3_4": 136.825
+        },
+        "throughput_total": {
+            "SHA3": 500.85
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 41,
+        "FF": 155231,
+        "LUT": 181966,
+        "throughput": {
+            "SHA3_0": 74.872,
+            "SHA3_1": 93.938,
+            "SHA3_2": 75.083,
+            "SHA3_3": 150.022,
+            "SHA3_4": 121.778
+        },
+        "throughput_total": {
+            "SHA3": 515.693
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x2_SHA3x2_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 43,
+        "FF": 161638,
+        "LUT": 194157,
+        "throughput": {
+            "SHA3_0": 65.858,
+            "SHA3_1": 88.139,
+            "SHA3_2": 110.072,
+            "SHA3_3": 153.956,
+            "SHA3_4": 109.866
+        },
+        "throughput_total": {
+            "SHA3": 527.891
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x2_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 168047,
+        "LUT": 206131,
+        "throughput": {
+            "SHA3_0": 61.353,
+            "SHA3_1": 122.593,
+            "SHA3_2": 98.441,
+            "SHA3_3": 122.939,
+            "SHA3_4": 98.258
+        },
+        "throughput_total": {
+            "SHA3": 503.584
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_MEM_SHA3x4_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 47,
+        "FF": 174455,
+        "LUT": 218763,
+        "throughput": {
+            "SHA3_0": 87.226,
+            "SHA3_1": 174.288,
+            "SHA3_2": 87.064,
+            "SHA3_3": 86.984,
+            "SHA3_4": 86.901
+        },
+        "throughput_total": {
+            "SHA3": 522.463
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "MEM",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x4",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x1": {
+        "BRAM18": 1166,
+        "DSP": 33,
+        "FF": 127925,
+        "LUT": 132834,
+        "throughput": {
+            "SHA3_0": 24.431,
+            "SHA3_1": 69.284,
+            "SHA3_2": 69.22,
+            "SHA3_3": 69.155,
+            "SHA3_4": 69.09,
+            "SHA3_5": 69.024
+        },
+        "throughput_total": {
+            "SHA3": 370.204
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x1"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 34,
+        "FF": 131259,
+        "LUT": 139125,
+        "throughput": {
+            "SHA3_0": 49.595,
+            "SHA3_1": 49.83,
+            "SHA3_2": 49.785,
+            "SHA3_3": 49.737,
+            "SHA3_4": 49.691,
+            "SHA3_5": 99.279
+        },
+        "throughput_total": {
+            "SHA3": 347.917
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 137667,
+        "LUT": 151066,
+        "throughput": {
+            "SHA3_0": 42.427,
+            "SHA3_1": 42.401,
+            "SHA3_2": 42.358,
+            "SHA3_3": 42.319,
+            "SHA3_4": 42.518,
+            "SHA3_5": 127.397
+        },
+        "throughput_total": {
+            "SHA3": 339.42
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x1",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 35,
+        "FF": 134595,
+        "LUT": 145160,
+        "throughput": {
+            "SHA3_0": 50.106,
+            "SHA3_1": 44.558,
+            "SHA3_2": 45.179,
+            "SHA3_3": 43.546,
+            "SHA3_4": 78.99,
+            "SHA3_5": 79.575
+        },
+        "throughput_total": {
+            "SHA3": 341.954
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 141000,
+        "LUT": 157173,
+        "throughput": {
+            "SHA3_0": 43.082,
+            "SHA3_1": 37.875,
+            "SHA3_2": 37.84,
+            "SHA3_3": 37.804,
+            "SHA3_4": 70.133,
+            "SHA3_5": 107.837
+        },
+        "throughput_total": {
+            "SHA3": 334.571
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x1_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 147409,
+        "LUT": 169365,
+        "throughput": {
+            "SHA3_0": 37.085,
+            "SHA3_1": 32.933,
+            "SHA3_2": 32.901,
+            "SHA3_3": 32.187,
+            "SHA3_4": 97.01,
+            "SHA3_5": 96.91
+        },
+        "throughput_total": {
+            "SHA3": 329.026
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x1",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 36,
+        "FF": 137929,
+        "LUT": 151562,
+        "throughput": {
+            "SHA3_0": 45.516,
+            "SHA3_1": 37.842,
+            "SHA3_2": 38.441,
+            "SHA3_3": 71.415,
+            "SHA3_4": 71.749,
+            "SHA3_5": 71.683
+        },
+        "throughput_total": {
+            "SHA3": 336.646
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 38,
+        "FF": 144337,
+        "LUT": 163550,
+        "throughput": {
+            "SHA3_0": 39.755,
+            "SHA3_1": 32.81,
+            "SHA3_2": 32.784,
+            "SHA3_3": 61.228,
+            "SHA3_4": 62.571,
+            "SHA3_5": 100.924
+        },
+        "throughput_total": {
+            "SHA3": 330.072
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 40,
+        "FF": 150744,
+        "LUT": 174968,
+        "throughput": {
+            "SHA3_0": 35.423,
+            "SHA3_1": 29.391,
+            "SHA3_2": 29.363,
+            "SHA3_3": 53.583,
+            "SHA3_4": 88.117,
+            "SHA3_5": 89.837
+        },
+        "throughput_total": {
+            "SHA3": 325.714
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x1_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 42,
+        "FF": 157155,
+        "LUT": 187439,
+        "throughput": {
+            "SHA3_0": 33.295,
+            "SHA3_1": 25.819,
+            "SHA3_2": 25.795,
+            "SHA3_3": 80.234,
+            "SHA3_4": 76.676,
+            "SHA3_5": 80.085
+        },
+        "throughput_total": {
+            "SHA3": 321.904
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x1",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 37,
+        "FF": 141265,
+        "LUT": 157562,
+        "throughput": {
+            "SHA3_0": 41.395,
+            "SHA3_1": 33.562,
+            "SHA3_2": 65.026,
+            "SHA3_3": 64.286,
+            "SHA3_4": 62.874,
+            "SHA3_5": 65.182
+        },
+        "throughput_total": {
+            "SHA3": 332.325
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 147672,
+        "LUT": 169636,
+        "throughput": {
+            "SHA3_0": 37.082,
+            "SHA3_1": 29.358,
+            "SHA3_2": 55.171,
+            "SHA3_3": 54.42,
+            "SHA3_4": 53.673,
+            "SHA3_5": 96.802
+        },
+        "throughput_total": {
+            "SHA3": 326.506
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 41,
+        "FF": 154080,
+        "LUT": 181752,
+        "throughput": {
+            "SHA3_0": 32.787,
+            "SHA3_1": 25.889,
+            "SHA3_2": 48.562,
+            "SHA3_3": 49.849,
+            "SHA3_4": 82.123,
+            "SHA3_5": 83.634
+        },
+        "throughput_total": {
+            "SHA3": 322.844
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x2_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 43,
+        "FF": 160491,
+        "LUT": 193636,
+        "throughput": {
+            "SHA3_0": 31.184,
+            "SHA3_1": 23.958,
+            "SHA3_2": 44.806,
+            "SHA3_3": 74.194,
+            "SHA3_4": 72.899,
+            "SHA3_5": 72.221
+        },
+        "throughput_total": {
+            "SHA3": 319.262
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x1_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 166896,
+        "LUT": 205623,
+        "throughput": {
+            "SHA3_0": 32.568,
+            "SHA3_1": 24.403,
+            "SHA3_2": 65.379,
+            "SHA3_3": 65.319,
+            "SHA3_4": 65.258,
+            "SHA3_5": 65.196
+        },
+        "throughput_total": {
+            "SHA3": 318.123
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x1",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 38,
+        "FF": 144599,
+        "LUT": 163632,
+        "throughput": {
+            "SHA3_0": 37.062,
+            "SHA3_1": 57.224,
+            "SHA3_2": 59.183,
+            "SHA3_3": 59.128,
+            "SHA3_4": 59.073,
+            "SHA3_5": 57.331
+        },
+        "throughput_total": {
+            "SHA3": 329.001
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 40,
+        "FF": 151006,
+        "LUT": 175773,
+        "throughput": {
+            "SHA3_0": 32.828,
+            "SHA3_1": 50.885,
+            "SHA3_2": 52.717,
+            "SHA3_3": 50.791,
+            "SHA3_4": 50.744,
+            "SHA3_5": 86.368
+        },
+        "throughput_total": {
+            "SHA3": 324.333
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 42,
+        "FF": 157415,
+        "LUT": 187700,
+        "throughput": {
+            "SHA3_0": 31.774,
+            "SHA3_1": 46.029,
+            "SHA3_2": 44.4,
+            "SHA3_3": 44.359,
+            "SHA3_4": 77.99,
+            "SHA3_5": 76.328
+        },
+        "throughput_total": {
+            "SHA3": 320.88
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x2_SHA3x2_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 44,
+        "FF": 163823,
+        "LUT": 200269,
+        "throughput": {
+            "SHA3_0": 28.414,
+            "SHA3_1": 40.077,
+            "SHA3_2": 41.705,
+            "SHA3_3": 68.72,
+            "SHA3_4": 68.656,
+            "SHA3_5": 70.264
+        },
+        "throughput_total": {
+            "SHA3": 317.836
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x2_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 46,
+        "FF": 170231,
+        "LUT": 211587,
+        "throughput": {
+            "SHA3_0": 27.746,
+            "SHA3_1": 37.167,
+            "SHA3_2": 60.342,
+            "SHA3_3": 60.284,
+            "SHA3_4": 64.862,
+            "SHA3_5": 64.8
+        },
+        "throughput_total": {
+            "SHA3": 315.201
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x1_SHA3x4_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 48,
+        "FF": 176640,
+        "LUT": 223870,
+        "throughput": {
+            "SHA3_0": 28.58,
+            "SHA3_1": 57.108,
+            "SHA3_2": 57.054,
+            "SHA3_3": 57.001,
+            "SHA3_4": 56.947,
+            "SHA3_5": 56.894
+        },
+        "throughput_total": {
+            "SHA3": 313.584
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x1",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x4",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x2": {
+        "BRAM18": 1166,
+        "DSP": 39,
+        "FF": 147934,
+        "LUT": 170080,
+        "throughput": {
+            "SHA3_0": 54.402,
+            "SHA3_1": 54.644,
+            "SHA3_2": 54.597,
+            "SHA3_3": 54.551,
+            "SHA3_4": 54.498,
+            "SHA3_5": 54.447
+        },
+        "throughput_total": {
+            "SHA3": 327.139
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x2",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x2"
+        }
+    },
+    "MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 41,
+        "FF": 154341,
+        "LUT": 182048,
+        "throughput": {
+            "SHA3_0": 45.924,
+            "SHA3_1": 46.137,
+            "SHA3_2": 46.095,
+            "SHA3_3": 46.052,
+            "SHA3_4": 46.009,
+            "SHA3_5": 91.93
+        },
+        "throughput_total": {
+            "SHA3": 322.147
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x2",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x2",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x2_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 43,
+        "FF": 160748,
+        "LUT": 193990,
+        "throughput": {
+            "SHA3_0": 52.206,
+            "SHA3_1": 41.532,
+            "SHA3_2": 41.493,
+            "SHA3_3": 41.454,
+            "SHA3_4": 72.237,
+            "SHA3_5": 70.244
+        },
+        "throughput_total": {
+            "SHA3": 319.166
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x2",
+            "X0Y2": "SHA3x2",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x2_SHA3x2_SHA3x2_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 45,
+        "FF": 167156,
+        "LUT": 206149,
+        "throughput": {
+            "SHA3_0": 50.049,
+            "SHA3_1": 33.338,
+            "SHA3_2": 33.306,
+            "SHA3_3": 66.545,
+            "SHA3_4": 66.485,
+            "SHA3_5": 66.421
+        },
+        "throughput_total": {
+            "SHA3": 316.144
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x2",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x2",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x2_SHA3x2_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 47,
+        "FF": 173567,
+        "LUT": 217908,
+        "throughput": {
+            "SHA3_0": 49.892,
+            "SHA3_1": 35.603,
+            "SHA3_2": 57.232,
+            "SHA3_3": 57.179,
+            "SHA3_4": 57.125,
+            "SHA3_5": 57.072
+        },
+        "throughput_total": {
+            "SHA3": 314.103
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x2",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x2",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x2_SHA3x4_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 49,
+        "FF": 179974,
+        "LUT": 229559,
+        "throughput": {
+            "SHA3_0": 51.605,
+            "SHA3_1": 51.557,
+            "SHA3_2": 51.509,
+            "SHA3_3": 51.461,
+            "SHA3_4": 51.412,
+            "SHA3_5": 51.364
+        },
+        "throughput_total": {
+            "SHA3": 308.908
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x2",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x4",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    },
+    "MEM_SHA3x4_SHA3x4_SHA3x4_SHA3x4_SHA3x4_SHA3x4": {
+        "BRAM18": 1166,
+        "DSP": 51,
+        "FF": 186381,
+        "LUT": 241843,
+        "throughput": {
+            "SHA3_0": 88.513,
+            "SHA3_1": 44.217,
+            "SHA3_2": 44.176,
+            "SHA3_3": 44.134,
+            "SHA3_4": 44.093,
+            "SHA3_5": 44.052
+        },
+        "throughput_total": {
+            "SHA3": 309.185
+        },
+        "tile_config": {
+            "X0Y0": "CPU",
+            "X0Y1": "SHA3x4",
+            "X0Y2": "SHA3x4",
+            "X1Y0": "AUX",
+            "X1Y1": "SHA3x4",
+            "X1Y2": "SHA3x4",
+            "X2Y0": "MEM",
+            "X2Y1": "SHA3x4",
+            "X2Y2": "SHA3x4"
+        }
+    }
+}

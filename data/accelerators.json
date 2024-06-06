@@ -1,0 +1,188 @@
+{
+    "EMPTY": {
+        "BRAM18": 0,
+        "DSP": 0,
+        "FF": 2500,
+        "LUT": 2000
+        },
+    "MEM": {
+        "BRAM18": 0,
+        "DSP": 0,
+        "FF": 9300,
+        "LUT": 5500
+        },
+    "ADPCM": {
+        "input_size": 8000,
+        "output_size": 8000,
+        "memory_bound": 0,
+        "1X": {
+            "BRAM18": 23,
+            "DSP": 81,
+            "FF": 11720,
+            "LUT": 10899,
+            "throughput": 1.385,
+            "latency": 5776.173
+            },
+        "2X": {
+            "BRAM18": 46,
+            "DSP": 162,
+            "FF": 15158,
+            "LUT": 16455,
+            "throughput": 2.741,
+            "latency": 5837.286
+            },
+        "4X": {
+            "BRAM18": 92,
+            "DSP": 324,
+            "FF": 21780,
+            "LUT": 27313,
+            "throughput": 5.369,
+            "latency": 5960.142
+            }
+        },
+    "AES": {
+        "input_size": 256,
+        "output_size": 128,
+        "memory_bound": 0,
+        "1X": {
+            "BRAM18": 26,
+            "DSP": 9,
+            "FF": 10224,
+            "LUT": 7969,
+            "throughput": 2.089,
+            "latency": 61.273
+            },
+        "2X": {
+            "BRAM18": 52,
+            "DSP": 18,
+            "FF": 11878,
+            "LUT": 10303,
+            "throughput": 4.088,
+            "latency": 62.622
+            },
+        "4X": {
+            "BRAM18": 104,
+            "DSP": 36,
+            "FF": 15186,
+            "LUT": 14968,
+            "throughput": 7.851,
+            "latency": 65.215
+            }
+        },
+    "DFADD": {
+        "input_size": 16,
+        "output_size": 8,
+        "memory_bound": 1,
+        "1X": {
+            "BRAM18": 0,
+            "DSP": 9,
+            "FF": 11199,
+            "LUT": 11268,
+            "throughput": 6.265,
+            "latency": 1.277
+            },
+        "2X": {
+            "BRAM18": 0,
+            "DSP": 18,
+            "FF": 14090,
+            "LUT": 16988,
+            "throughput": 12.565,
+            "latency": 1.273
+            },
+        "4X": {
+            "BRAM18": 0,
+            "DSP": 36,
+            "FF": 19614,
+            "LUT": 28599,
+            "throughput": 21.863,
+            "latency": 1.463
+            }
+        },
+    "DFMUL": {
+        "input_size": 16,
+        "output_size": 8,
+        "memory_bound": 1,
+        "1X": {
+            "BRAM18": 0,
+            "DSP": 25,
+            "FF": 10222,
+            "LUT": 8435,
+            "throughput": 5.752,
+            "latency": 1.391
+            },
+        "2X": {
+            "BRAM18": 0,
+            "DSP": 50,
+            "FF": 12136,
+            "LUT": 11352,
+            "throughput": 10.958,
+            "latency": 1.51
+            },
+        "4X": {
+            "BRAM18": 0,
+            "DSP": 100,
+            "FF": 15706,
+            "LUT": 17382,
+            "throughput": 18.717,
+            "latency": 1.71
+            }
+        },
+    "GSM": {
+        "input_size": 320,
+        "output_size": 336,
+        "memory_bound": 0,
+        "1X": {
+            "BRAM18": 16,
+            "DSP": 62,
+            "FF": 11418,
+            "LUT": 9900,
+            "throughput": 4.551,
+            "latency": 73.83
+            },
+        "2X": {
+            "BRAM18": 32,
+            "DSP": 124,
+            "FF": 14520,
+            "LUT": 14304,
+            "throughput": 8.81,
+            "latency": 38.138
+            },
+        "4X": {
+            "BRAM18": 64,
+            "DSP": 248,
+            "FF": 20473,
+            "LUT": 22927,
+            "throughput": 16.542,
+            "latency": 20.312
+            }
+        },
+    "SHA3": {
+        "input_size": 1088,
+        "output_size": 64,
+        "memory_bound": 1,
+        "1X": {
+            "BRAM18": 0,
+            "DSP": 1,
+            "FF": 10620,
+            "LUT": 10509,
+            "throughput": 178.996,
+            "latency": 6.078
+            },
+        "2X": {
+            "BRAM18": 0,
+            "DSP": 2,
+            "FF": 13955,
+            "LUT": 16688,
+            "throughput": 213.542,
+            "latency": 10.19
+            },
+        "4X": {
+            "BRAM18": 0,
+            "DSP": 4,
+            "FF": 20363,
+            "LUT": 28726,
+            "throughput": 237.9,
+            "latency": 18.293
+            }
+        }
+}
