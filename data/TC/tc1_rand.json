@@ -209,15 +209,15 @@
         "FF": 135874,
         "LUT": 148712,
         "throughput": {
-            "ADPCM_0": 19.721,
-            "AES_0": 2.739,
-            "AES_1": 0.0,
-            "DFADD_0": 7.669
+            "ADPCM_0": 2.734,
+            "AES_0": 7.664,
+            "AES_1": 7.657,
+            "DFADD_0": 19.69
         },
         "throughput_total": {
-            "ADPCM": 19.721,
-            "AES": 2.739,
-            "DFADD": 15.338
+            "ADPCM": 2.734,
+            "AES": 15.321,
+            "DFADD": 19.69
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -240,16 +240,16 @@
         "FF": 136495,
         "LUT": 140937,
         "throughput": {
-            "ADPCM_0": 10.836,
-            "ADPCM_1": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "DFADD_0": 7.722
+            "ADPCM_0": 1.384,
+            "ADPCM_1": 1.383,
+            "AES_0": 7.707,
+            "AES_1": 7.699,
+            "DFADD_0": 10.937
         },
         "throughput_total": {
-            "ADPCM": 10.836,
-            "AES": 2.768,
-            "DFADD": 15.443
+            "ADPCM": 2.767,
+            "AES": 15.406,
+            "DFADD": 10.937
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -272,16 +272,16 @@
         "FF": 146527,
         "LUT": 158864,
         "throughput": {
-            "ADPCM_0": 10.747,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.383,
-            "DFADD_0": 7.447
+            "ADPCM_0": 1.38,
+            "ADPCM_1": 2.736,
+            "ADPCM_2": 5.353,
+            "AES_0": 7.388,
+            "DFADD_0": 10.802
         },
         "throughput_total": {
-            "ADPCM": 10.747,
-            "AES": 9.481,
-            "DFADD": 7.447
+            "ADPCM": 9.469,
+            "AES": 7.388,
+            "DFADD": 10.802
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -304,16 +304,16 @@
         "FF": 136651,
         "LUT": 140007,
         "throughput": {
-            "ADPCM_0": 10.631,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 3.999
+            "ADPCM_0": 1.381,
+            "AES_0": 3.98,
+            "AES_1": 7.716,
+            "AES_2": 7.709,
+            "DFADD_0": 10.624
         },
         "throughput_total": {
-            "ADPCM": 10.631,
-            "AES": 1.384,
-            "DFADD": 19.445
+            "ADPCM": 1.381,
+            "AES": 19.405,
+            "DFADD": 10.624
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -336,15 +336,15 @@
         "FF": 130242,
         "LUT": 131860,
         "throughput": {
-            "ADPCM_0": 6.132,
-            "AES_0": 1.385,
-            "DFADD_0": 7.759,
-            "DFADD_1": 0.0
+            "ADPCM_0": 1.381,
+            "AES_0": 7.738,
+            "DFADD_0": 6.127,
+            "DFADD_1": 11.712
         },
         "throughput_total": {
-            "ADPCM": 17.865,
-            "AES": 1.385,
-            "DFADD": 7.759
+            "ADPCM": 1.381,
+            "AES": 7.738,
+            "DFADD": 17.839
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -367,15 +367,15 @@
         "FF": 132456,
         "LUT": 139053,
         "throughput": {
-            "ADPCM_0": 5.761,
-            "AES_0": 1.385,
-            "DFADD_0": 4.041,
-            "DFADD_1": 0.0
+            "ADPCM_0": 1.384,
+            "AES_0": 4.031,
+            "DFADD_0": 5.747,
+            "DFADD_1": 22.743
         },
         "throughput_total": {
-            "ADPCM": 28.631,
-            "AES": 1.385,
-            "DFADD": 4.041
+            "ADPCM": 1.384,
+            "AES": 4.031,
+            "DFADD": 28.49
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -398,15 +398,15 @@
         "FF": 125831,
         "LUT": 123954,
         "throughput": {
-            "ADPCM_0": 12.583,
-            "AES_0": 1.385,
-            "AES_1": 0.0,
-            "DFADD_0": 2.082
+            "ADPCM_0": 1.384,
+            "AES_0": 2.077,
+            "AES_1": 4.05,
+            "DFADD_0": 12.61
         },
         "throughput_total": {
-            "ADPCM": 12.583,
-            "AES": 1.385,
-            "DFADD": 6.144
+            "ADPCM": 1.384,
+            "AES": 6.127,
+            "DFADD": 12.61
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -429,17 +429,17 @@
         "FF": 135531,
         "LUT": 135286,
         "throughput": {
-            "ADPCM_0": 3.658,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "DFADD_0": 3.996,
-            "DFADD_1": 3.999,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.379,
+            "AES_0": 3.994,
+            "AES_1": 3.992,
+            "DFADD_0": 3.653,
+            "DFADD_1": 3.649,
+            "DFADD_2": 3.679
         },
         "throughput_total": {
-            "ADPCM": 11.008,
-            "AES": 1.384,
-            "DFADD": 7.995
+            "ADPCM": 1.379,
+            "AES": 7.986,
+            "DFADD": 10.981
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -462,17 +462,17 @@
         "FF": 145469,
         "LUT": 154892,
         "throughput": {
-            "ADPCM_0": 3.429,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "DFADD_0": 2.014,
-            "DFADD_1": 7.62,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.383,
+            "AES_0": 2.008,
+            "AES_1": 7.581,
+            "DFADD_0": 3.415,
+            "DFADD_1": 3.431,
+            "DFADD_2": 13.557
         },
         "throughput_total": {
-            "ADPCM": 20.424,
-            "AES": 1.384,
-            "DFADD": 9.634
+            "ADPCM": 1.383,
+            "AES": 9.589,
+            "DFADD": 20.403
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -495,17 +495,17 @@
         "FF": 138785,
         "LUT": 141445,
         "throughput": {
-            "ADPCM_0": 5.334,
-            "ADPCM_1": 10.575,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.384,
-            "DFADD_0": 3.969,
-            "DFADD_1": 0.0
+            "ADPCM_0": 1.384,
+            "ADPCM_1": 1.382,
+            "ADPCM_2": 1.381,
+            "AES_0": 3.953,
+            "DFADD_0": 5.31,
+            "DFADD_1": 10.572
         },
         "throughput_total": {
-            "ADPCM": 15.909,
-            "AES": 4.151,
-            "DFADD": 3.969
+            "ADPCM": 4.147,
+            "AES": 3.953,
+            "DFADD": 15.882
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -528,17 +528,17 @@
         "FF": 164044,
         "LUT": 190489,
         "throughput": {
-            "ADPCM_0": 3.32,
-            "ADPCM_1": 13.04,
-            "AES_0": 2.738,
-            "DFADD_0": 1.956,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 5.35,
+            "AES_0": 1.951,
+            "DFADD_0": 3.308,
+            "DFADD_1": 12.977,
+            "DFADD_2": 13.023
         },
         "throughput_total": {
-            "ADPCM": 29.381,
-            "AES": 8.096,
-            "DFADD": 1.956
+            "ADPCM": 8.086,
+            "AES": 1.951,
+            "DFADD": 29.308
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -561,17 +561,17 @@
         "FF": 156015,
         "LUT": 168931,
         "throughput": {
-            "ADPCM_0": 10.66,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.379,
-            "AES_1": 5.328,
-            "DFADD_0": 1.947
+            "ADPCM_0": 1.378,
+            "ADPCM_1": 5.343,
+            "ADPCM_2": 5.338,
+            "AES_0": 1.949,
+            "AES_1": 1.946,
+            "DFADD_0": 10.641
         },
         "throughput_total": {
-            "ADPCM": 10.66,
-            "AES": 12.034,
-            "DFADD": 3.892
+            "ADPCM": 12.059,
+            "AES": 3.895,
+            "DFADD": 10.641
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -594,17 +594,17 @@
         "FF": 145728,
         "LUT": 154805,
         "throughput": {
-            "ADPCM_0": 6.746,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "DFADD_0": 2.01,
-            "DFADD_1": 7.588,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.384,
+            "AES_0": 2.01,
+            "AES_1": 7.547,
+            "DFADD_0": 6.72,
+            "DFADD_1": 6.713,
+            "DFADD_2": 6.82
         },
         "throughput_total": {
-            "ADPCM": 20.308,
-            "AES": 1.384,
-            "DFADD": 9.598
+            "ADPCM": 1.384,
+            "AES": 9.557,
+            "DFADD": 20.253
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -627,17 +627,17 @@
         "FF": 146162,
         "LUT": 159287,
         "throughput": {
-            "ADPCM_0": 6.87,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "DFADD_0": 2.036,
-            "DFADD_1": 2.035,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.384,
+            "AES_0": 2.031,
+            "AES_1": 2.028,
+            "DFADD_0": 6.844,
+            "DFADD_1": 6.835,
+            "DFADD_2": 13.582
         },
         "throughput_total": {
-            "ADPCM": 27.315,
-            "AES": 1.384,
-            "DFADD": 4.071
+            "ADPCM": 1.384,
+            "AES": 4.059,
+            "DFADD": 27.261
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -660,17 +660,17 @@
         "FF": 160820,
         "LUT": 180448,
         "throughput": {
-            "ADPCM_0": 9.207,
-            "ADPCM_1": 18.224,
-            "ADPCM_2": 0.0,
-            "AES_0": 2.738,
-            "DFADD_0": 7.402,
-            "DFADD_1": 0.0
+            "ADPCM_0": 2.728,
+            "ADPCM_1": 2.722,
+            "ADPCM_2": 2.716,
+            "AES_0": 7.384,
+            "DFADD_0": 9.197,
+            "DFADD_1": 18.198
         },
         "throughput_total": {
-            "ADPCM": 27.431,
-            "AES": 8.205,
-            "DFADD": 7.402
+            "ADPCM": 8.166,
+            "AES": 7.384,
+            "DFADD": 27.395
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -693,17 +693,17 @@
         "FF": 166730,
         "LUT": 189290,
         "throughput": {
-            "ADPCM_0": 19.242,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.378,
-            "DFADD_0": 1.901
+            "ADPCM_0": 1.377,
+            "ADPCM_1": 2.724,
+            "ADPCM_2": 5.204,
+            "ADPCM_3": 5.199,
+            "AES_0": 1.892,
+            "DFADD_0": 19.239
         },
         "throughput_total": {
-            "ADPCM": 19.242,
-            "AES": 14.535,
-            "DFADD": 1.901
+            "ADPCM": 14.504,
+            "AES": 1.892,
+            "DFADD": 19.239
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -726,17 +726,17 @@
         "FF": 155196,
         "LUT": 166337,
         "throughput": {
-            "ADPCM_0": 18.596,
-            "ADPCM_1": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 2.738,
-            "AES_2": 0.0,
-            "DFADD_0": 3.957
+            "ADPCM_0": 1.379,
+            "ADPCM_1": 2.736,
+            "AES_0": 3.948,
+            "AES_1": 7.557,
+            "AES_2": 7.552,
+            "DFADD_0": 18.589
         },
         "throughput_total": {
-            "ADPCM": 18.596,
-            "AES": 4.122,
-            "DFADD": 19.135
+            "ADPCM": 4.115,
+            "AES": 19.057,
+            "DFADD": 18.589
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -759,17 +759,17 @@
         "FF": 152911,
         "LUT": 169906,
         "throughput": {
-            "ADPCM_0": 18.338,
-            "AES_0": 2.74,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 2.028,
-            "DFADD_1": 2.024
+            "ADPCM_0": 2.737,
+            "AES_0": 2.023,
+            "AES_1": 2.017,
+            "AES_2": 3.954,
+            "DFADD_0": 18.329,
+            "DFADD_1": 18.312
         },
         "throughput_total": {
-            "ADPCM": 36.674,
-            "AES": 2.74,
-            "DFADD": 8.024
+            "ADPCM": 2.737,
+            "AES": 7.994,
+            "DFADD": 36.641
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -792,16 +792,16 @@
         "FF": 160678,
         "LUT": 181287,
         "throughput": {
-            "ADPCM_0": 22.577,
-            "AES_0": 5.364,
-            "AES_1": 0.0,
-            "DFADD_0": 4.053,
-            "DFADD_1": 3.948
+            "ADPCM_0": 5.361,
+            "AES_0": 4.039,
+            "AES_1": 3.937,
+            "DFADD_0": 22.487,
+            "DFADD_1": 21.207
         },
         "throughput_total": {
-            "ADPCM": 43.787,
-            "AES": 5.364,
-            "DFADD": 8.001
+            "ADPCM": 5.361,
+            "AES": 7.976,
+            "DFADD": 43.694
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -824,18 +824,18 @@
         "FF": 169424,
         "LUT": 182777,
         "throughput": {
-            "ADPCM_0": 5.49,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 1.379,
-            "DFADD_0": 7.143
+            "ADPCM_0": 1.374,
+            "ADPCM_1": 1.379,
+            "ADPCM_2": 1.378,
+            "ADPCM_3": 5.196,
+            "ADPCM_4": 5.191,
+            "AES_0": 7.12,
+            "DFADD_0": 5.482
         },
         "throughput_total": {
-            "ADPCM": 5.49,
-            "AES": 14.568,
-            "DFADD": 7.143
+            "ADPCM": 14.518,
+            "AES": 7.12,
+            "DFADD": 5.482
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -858,18 +858,18 @@
         "FF": 159464,
         "LUT": 166407,
         "throughput": {
-            "ADPCM_0": 5.806,
-            "ADPCM_1": 0.0,
-            "AES_0": 5.226,
-            "AES_1": 5.226,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 1.943
+            "ADPCM_0": 5.213,
+            "ADPCM_1": 5.208,
+            "AES_0": 1.932,
+            "AES_1": 1.925,
+            "AES_2": 1.935,
+            "AES_3": 1.934,
+            "DFADD_0": 5.796
         },
         "throughput_total": {
-            "ADPCM": 5.806,
-            "AES": 10.452,
-            "DFADD": 7.756
+            "ADPCM": 10.421,
+            "AES": 7.726,
+            "DFADD": 5.796
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -892,18 +892,18 @@
         "FF": 159231,
         "LUT": 167734,
         "throughput": {
-            "ADPCM_0": 5.243,
-            "ADPCM_1": 5.187,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 2.723,
-            "DFADD_0": 3.841,
-            "DFADD_1": 0.0
+            "ADPCM_0": 2.703,
+            "ADPCM_1": 2.701,
+            "ADPCM_2": 2.698,
+            "ADPCM_3": 2.696,
+            "AES_0": 3.83,
+            "DFADD_0": 5.213,
+            "DFADD_1": 5.203
         },
         "throughput_total": {
-            "ADPCM": 10.43,
-            "AES": 10.89,
-            "DFADD": 3.841
+            "ADPCM": 10.798,
+            "AES": 3.83,
+            "DFADD": 10.416
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -959,18 +959,18 @@
         "FF": 173709,
         "LUT": 193034,
         "throughput": {
-            "ADPCM_0": 4.932,
-            "ADPCM_1": 9.762,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 2.731,
-            "DFADD_0": 1.881,
-            "DFADD_1": 0.0
+            "ADPCM_0": 2.725,
+            "ADPCM_1": 2.722,
+            "ADPCM_2": 5.188,
+            "ADPCM_3": 5.183,
+            "AES_0": 1.881,
+            "DFADD_0": 4.928,
+            "DFADD_1": 9.739
         },
         "throughput_total": {
-            "ADPCM": 14.694,
-            "AES": 15.878,
-            "DFADD": 1.881
+            "ADPCM": 15.818,
+            "AES": 1.881,
+            "DFADD": 14.667
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -993,18 +993,18 @@
         "FF": 163952,
         "LUT": 179131,
         "throughput": {
-            "ADPCM_0": 4.943,
-            "ADPCM_1": 19.167,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.384,
-            "DFADD_0": 3.853,
-            "DFADD_1": 0.0
+            "ADPCM_0": 1.38,
+            "ADPCM_1": 1.379,
+            "ADPCM_2": 1.377,
+            "ADPCM_3": 5.354,
+            "AES_0": 3.843,
+            "DFADD_0": 4.927,
+            "DFADD_1": 19.164
         },
         "throughput_total": {
-            "ADPCM": 24.11,
-            "AES": 9.507,
-            "DFADD": 3.853
+            "ADPCM": 9.49,
+            "AES": 3.843,
+            "DFADD": 24.091
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1027,18 +1027,18 @@
         "FF": 169072,
         "LUT": 186125,
         "throughput": {
-            "ADPCM_0": 4.661,
-            "ADPCM_1": 18.196,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 2.737,
-            "DFADD_0": 1.938,
-            "DFADD_1": 7.346
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 2.728,
+            "ADPCM_2": 5.334,
+            "AES_0": 1.928,
+            "AES_1": 7.336,
+            "DFADD_0": 4.657,
+            "DFADD_1": 18.142
         },
         "throughput_total": {
-            "ADPCM": 22.857,
-            "AES": 9.477,
-            "DFADD": 9.284
+            "ADPCM": 9.443,
+            "AES": 9.264,
+            "DFADD": 22.799
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1061,18 +1061,18 @@
         "FF": 177603,
         "LUT": 200496,
         "throughput": {
-            "ADPCM_0": 4.666,
-            "ADPCM_1": 17.954,
-            "ADPCM_2": 0.0,
-            "AES_0": 2.736,
-            "AES_1": 5.351,
-            "DFADD_0": 3.75,
-            "DFADD_1": 3.751
+            "ADPCM_0": 2.723,
+            "ADPCM_1": 5.351,
+            "ADPCM_2": 5.346,
+            "AES_0": 3.735,
+            "AES_1": 3.732,
+            "DFADD_0": 4.645,
+            "DFADD_1": 17.962
         },
         "throughput_total": {
-            "ADPCM": 22.62,
-            "AES": 13.436,
-            "DFADD": 7.501
+            "ADPCM": 13.42,
+            "AES": 7.467,
+            "DFADD": 22.607
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1095,18 +1095,18 @@
         "FF": 152296,
         "LUT": 155435,
         "throughput": {
-            "ADPCM_0": 11.218,
-            "ADPCM_1": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 5.363,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 2.009
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 5.346,
+            "AES_0": 1.998,
+            "AES_1": 1.993,
+            "AES_2": 2.002,
+            "AES_3": 2.002,
+            "DFADD_0": 11.204
         },
         "throughput_total": {
-            "ADPCM": 11.218,
-            "AES": 6.746,
-            "DFADD": 8.025
+            "ADPCM": 6.727,
+            "AES": 7.995,
+            "DFADD": 11.204
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1129,18 +1129,18 @@
         "FF": 152962,
         "LUT": 153394,
         "throughput": {
-            "ADPCM_0": 10.859,
-            "AES_0": 2.739,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 4.005
+            "ADPCM_0": 2.736,
+            "AES_0": 3.996,
+            "AES_1": 3.99,
+            "AES_2": 3.98,
+            "AES_3": 3.976,
+            "AES_4": 3.969,
+            "DFADD_0": 10.862
         },
         "throughput_total": {
-            "ADPCM": 10.859,
-            "AES": 2.739,
-            "DFADD": 20.006
+            "ADPCM": 2.736,
+            "AES": 19.911,
+            "DFADD": 10.862
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1163,18 +1163,18 @@
         "FF": 186038,
         "LUT": 216022,
         "throughput": {
-            "ADPCM_0": 6.043,
-            "ADPCM_1": 5.866,
-            "AES_0": 5.358,
-            "AES_1": 5.357,
-            "DFADD_0": 7.194,
-            "DFADD_1": 7.194,
-            "DFADD_2": 0.0
+            "ADPCM_0": 5.351,
+            "ADPCM_1": 5.346,
+            "AES_0": 7.163,
+            "AES_1": 7.155,
+            "DFADD_0": 6.017,
+            "DFADD_1": 5.832,
+            "DFADD_2": 11.58
         },
         "throughput_total": {
-            "ADPCM": 23.486,
-            "AES": 10.715,
-            "DFADD": 14.388
+            "ADPCM": 10.697,
+            "AES": 14.318,
+            "DFADD": 23.429
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1197,18 +1197,18 @@
         "FF": 168829,
         "LUT": 195360,
         "throughput": {
-            "ADPCM_0": 5.161,
-            "ADPCM_1": 5.081,
-            "AES_0": 1.383,
-            "DFADD_0": 1.966,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.377,
+            "ADPCM_1": 2.736,
+            "AES_0": 1.962,
+            "DFADD_0": 5.141,
+            "DFADD_1": 5.063,
+            "DFADD_2": 10.056,
+            "DFADD_3": 10.093
         },
         "throughput_total": {
-            "ADPCM": 30.422,
-            "AES": 4.121,
-            "DFADD": 1.966
+            "ADPCM": 4.113,
+            "AES": 1.962,
+            "DFADD": 30.353
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1231,18 +1231,18 @@
         "FF": 173611,
         "LUT": 193528,
         "throughput": {
-            "ADPCM_0": 8.693,
-            "ADPCM_1": 17.037,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 1.383,
-            "DFADD_0": 7.382,
-            "DFADD_1": 7.375
+            "ADPCM_0": 1.383,
+            "ADPCM_1": 1.381,
+            "ADPCM_2": 5.339,
+            "AES_0": 7.337,
+            "AES_1": 7.322,
+            "DFADD_0": 8.694,
+            "DFADD_1": 17.019
         },
         "throughput_total": {
-            "ADPCM": 25.73,
-            "AES": 8.124,
-            "DFADD": 14.757
+            "ADPCM": 8.103,
+            "AES": 14.659,
+            "DFADD": 25.713
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1265,18 +1265,18 @@
         "FF": 184922,
         "LUT": 218149,
         "throughput": {
-            "ADPCM_0": 6.187,
-            "ADPCM_1": 12.107,
-            "ADPCM_2": 12.122,
-            "AES_0": 2.737,
-            "DFADD_0": 7.209,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.731,
+            "ADPCM_1": 2.728,
+            "ADPCM_2": 5.331,
+            "AES_0": 7.163,
+            "DFADD_0": 6.186,
+            "DFADD_1": 12.094,
+            "DFADD_2": 12.102
         },
         "throughput_total": {
-            "ADPCM": 30.416,
-            "AES": 10.827,
-            "DFADD": 7.209
+            "ADPCM": 10.79,
+            "AES": 7.163,
+            "DFADD": 30.382
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1299,18 +1299,18 @@
         "FF": 193831,
         "LUT": 242327,
         "throughput": {
-            "ADPCM_0": 0.921,
-            "AES_0": 5.359,
-            "DFADD_0": 7.063,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 5.339,
+            "AES_0": 7.024,
+            "DFADD_0": 0.912,
+            "DFADD_1": 9.26,
+            "DFADD_2": 9.244,
+            "DFADD_3": 9.216,
+            "DFADD_4": 9.147
         },
         "throughput_total": {
-            "ADPCM": 37.83,
-            "AES": 5.359,
-            "DFADD": 7.063
+            "ADPCM": 5.339,
+            "AES": 7.024,
+            "DFADD": 37.779
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1333,18 +1333,18 @@
         "FF": 165805,
         "LUT": 183952,
         "throughput": {
-            "ADPCM_0": 17.507,
-            "ADPCM_1": 17.488,
-            "AES_0": 1.384,
-            "AES_1": 2.738,
-            "AES_2": 0.0,
-            "DFADD_0": 1.989,
-            "DFADD_1": 1.989
+            "ADPCM_0": 1.383,
+            "ADPCM_1": 2.731,
+            "AES_0": 1.986,
+            "AES_1": 1.983,
+            "AES_2": 7.462,
+            "DFADD_0": 17.504,
+            "DFADD_1": 17.463
         },
         "throughput_total": {
-            "ADPCM": 34.995,
-            "AES": 4.122,
-            "DFADD": 11.489
+            "ADPCM": 4.114,
+            "AES": 11.431,
+            "DFADD": 34.967
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1367,18 +1367,18 @@
         "FF": 172805,
         "LUT": 194437,
         "throughput": {
-            "ADPCM_0": 16.978,
-            "ADPCM_1": 16.926,
-            "AES_0": 2.738,
-            "AES_1": 2.738,
-            "AES_2": 0.0,
-            "DFADD_0": 3.906,
-            "DFADD_1": 3.901
+            "ADPCM_0": 2.737,
+            "ADPCM_1": 2.734,
+            "AES_0": 3.887,
+            "AES_1": 3.881,
+            "AES_2": 7.409,
+            "DFADD_0": 16.971,
+            "DFADD_1": 16.907
         },
         "throughput_total": {
-            "ADPCM": 33.904,
-            "AES": 5.476,
-            "DFADD": 15.266
+            "ADPCM": 5.471,
+            "AES": 15.177,
+            "DFADD": 33.878
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1401,17 +1401,17 @@
         "FF": 168615,
         "LUT": 182039,
         "throughput": {
-            "ADPCM_0": 5.748,
-            "AES_0": 5.364,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 4.026,
-            "DFADD_1": 7.546
+            "ADPCM_0": 5.351,
+            "AES_0": 3.998,
+            "AES_1": 7.517,
+            "AES_2": 7.685,
+            "DFADD_0": 5.74,
+            "DFADD_1": 20.45
         },
         "throughput_total": {
-            "ADPCM": 26.256,
-            "AES": 5.364,
-            "DFADD": 19.272
+            "ADPCM": 5.351,
+            "AES": 19.2,
+            "DFADD": 26.19
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1434,17 +1434,17 @@
         "FF": 141596,
         "LUT": 137024,
         "throughput": {
-            "ADPCM_0": 12.061,
-            "ADPCM_1": 0.0,
-            "AES_0": 1.385,
-            "AES_1": 1.384,
-            "AES_2": 0.0,
-            "DFADD_0": 2.078
+            "ADPCM_0": 1.384,
+            "ADPCM_1": 1.382,
+            "AES_0": 2.071,
+            "AES_1": 2.056,
+            "AES_2": 2.066,
+            "DFADD_0": 12.057
         },
         "throughput_total": {
-            "ADPCM": 12.061,
-            "AES": 2.769,
-            "DFADD": 6.219
+            "ADPCM": 2.766,
+            "AES": 6.193,
+            "DFADD": 12.057
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1467,17 +1467,17 @@
         "FF": 172472,
         "LUT": 197134,
         "throughput": {
-            "ADPCM_0": 10.758,
-            "ADPCM_1": 21.45,
-            "AES_0": 1.384,
-            "DFADD_0": 4.004,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.383,
+            "ADPCM_1": 5.348,
+            "AES_0": 3.986,
+            "DFADD_0": 10.702,
+            "DFADD_1": 21.449,
+            "DFADD_2": 21.162
         },
         "throughput_total": {
-            "ADPCM": 53.369,
-            "AES": 6.745,
-            "DFADD": 4.004
+            "ADPCM": 6.731,
+            "AES": 3.986,
+            "DFADD": 53.313
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1500,17 +1500,17 @@
         "FF": 153964,
         "LUT": 159571,
         "throughput": {
-            "ADPCM_0": 21.825,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "DFADD_0": 2.073
+            "ADPCM_0": 1.384,
+            "ADPCM_1": 1.382,
+            "ADPCM_2": 2.734,
+            "AES_0": 2.064,
+            "AES_1": 3.994,
+            "DFADD_0": 21.841
         },
         "throughput_total": {
-            "ADPCM": 21.825,
-            "AES": 5.507,
-            "DFADD": 6.088
+            "ADPCM": 5.5,
+            "AES": 6.058,
+            "DFADD": 21.841
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1533,19 +1533,19 @@
         "FF": 179515,
         "LUT": 192552,
         "throughput": {
-            "ADPCM_0": 5.302,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "ADPCM_5": 0.0,
-            "AES_0": 2.732,
-            "DFADD_0": 7.193
+            "ADPCM_0": 2.734,
+            "ADPCM_1": 2.731,
+            "ADPCM_2": 2.728,
+            "ADPCM_3": 2.726,
+            "ADPCM_4": 2.723,
+            "ADPCM_5": 2.718,
+            "AES_0": 7.189,
+            "DFADD_0": 5.294
         },
         "throughput_total": {
-            "ADPCM": 5.302,
-            "AES": 16.372,
-            "DFADD": 7.193
+            "ADPCM": 16.36,
+            "AES": 7.189,
+            "DFADD": 5.294
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1568,19 +1568,19 @@
         "FF": 167920,
         "LUT": 169396,
         "throughput": {
-            "ADPCM_0": 5.155,
-            "ADPCM_1": 0.0,
-            "AES_0": 2.739,
-            "AES_1": 2.738,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.947
+            "ADPCM_0": 2.737,
+            "ADPCM_1": 2.731,
+            "AES_0": 1.947,
+            "AES_1": 3.904,
+            "AES_2": 3.854,
+            "AES_3": 7.439,
+            "AES_4": 7.482,
+            "DFADD_0": 5.151
         },
         "throughput_total": {
-            "ADPCM": 5.155,
-            "AES": 5.477,
-            "DFADD": 24.731
+            "ADPCM": 5.468,
+            "AES": 24.626,
+            "DFADD": 5.151
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1603,19 +1603,19 @@
         "FF": 167903,
         "LUT": 175795,
         "throughput": {
-            "ADPCM_0": 3.478,
-            "ADPCM_1": 3.443,
-            "ADPCM_2": 3.473,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.381,
-            "DFADD_0": 7.297,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 1.379,
+            "ADPCM_2": 1.378,
+            "ADPCM_3": 5.336,
+            "AES_0": 7.258,
+            "DFADD_0": 3.461,
+            "DFADD_1": 3.424,
+            "DFADD_2": 3.476
         },
         "throughput_total": {
-            "ADPCM": 10.394,
-            "AES": 9.497,
-            "DFADD": 7.297
+            "ADPCM": 9.474,
+            "AES": 7.258,
+            "DFADD": 10.361
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1638,19 +1638,19 @@
         "FF": 171630,
         "LUT": 181656,
         "throughput": {
-            "ADPCM_0": 3.457,
-            "ADPCM_1": 3.442,
-            "ADPCM_2": 3.415,
-            "AES_0": 2.737,
-            "AES_1": 2.736,
-            "DFADD_0": 3.839,
-            "DFADD_1": 3.833,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.731,
+            "ADPCM_1": 2.728,
+            "ADPCM_2": 5.331,
+            "AES_0": 3.816,
+            "AES_1": 3.806,
+            "DFADD_0": 3.46,
+            "DFADD_1": 3.439,
+            "DFADD_2": 3.409
         },
         "throughput_total": {
-            "ADPCM": 10.314,
-            "AES": 10.827,
-            "DFADD": 7.672
+            "ADPCM": 10.79,
+            "AES": 7.622,
+            "DFADD": 10.308
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1673,19 +1673,19 @@
         "FF": 173182,
         "LUT": 182518,
         "throughput": {
-            "ADPCM_0": 3.274,
-            "ADPCM_1": 3.21,
-            "AES_0": 2.737,
-            "AES_1": 5.358,
-            "AES_2": 0.0,
-            "DFADD_0": 1.937,
-            "DFADD_1": 7.246,
-            "DFADD_2": 7.258
+            "ADPCM_0": 2.731,
+            "ADPCM_1": 5.339,
+            "AES_0": 1.928,
+            "AES_1": 7.195,
+            "AES_2": 7.199,
+            "DFADD_0": 3.274,
+            "DFADD_1": 3.208,
+            "DFADD_2": 3.247
         },
         "throughput_total": {
-            "ADPCM": 9.735,
-            "AES": 8.095,
-            "DFADD": 16.441
+            "ADPCM": 8.07,
+            "AES": 16.322,
+            "DFADD": 9.729
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1708,19 +1708,19 @@
         "FF": 161050,
         "LUT": 165183,
         "throughput": {
-            "ADPCM_0": 2.738,
-            "ADPCM_1": 2.734,
-            "AES_0": 2.738,
-            "AES_1": 2.738,
-            "DFADD_0": 3.913,
-            "DFADD_1": 3.92,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.731,
+            "ADPCM_1": 2.728,
+            "AES_0": 3.895,
+            "AES_1": 3.896,
+            "DFADD_0": 2.718,
+            "DFADD_1": 2.735,
+            "DFADD_2": 2.645,
+            "DFADD_3": 2.665
         },
         "throughput_total": {
-            "ADPCM": 10.785,
-            "AES": 5.476,
-            "DFADD": 7.833
+            "ADPCM": 5.459,
+            "AES": 7.791,
+            "DFADD": 10.763
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1743,19 +1743,19 @@
         "FF": 173613,
         "LUT": 188381,
         "throughput": {
-            "ADPCM_0": 2.164,
-            "ADPCM_1": 2.164,
-            "AES_0": 5.222,
-            "DFADD_0": 3.71,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 5.217,
+            "ADPCM_1": 5.212,
+            "AES_0": 3.701,
+            "DFADD_0": 2.156,
+            "DFADD_1": 2.153,
+            "DFADD_2": 2.088,
+            "DFADD_3": 2.119,
+            "DFADD_4": 2.098
         },
         "throughput_total": {
-            "ADPCM": 10.657,
-            "AES": 10.444,
-            "DFADD": 3.71
+            "ADPCM": 10.429,
+            "AES": 3.701,
+            "DFADD": 10.614
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1778,19 +1778,19 @@
         "FF": 161380,
         "LUT": 169542,
         "throughput": {
-            "ADPCM_0": 1.908,
-            "AES_0": 5.361,
-            "DFADD_0": 1.926,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0,
-            "DFADD_5": 0.0
+            "ADPCM_0": 5.352,
+            "AES_0": 1.92,
+            "DFADD_0": 1.902,
+            "DFADD_1": 1.886,
+            "DFADD_2": 1.828,
+            "DFADD_3": 1.836,
+            "DFADD_4": 1.851,
+            "DFADD_5": 1.85
         },
         "throughput_total": {
-            "ADPCM": 11.189,
-            "AES": 5.361,
-            "DFADD": 1.926
+            "ADPCM": 5.352,
+            "AES": 1.92,
+            "DFADD": 11.153
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1813,19 +1813,19 @@
         "FF": 173711,
         "LUT": 187485,
         "throughput": {
-            "ADPCM_0": 2.629,
-            "ADPCM_1": 2.586,
-            "ADPCM_2": 2.559,
-            "AES_0": 1.383,
-            "DFADD_0": 7.259,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 2.728,
+            "ADPCM_2": 5.331,
+            "AES_0": 7.215,
+            "DFADD_0": 2.612,
+            "DFADD_1": 2.585,
+            "DFADD_2": 2.557,
+            "DFADD_3": 5.089
         },
         "throughput_total": {
-            "ADPCM": 12.872,
-            "AES": 9.473,
-            "DFADD": 7.259
+            "ADPCM": 9.44,
+            "AES": 7.215,
+            "DFADD": 12.843
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1848,19 +1848,19 @@
         "FF": 175080,
         "LUT": 191604,
         "throughput": {
-            "ADPCM_0": 2.61,
-            "ADPCM_1": 2.613,
-            "ADPCM_2": 5.164,
-            "AES_0": 2.737,
-            "DFADD_0": 1.918,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.734,
+            "ADPCM_1": 2.731,
+            "ADPCM_2": 5.336,
+            "AES_0": 1.91,
+            "DFADD_0": 2.591,
+            "DFADD_1": 2.598,
+            "DFADD_2": 5.169,
+            "DFADD_3": 5.163
         },
         "throughput_total": {
-            "ADPCM": 15.55,
-            "AES": 10.828,
-            "DFADD": 1.918
+            "ADPCM": 10.801,
+            "AES": 1.91,
+            "DFADD": 15.521
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1883,19 +1883,19 @@
         "FF": 179869,
         "LUT": 206767,
         "throughput": {
-            "ADPCM_0": 2.094,
-            "AES_0": 5.359,
-            "AES_1": 0.0,
-            "DFADD_0": 1.929,
-            "DFADD_1": 1.929,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 5.324,
+            "AES_0": 1.929,
+            "AES_1": 1.927,
+            "DFADD_0": 2.091,
+            "DFADD_1": 2.087,
+            "DFADD_2": 4.043,
+            "DFADD_3": 8.003,
+            "DFADD_4": 8.017
         },
         "throughput_total": {
-            "ADPCM": 24.348,
-            "AES": 5.359,
-            "DFADD": 3.858
+            "ADPCM": 5.324,
+            "AES": 3.856,
+            "DFADD": 24.241
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1918,19 +1918,19 @@
         "FF": 170105,
         "LUT": 177788,
         "throughput": {
-            "ADPCM_0": 4.795,
-            "ADPCM_1": 9.406,
-            "ADPCM_2": 0.0,
-            "AES_0": 2.739,
-            "AES_1": 2.739,
-            "AES_2": 2.738,
-            "DFADD_0": 1.967,
-            "DFADD_1": 3.829
+            "ADPCM_0": 2.734,
+            "ADPCM_1": 2.732,
+            "ADPCM_2": 2.726,
+            "AES_0": 1.955,
+            "AES_1": 3.805,
+            "AES_2": 7.373,
+            "DFADD_0": 4.793,
+            "DFADD_1": 9.388
         },
         "throughput_total": {
-            "ADPCM": 14.201,
-            "AES": 8.216,
-            "DFADD": 13.184
+            "ADPCM": 8.192,
+            "AES": 13.133,
+            "DFADD": 14.181
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1953,19 +1953,19 @@
         "FF": 162723,
         "LUT": 172479,
         "throughput": {
-            "ADPCM_0": 2.671,
-            "ADPCM_1": 5.302,
-            "AES_0": 1.384,
-            "AES_1": 2.738,
-            "DFADD_0": 1.985,
-            "DFADD_1": 1.988,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.38,
+            "ADPCM_1": 2.726,
+            "AES_0": 1.974,
+            "AES_1": 1.974,
+            "DFADD_0": 2.671,
+            "DFADD_1": 5.297,
+            "DFADD_2": 5.266,
+            "DFADD_3": 5.261
         },
         "throughput_total": {
-            "ADPCM": 18.52,
-            "AES": 4.122,
-            "DFADD": 3.973
+            "ADPCM": 4.106,
+            "AES": 3.948,
+            "DFADD": 18.495
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -1988,19 +1988,19 @@
         "FF": 179526,
         "LUT": 197381,
         "throughput": {
-            "ADPCM_0": 3.198,
-            "ADPCM_1": 6.237,
-            "AES_0": 1.383,
-            "AES_1": 5.359,
-            "AES_2": 0.0,
-            "DFADD_0": 3.873,
-            "DFADD_1": 3.87,
-            "DFADD_2": 7.306
+            "ADPCM_0": 1.379,
+            "ADPCM_1": 5.329,
+            "AES_0": 3.845,
+            "AES_1": 3.866,
+            "AES_2": 7.286,
+            "DFADD_0": 3.192,
+            "DFADD_1": 6.221,
+            "DFADD_2": 12.281
         },
         "throughput_total": {
-            "ADPCM": 21.76,
-            "AES": 6.742,
-            "DFADD": 15.049
+            "ADPCM": 6.708,
+            "AES": 14.997,
+            "DFADD": 21.694
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2023,19 +2023,19 @@
         "FF": 172778,
         "LUT": 187457,
         "throughput": {
-            "ADPCM_0": 3.255,
-            "ADPCM_1": 6.418,
-            "AES_0": 2.739,
-            "AES_1": 2.738,
-            "AES_2": 0.0,
-            "DFADD_0": 1.98,
-            "DFADD_1": 1.976,
-            "DFADD_2": 7.389
+            "ADPCM_0": 2.723,
+            "ADPCM_1": 2.721,
+            "AES_0": 1.979,
+            "AES_1": 1.974,
+            "AES_2": 7.364,
+            "DFADD_0": 3.246,
+            "DFADD_1": 6.394,
+            "DFADD_2": 12.644
         },
         "throughput_total": {
-            "ADPCM": 22.372,
-            "AES": 5.477,
-            "DFADD": 11.345
+            "ADPCM": 5.444,
+            "AES": 11.317,
+            "DFADD": 22.284
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2058,19 +2058,19 @@
         "FF": 170486,
         "LUT": 189156,
         "throughput": {
-            "ADPCM_0": 2.577,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 2.001,
-            "DFADD_1": 2.0,
-            "DFADD_2": 3.977,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.382,
+            "AES_0": 1.995,
+            "AES_1": 1.993,
+            "AES_2": 3.954,
+            "DFADD_0": 2.563,
+            "DFADD_1": 5.068,
+            "DFADD_2": 9.94,
+            "DFADD_3": 9.93
         },
         "throughput_total": {
-            "ADPCM": 27.559,
-            "AES": 1.384,
-            "DFADD": 7.978
+            "ADPCM": 1.382,
+            "AES": 7.942,
+            "DFADD": 27.501
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2093,19 +2093,19 @@
         "FF": 202893,
         "LUT": 251732,
         "throughput": {
-            "ADPCM_0": 1.598,
-            "AES_0": 5.358,
-            "DFADD_0": 7.031,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0,
-            "DFADD_5": 0.0
+            "ADPCM_0": 5.354,
+            "AES_0": 7.006,
+            "DFADD_0": 1.595,
+            "DFADD_1": 3.384,
+            "DFADD_2": 6.432,
+            "DFADD_3": 6.415,
+            "DFADD_4": 6.471,
+            "DFADD_5": 6.527
         },
         "throughput_total": {
-            "ADPCM": 30.951,
-            "AES": 5.358,
-            "DFADD": 7.031
+            "ADPCM": 5.354,
+            "AES": 7.006,
+            "DFADD": 30.824
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2128,19 +2128,19 @@
         "FF": 185629,
         "LUT": 208525,
         "throughput": {
-            "ADPCM_0": 4.738,
-            "ADPCM_1": 18.4,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 2.737,
-            "DFADD_0": 1.903,
-            "DFADD_1": 0.0
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 2.734,
+            "ADPCM_2": 2.728,
+            "ADPCM_3": 2.725,
+            "ADPCM_4": 5.319,
+            "AES_0": 1.89,
+            "DFADD_0": 4.709,
+            "DFADD_1": 18.385
         },
         "throughput_total": {
-            "ADPCM": 23.138,
-            "AES": 16.289,
-            "DFADD": 1.903
+            "ADPCM": 16.242,
+            "AES": 1.89,
+            "DFADD": 23.094
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2163,19 +2163,19 @@
         "FF": 173939,
         "LUT": 183944,
         "throughput": {
-            "ADPCM_0": 10.543,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.382,
-            "AES_1": 2.705,
-            "AES_2": 2.705,
-            "DFADD_0": 1.933
+            "ADPCM_0": 1.379,
+            "ADPCM_1": 2.688,
+            "ADPCM_2": 2.686,
+            "ADPCM_3": 5.354,
+            "AES_0": 1.929,
+            "AES_1": 3.765,
+            "AES_2": 3.77,
+            "DFADD_0": 10.54
         },
         "throughput_total": {
-            "ADPCM": 10.543,
-            "AES": 12.149,
-            "DFADD": 9.504
+            "ADPCM": 12.107,
+            "AES": 9.464,
+            "DFADD": 10.54
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2198,19 +2198,19 @@
         "FF": 167962,
         "LUT": 173386,
         "throughput": {
-            "ADPCM_0": 8.834,
-            "AES_0": 2.737,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.982,
-            "DFADD_1": 1.961
+            "ADPCM_0": 2.736,
+            "AES_0": 1.98,
+            "AES_1": 1.96,
+            "AES_2": 3.89,
+            "AES_3": 7.511,
+            "AES_4": 7.503,
+            "DFADD_0": 8.782,
+            "DFADD_1": 8.758
         },
         "throughput_total": {
-            "ADPCM": 17.591,
-            "AES": 2.737,
-            "DFADD": 22.972
+            "ADPCM": 2.736,
+            "AES": 22.844,
+            "DFADD": 17.54
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2233,19 +2233,19 @@
         "FF": 170142,
         "LUT": 179979,
         "throughput": {
-            "ADPCM_0": 6.406,
-            "ADPCM_1": 6.263,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "AES_2": 0.0,
-            "DFADD_0": 3.972,
-            "DFADD_1": 7.508,
-            "DFADD_2": 7.507
+            "ADPCM_0": 1.379,
+            "ADPCM_1": 1.377,
+            "AES_0": 3.946,
+            "AES_1": 7.499,
+            "AES_2": 7.49,
+            "DFADD_0": 6.396,
+            "DFADD_1": 6.246,
+            "DFADD_2": 6.309
         },
         "throughput_total": {
-            "ADPCM": 18.999,
-            "AES": 2.768,
-            "DFADD": 18.987
+            "ADPCM": 2.756,
+            "AES": 18.935,
+            "DFADD": 18.951
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2268,19 +2268,19 @@
         "FF": 167952,
         "LUT": 184035,
         "throughput": {
-            "ADPCM_0": 4.343,
-            "ADPCM_1": 4.34,
-            "AES_0": 1.376,
-            "DFADD_0": 3.907,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 1.374,
+            "ADPCM_1": 1.373,
+            "AES_0": 3.894,
+            "DFADD_0": 4.329,
+            "DFADD_1": 4.322,
+            "DFADD_2": 4.213,
+            "DFADD_3": 4.209,
+            "DFADD_4": 4.206
         },
         "throughput_total": {
-            "ADPCM": 21.363,
-            "AES": 2.752,
-            "DFADD": 3.907
+            "ADPCM": 2.747,
+            "AES": 3.894,
+            "DFADD": 21.279
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2303,19 +2303,19 @@
         "FF": 179110,
         "LUT": 198713,
         "throughput": {
-            "ADPCM_0": 6.418,
-            "ADPCM_1": 6.347,
-            "AES_0": 1.383,
-            "AES_1": 5.36,
-            "AES_2": 0.0,
-            "DFADD_0": 3.896,
-            "DFADD_1": 3.892,
-            "DFADD_2": 3.883
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 5.343,
+            "AES_0": 3.875,
+            "AES_1": 3.865,
+            "AES_2": 3.853,
+            "DFADD_0": 6.419,
+            "DFADD_1": 6.342,
+            "DFADD_2": 12.469
         },
         "throughput_total": {
-            "ADPCM": 25.254,
-            "AES": 6.743,
-            "DFADD": 11.671
+            "ADPCM": 6.724,
+            "AES": 11.593,
+            "DFADD": 25.23
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2338,19 +2338,19 @@
         "FF": 185844,
         "LUT": 207368,
         "throughput": {
-            "ADPCM_0": 5.971,
-            "ADPCM_1": 5.815,
-            "AES_0": 2.737,
-            "AES_1": 2.737,
-            "AES_2": 0.0,
-            "DFADD_0": 7.363,
-            "DFADD_1": 7.354,
-            "DFADD_2": 7.357
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 2.734,
+            "AES_0": 7.332,
+            "AES_1": 7.318,
+            "AES_2": 7.312,
+            "DFADD_0": 5.938,
+            "DFADD_1": 5.78,
+            "DFADD_2": 11.617
         },
         "throughput_total": {
-            "ADPCM": 23.4,
-            "AES": 5.474,
-            "DFADD": 22.074
+            "ADPCM": 5.47,
+            "AES": 21.962,
+            "DFADD": 23.335
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2373,19 +2373,19 @@
         "FF": 193993,
         "LUT": 222106,
         "throughput": {
-            "ADPCM_0": 5.93,
-            "ADPCM_1": 5.834,
-            "AES_0": 5.223,
-            "AES_1": 5.223,
-            "AES_2": 0.0,
-            "DFADD_0": 1.883,
-            "DFADD_1": 7.064,
-            "DFADD_2": 7.069
+            "ADPCM_0": 5.22,
+            "ADPCM_1": 5.215,
+            "AES_0": 1.877,
+            "AES_1": 7.018,
+            "AES_2": 7.018,
+            "DFADD_0": 5.899,
+            "DFADD_1": 5.799,
+            "DFADD_2": 11.588
         },
         "throughput_total": {
-            "ADPCM": 23.351,
-            "AES": 10.446,
-            "DFADD": 16.016
+            "ADPCM": 10.435,
+            "AES": 15.913,
+            "DFADD": 23.286
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2408,19 +2408,19 @@
         "FF": 191909,
         "LUT": 226409,
         "throughput": {
-            "ADPCM_0": 4.853,
-            "ADPCM_1": 4.874,
-            "ADPCM_2": 9.618,
-            "AES_0": 2.737,
-            "DFADD_0": 1.92,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.731,
+            "ADPCM_1": 2.728,
+            "ADPCM_2": 5.331,
+            "AES_0": 1.909,
+            "DFADD_0": 4.821,
+            "DFADD_1": 4.874,
+            "DFADD_2": 9.612,
+            "DFADD_3": 9.601
         },
         "throughput_total": {
-            "ADPCM": 28.96,
-            "AES": 10.827,
-            "DFADD": 1.92
+            "ADPCM": 10.79,
+            "AES": 1.909,
+            "DFADD": 28.908
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2443,19 +2443,19 @@
         "FF": 181880,
         "LUT": 209323,
         "throughput": {
-            "ADPCM_0": 4.965,
-            "ADPCM_1": 4.983,
-            "AES_0": 2.738,
-            "AES_1": 2.738,
-            "DFADD_0": 1.965,
-            "DFADD_1": 3.922,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.731,
+            "ADPCM_1": 2.728,
+            "AES_0": 1.956,
+            "AES_1": 3.894,
+            "DFADD_0": 4.934,
+            "DFADD_1": 4.984,
+            "DFADD_2": 9.698,
+            "DFADD_3": 9.688
         },
         "throughput_total": {
-            "ADPCM": 29.361,
-            "AES": 5.476,
-            "DFADD": 5.887
+            "ADPCM": 5.459,
+            "AES": 5.85,
+            "DFADD": 29.304
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2478,19 +2478,19 @@
         "FF": 193586,
         "LUT": 227097,
         "throughput": {
-            "ADPCM_0": 4.743,
-            "ADPCM_1": 4.757,
-            "AES_0": 2.737,
-            "AES_1": 5.357,
-            "DFADD_0": 3.822,
-            "DFADD_1": 7.253,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.728,
+            "ADPCM_1": 5.334,
+            "AES_0": 3.798,
+            "AES_1": 7.191,
+            "DFADD_0": 4.744,
+            "DFADD_1": 4.754,
+            "DFADD_2": 9.122,
+            "DFADD_3": 9.109
         },
         "throughput_total": {
-            "ADPCM": 27.77,
-            "AES": 8.094,
-            "DFADD": 11.075
+            "ADPCM": 8.062,
+            "AES": 10.989,
+            "DFADD": 27.729
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2513,19 +2513,19 @@
         "FF": 180141,
         "LUT": 198322,
         "throughput": {
-            "ADPCM_0": 8.987,
-            "ADPCM_1": 17.493,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 2.738,
-            "DFADD_0": 3.836,
-            "DFADD_1": 7.354
+            "ADPCM_0": 1.376,
+            "ADPCM_1": 2.736,
+            "ADPCM_2": 2.734,
+            "ADPCM_3": 2.731,
+            "AES_0": 3.818,
+            "AES_1": 7.308,
+            "DFADD_0": 8.94,
+            "DFADD_1": 17.498
         },
         "throughput_total": {
-            "ADPCM": 26.48,
-            "AES": 9.595,
-            "DFADD": 11.19
+            "ADPCM": 9.577,
+            "AES": 11.126,
+            "DFADD": 26.438
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2548,19 +2548,19 @@
         "FF": 176384,
         "LUT": 196271,
         "throughput": {
-            "ADPCM_0": 6.353,
-            "AES_0": 2.737,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 2.003,
-            "DFADD_1": 3.979,
-            "DFADD_2": 3.977
+            "ADPCM_0": 2.721,
+            "AES_0": 2.003,
+            "AES_1": 3.973,
+            "AES_2": 3.966,
+            "AES_3": 3.959,
+            "DFADD_0": 6.331,
+            "DFADD_1": 12.309,
+            "DFADD_2": 12.253
         },
         "throughput_total": {
-            "ADPCM": 31.039,
-            "AES": 2.737,
-            "DFADD": 13.931
+            "ADPCM": 2.721,
+            "AES": 13.901,
+            "DFADD": 30.893
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2583,19 +2583,19 @@
         "FF": 199522,
         "LUT": 233815,
         "throughput": {
-            "ADPCM_0": 5.806,
-            "ADPCM_1": 11.227,
-            "AES_0": 5.224,
-            "AES_1": 5.224,
-            "AES_2": 0.0,
-            "DFADD_0": 1.883,
-            "DFADD_1": 7.067,
-            "DFADD_2": 7.07
+            "ADPCM_0": 5.215,
+            "ADPCM_1": 5.21,
+            "AES_0": 1.875,
+            "AES_1": 7.012,
+            "AES_2": 7.013,
+            "DFADD_0": 5.771,
+            "DFADD_1": 11.223,
+            "DFADD_2": 11.328
         },
         "throughput_total": {
-            "ADPCM": 28.365,
-            "AES": 10.448,
-            "DFADD": 16.02
+            "ADPCM": 10.425,
+            "AES": 15.9,
+            "DFADD": 28.322
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2618,19 +2618,19 @@
         "FF": 180980,
         "LUT": 196193,
         "throughput": {
-            "ADPCM_0": 18.125,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 1.382,
-            "AES_2": 1.382,
-            "DFADD_0": 3.825
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 1.377,
+            "ADPCM_2": 1.375,
+            "ADPCM_3": 5.326,
+            "AES_0": 3.799,
+            "AES_1": 7.362,
+            "AES_2": 7.356,
+            "DFADD_0": 18.083
         },
         "throughput_total": {
-            "ADPCM": 18.125,
-            "AES": 9.502,
-            "DFADD": 18.574
+            "ADPCM": 9.459,
+            "AES": 18.517,
+            "DFADD": 18.083
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2653,19 +2653,19 @@
         "FF": 185924,
         "LUT": 207178,
         "throughput": {
-            "ADPCM_0": 18.819,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 1.382,
-            "AES_1": 1.382,
-            "DFADD_0": 1.913
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 1.379,
+            "ADPCM_2": 2.728,
+            "ADPCM_3": 5.333,
+            "ADPCM_4": 5.325,
+            "AES_0": 1.901,
+            "AES_1": 3.706,
+            "DFADD_0": 18.805
         },
         "throughput_total": {
-            "ADPCM": 18.819,
-            "AES": 16.199,
-            "DFADD": 5.645
+            "ADPCM": 16.146,
+            "AES": 5.607,
+            "DFADD": 18.805
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2688,19 +2688,19 @@
         "FF": 184576,
         "LUT": 200989,
         "throughput": {
-            "ADPCM_0": 17.676,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 2.736,
-            "AES_2": 5.355,
-            "AES_3": 0.0,
-            "DFADD_0": 3.854
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 2.731,
+            "ADPCM_2": 5.336,
+            "AES_0": 3.834,
+            "AES_1": 3.781,
+            "AES_2": 7.275,
+            "AES_3": 7.323,
+            "DFADD_0": 17.651
         },
         "throughput_total": {
-            "ADPCM": 17.676,
-            "AES": 9.474,
-            "DFADD": 22.321
+            "ADPCM": 9.449,
+            "AES": 22.213,
+            "DFADD": 17.651
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2723,19 +2723,19 @@
         "FF": 174553,
         "LUT": 184426,
         "throughput": {
-            "ADPCM_0": 18.114,
-            "ADPCM_1": 0.0,
-            "AES_0": 2.739,
-            "AES_1": 2.738,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.985
+            "ADPCM_0": 2.732,
+            "ADPCM_1": 2.726,
+            "AES_0": 1.976,
+            "AES_1": 1.93,
+            "AES_2": 3.887,
+            "AES_3": 7.473,
+            "AES_4": 7.466,
+            "DFADD_0": 18.067
         },
         "throughput_total": {
-            "ADPCM": 18.114,
-            "AES": 5.477,
-            "DFADD": 22.789
+            "ADPCM": 5.458,
+            "AES": 22.732,
+            "DFADD": 18.067
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2758,19 +2758,19 @@
         "FF": 201272,
         "LUT": 225065,
         "throughput": {
-            "ADPCM_0": 15.369,
-            "ADPCM_1": 0.0,
-            "AES_0": 5.362,
-            "AES_1": 5.359,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 7.236
+            "ADPCM_0": 5.358,
+            "ADPCM_1": 5.349,
+            "AES_0": 7.208,
+            "AES_1": 7.188,
+            "AES_2": 7.137,
+            "AES_3": 7.122,
+            "AES_4": 7.117,
+            "DFADD_0": 15.357
         },
         "throughput_total": {
-            "ADPCM": 15.369,
-            "AES": 10.721,
-            "DFADD": 35.976
+            "ADPCM": 10.707,
+            "AES": 35.772,
+            "DFADD": 15.357
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2793,19 +2793,19 @@
         "FF": 177889,
         "LUT": 188989,
         "throughput": {
-            "ADPCM_0": 17.802,
-            "AES_0": 5.364,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "AES_5": 0.0,
-            "DFADD_0": 1.964
+            "ADPCM_0": 5.361,
+            "AES_0": 1.963,
+            "AES_1": 1.95,
+            "AES_2": 3.88,
+            "AES_3": 3.852,
+            "AES_4": 7.394,
+            "AES_5": 7.385,
+            "DFADD_0": 17.791
         },
         "throughput_total": {
-            "ADPCM": 17.802,
-            "AES": 5.364,
-            "DFADD": 26.562
+            "ADPCM": 5.361,
+            "AES": 26.424,
+            "DFADD": 17.791
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2828,19 +2828,19 @@
         "FF": 212246,
         "LUT": 254755,
         "throughput": {
-            "ADPCM_0": 15.86,
-            "ADPCM_1": 15.825,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 2.711,
-            "DFADD_0": 6.822,
-            "DFADD_1": 0.0
+            "ADPCM_0": 2.702,
+            "ADPCM_1": 2.716,
+            "ADPCM_2": 5.156,
+            "ADPCM_3": 5.132,
+            "ADPCM_4": 5.108,
+            "AES_0": 6.725,
+            "DFADD_0": 15.857,
+            "DFADD_1": 15.804
         },
         "throughput_total": {
-            "ADPCM": 31.685,
-            "AES": 21.276,
-            "DFADD": 6.822
+            "ADPCM": 20.814,
+            "AES": 6.725,
+            "DFADD": 31.661
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2863,19 +2863,19 @@
         "FF": 212282,
         "LUT": 254911,
         "throughput": {
-            "ADPCM_0": 16.02,
-            "ADPCM_1": 16.022,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 5.313,
-            "AES_1": 5.313,
-            "DFADD_0": 3.568,
-            "DFADD_1": 3.559
+            "ADPCM_0": 5.256,
+            "ADPCM_1": 5.248,
+            "ADPCM_2": 5.243,
+            "ADPCM_3": 5.229,
+            "AES_0": 3.55,
+            "AES_1": 3.534,
+            "DFADD_0": 16.011,
+            "DFADD_1": 15.994
         },
         "throughput_total": {
-            "ADPCM": 32.042,
-            "AES": 21.212,
-            "DFADD": 7.127
+            "ADPCM": 20.976,
+            "AES": 7.084,
+            "DFADD": 32.005
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2931,18 +2931,18 @@
         "FF": 168844,
         "LUT": 169794,
         "throughput": {
-            "ADPCM_0": 5.765,
-            "AES_0": 5.363,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 2.016
+            "ADPCM_0": 5.361,
+            "AES_0": 2.022,
+            "AES_1": 3.882,
+            "AES_2": 3.989,
+            "AES_3": 7.509,
+            "AES_4": 7.68,
+            "DFADD_0": 5.768
         },
         "throughput_total": {
-            "ADPCM": 5.765,
-            "AES": 5.363,
-            "DFADD": 25.23
+            "ADPCM": 5.361,
+            "AES": 25.082,
+            "DFADD": 5.768
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2965,18 +2965,18 @@
         "FF": 171038,
         "LUT": 183517,
         "throughput": {
-            "ADPCM_0": 5.822,
-            "ADPCM_1": 5.359,
-            "AES_0": 2.739,
-            "DFADD_0": 3.963,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.726,
+            "ADPCM_1": 5.354,
+            "AES_0": 3.954,
+            "DFADD_0": 5.81,
+            "DFADD_1": 5.34,
+            "DFADD_2": 11.479,
+            "DFADD_3": 10.717
         },
         "throughput_total": {
-            "ADPCM": 33.444,
-            "AES": 8.097,
-            "DFADD": 3.963
+            "ADPCM": 8.08,
+            "AES": 3.954,
+            "DFADD": 33.346
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -2999,18 +2999,18 @@
         "FF": 162668,
         "LUT": 168581,
         "throughput": {
-            "ADPCM_0": 5.961,
-            "AES_0": 2.739,
-            "AES_1": 0.0,
-            "DFADD_0": 2.061,
-            "DFADD_1": 7.582,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.727,
+            "AES_0": 2.059,
+            "AES_1": 7.566,
+            "DFADD_0": 5.94,
+            "DFADD_1": 5.243,
+            "DFADD_2": 11.76,
+            "DFADD_3": 10.267
         },
         "throughput_total": {
-            "ADPCM": 33.296,
-            "AES": 2.739,
-            "DFADD": 9.643
+            "ADPCM": 2.727,
+            "AES": 9.625,
+            "DFADD": 33.21
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3033,18 +3033,18 @@
         "FF": 167754,
         "LUT": 177183,
         "throughput": {
-            "ADPCM_0": 5.899,
-            "AES_0": 5.363,
-            "AES_1": 0.0,
-            "DFADD_0": 4.022,
-            "DFADD_1": 3.903,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 5.356,
+            "AES_0": 3.993,
+            "AES_1": 3.888,
+            "DFADD_0": 5.872,
+            "DFADD_1": 5.316,
+            "DFADD_2": 11.639,
+            "DFADD_3": 10.495
         },
         "throughput_total": {
-            "ADPCM": 33.383,
-            "AES": 5.363,
-            "DFADD": 7.925
+            "ADPCM": 5.356,
+            "AES": 7.881,
+            "DFADD": 33.322
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3067,18 +3067,18 @@
         "FF": 168375,
         "LUT": 177923,
         "throughput": {
-            "ADPCM_0": 5.464,
-            "ADPCM_1": 11.941,
-            "ADPCM_2": 10.856,
-            "AES_0": 2.716,
-            "DFADD_0": 3.999,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.702,
+            "ADPCM_1": 2.699,
+            "ADPCM_2": 2.696,
+            "AES_0": 3.982,
+            "DFADD_0": 5.438,
+            "DFADD_1": 12.003,
+            "DFADD_2": 10.807
         },
         "throughput_total": {
-            "ADPCM": 28.261,
-            "AES": 8.154,
-            "DFADD": 3.999
+            "ADPCM": 8.097,
+            "AES": 3.982,
+            "DFADD": 28.248
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3101,18 +3101,18 @@
         "FF": 185487,
         "LUT": 208972,
         "throughput": {
-            "ADPCM_0": 5.101,
-            "ADPCM_1": 11.892,
-            "ADPCM_2": 19.845,
-            "AES_0": 2.738,
-            "DFADD_0": 2.013,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 5.349,
+            "ADPCM_2": 5.344,
+            "AES_0": 2.005,
+            "DFADD_0": 5.076,
+            "DFADD_1": 11.758,
+            "DFADD_2": 19.749
         },
         "throughput_total": {
-            "ADPCM": 36.838,
-            "AES": 13.452,
-            "DFADD": 2.013
+            "ADPCM": 13.429,
+            "AES": 2.005,
+            "DFADD": 36.583
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3135,18 +3135,18 @@
         "FF": 187167,
         "LUT": 209740,
         "throughput": {
-            "ADPCM_0": 4.917,
-            "ADPCM_1": 11.191,
-            "AES_0": 5.364,
-            "AES_1": 5.358,
-            "DFADD_0": 3.9,
-            "DFADD_1": 7.5,
-            "DFADD_2": 0.0
+            "ADPCM_0": 5.35,
+            "ADPCM_1": 5.341,
+            "AES_0": 3.886,
+            "AES_1": 7.455,
+            "DFADD_0": 4.891,
+            "DFADD_1": 11.231,
+            "DFADD_2": 19.159
         },
         "throughput_total": {
-            "ADPCM": 35.209,
-            "AES": 10.722,
-            "DFADD": 11.4
+            "ADPCM": 10.691,
+            "AES": 11.341,
+            "DFADD": 35.281
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3169,18 +3169,18 @@
         "FF": 166898,
         "LUT": 166999,
         "throughput": {
-            "ADPCM_0": 11.069,
-            "AES_0": 2.739,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 4.006
+            "ADPCM_0": 2.727,
+            "AES_0": 3.998,
+            "AES_1": 3.943,
+            "AES_2": 3.99,
+            "AES_3": 7.619,
+            "AES_4": 7.747,
+            "DFADD_0": 11.076
         },
         "throughput_total": {
-            "ADPCM": 11.069,
-            "AES": 2.739,
-            "DFADD": 27.425
+            "ADPCM": 2.727,
+            "AES": 27.297,
+            "DFADD": 11.076
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3203,18 +3203,18 @@
         "FF": 177785,
         "LUT": 191823,
         "throughput": {
-            "ADPCM_0": 10.067,
-            "ADPCM_1": 11.302,
-            "AES_0": 1.384,
-            "AES_1": 5.359,
-            "DFADD_0": 7.642,
-            "DFADD_1": 7.544,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.384,
+            "ADPCM_1": 5.349,
+            "AES_0": 7.609,
+            "AES_1": 7.515,
+            "DFADD_0": 10.029,
+            "DFADD_1": 11.235,
+            "DFADD_2": 10.145
         },
         "throughput_total": {
-            "ADPCM": 31.514,
-            "AES": 6.743,
-            "DFADD": 15.186
+            "ADPCM": 6.733,
+            "AES": 15.124,
+            "DFADD": 31.409
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3237,18 +3237,18 @@
         "FF": 171728,
         "LUT": 186376,
         "throughput": {
-            "ADPCM_0": 10.151,
-            "ADPCM_1": 12.002,
-            "AES_0": 2.739,
-            "AES_1": 2.739,
-            "DFADD_0": 2.037,
-            "DFADD_1": 3.998,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.737,
+            "ADPCM_1": 2.731,
+            "AES_0": 2.031,
+            "AES_1": 3.976,
+            "DFADD_0": 10.1,
+            "DFADD_1": 11.999,
+            "DFADD_2": 19.83
         },
         "throughput_total": {
-            "ADPCM": 42.004,
-            "AES": 5.478,
-            "DFADD": 6.035
+            "ADPCM": 5.468,
+            "AES": 6.007,
+            "DFADD": 41.929
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3271,18 +3271,18 @@
         "FF": 179591,
         "LUT": 204782,
         "throughput": {
-            "ADPCM_0": 11.081,
-            "ADPCM_1": 10.155,
-            "AES_0": 2.739,
-            "DFADD_0": 2.027,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.729,
+            "ADPCM_1": 2.727,
+            "AES_0": 2.025,
+            "DFADD_0": 11.053,
+            "DFADD_1": 10.121,
+            "DFADD_2": 21.803,
+            "DFADD_3": 20.12
         },
         "throughput_total": {
-            "ADPCM": 63.213,
-            "AES": 5.478,
-            "DFADD": 2.027
+            "ADPCM": 5.456,
+            "AES": 2.025,
+            "DFADD": 63.097
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3305,18 +3305,18 @@
         "FF": 181253,
         "LUT": 196177,
         "throughput": {
-            "ADPCM_0": 11.65,
-            "AES_0": 5.365,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 4.019,
-            "DFADD_1": 3.928
+            "ADPCM_0": 5.351,
+            "AES_0": 3.991,
+            "AES_1": 3.904,
+            "AES_2": 7.657,
+            "AES_3": 7.542,
+            "DFADD_0": 11.637,
+            "DFADD_1": 19.26
         },
         "throughput_total": {
-            "ADPCM": 30.954,
-            "AES": 5.365,
-            "DFADD": 23.201
+            "ADPCM": 5.351,
+            "AES": 23.094,
+            "DFADD": 30.897
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3339,16 +3339,16 @@
         "FF": 161078,
         "LUT": 159979,
         "throughput": {
-            "ADPCM_0": 6.35,
-            "AES_0": 5.367,
-            "DFADD_0": 7.822,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 5.354,
+            "AES_0": 7.739,
+            "DFADD_0": 6.351,
+            "DFADD_1": 6.435,
+            "DFADD_2": 5.841
         },
         "throughput_total": {
-            "ADPCM": 18.64,
-            "AES": 5.367,
-            "DFADD": 7.822
+            "ADPCM": 5.354,
+            "AES": 7.739,
+            "DFADD": 18.627
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3371,16 +3371,16 @@
         "FF": 167955,
         "LUT": 169291,
         "throughput": {
-            "ADPCM_0": 6.705,
-            "AES_0": 5.364,
-            "AES_1": 0.0,
-            "DFADD_0": 7.82,
-            "DFADD_1": 7.642
+            "ADPCM_0": 5.351,
+            "AES_0": 7.774,
+            "AES_1": 7.635,
+            "DFADD_0": 6.699,
+            "DFADD_1": 10.936
         },
         "throughput_total": {
-            "ADPCM": 17.661,
-            "AES": 5.364,
-            "DFADD": 15.462
+            "ADPCM": 5.351,
+            "AES": 15.409,
+            "DFADD": 17.635
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3403,20 +3403,20 @@
         "FF": 188718,
         "LUT": 202403,
         "throughput": {
-            "ADPCM_0": 5.519,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "ADPCM_5": 0.0,
-            "ADPCM_6": 0.0,
-            "AES_0": 1.379,
-            "DFADD_0": 3.68
+            "ADPCM_0": 1.375,
+            "ADPCM_1": 1.374,
+            "ADPCM_2": 1.37,
+            "ADPCM_3": 1.368,
+            "ADPCM_4": 2.726,
+            "ADPCM_5": 5.192,
+            "ADPCM_6": 5.188,
+            "AES_0": 3.663,
+            "DFADD_0": 5.52
         },
         "throughput_total": {
-            "ADPCM": 5.519,
-            "AES": 18.643,
-            "DFADD": 3.68
+            "ADPCM": 18.593,
+            "AES": 3.663,
+            "DFADD": 5.52
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3439,20 +3439,20 @@
         "FF": 168800,
         "LUT": 168524,
         "throughput": {
-            "ADPCM_0": 5.801,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "AES_2": 1.384,
-            "DFADD_0": 1.976
+            "ADPCM_0": 1.377,
+            "ADPCM_1": 1.376,
+            "ADPCM_2": 1.375,
+            "ADPCM_3": 2.736,
+            "ADPCM_4": 2.734,
+            "AES_0": 1.973,
+            "AES_1": 1.962,
+            "AES_2": 3.877,
+            "DFADD_0": 5.811
         },
         "throughput_total": {
-            "ADPCM": 5.801,
-            "AES": 9.625,
-            "DFADD": 7.838
+            "ADPCM": 9.598,
+            "AES": 7.812,
+            "DFADD": 5.811
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3475,20 +3475,20 @@
         "FF": 202080,
         "LUT": 223633,
         "throughput": {
-            "ADPCM_0": 5.119,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "ADPCM_5": 0.0,
-            "ADPCM_6": 0.0,
-            "AES_0": 1.377,
-            "DFADD_0": 6.838
+            "ADPCM_0": 1.373,
+            "ADPCM_1": 1.375,
+            "ADPCM_2": 1.367,
+            "ADPCM_3": 2.672,
+            "ADPCM_4": 5.237,
+            "ADPCM_5": 5.162,
+            "ADPCM_6": 5.151,
+            "AES_0": 6.793,
+            "DFADD_0": 5.117
         },
         "throughput_total": {
-            "ADPCM": 5.119,
-            "AES": 22.571,
-            "DFADD": 6.838
+            "ADPCM": 22.337,
+            "AES": 6.793,
+            "DFADD": 5.117
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3511,20 +3511,20 @@
         "FF": 177234,
         "LUT": 177093,
         "throughput": {
-            "ADPCM_0": 4.914,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "AES_2": 1.384,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.948
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 1.38,
+            "ADPCM_2": 1.379,
+            "AES_0": 1.942,
+            "AES_1": 7.569,
+            "AES_2": 7.541,
+            "AES_3": 7.597,
+            "AES_4": 7.587,
+            "DFADD_0": 4.91
         },
         "throughput_total": {
-            "ADPCM": 4.914,
-            "AES": 4.152,
-            "DFADD": 32.413
+            "ADPCM": 4.14,
+            "AES": 32.236,
+            "DFADD": 4.91
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3547,20 +3547,20 @@
         "FF": 177002,
         "LUT": 181730,
         "throughput": {
-            "ADPCM_0": 5.674,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 5.223,
-            "AES_2": 5.223,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.928
+            "ADPCM_0": 1.375,
+            "ADPCM_1": 5.22,
+            "ADPCM_2": 5.215,
+            "AES_0": 1.922,
+            "AES_1": 1.925,
+            "AES_2": 1.914,
+            "AES_3": 1.91,
+            "AES_4": 1.911,
+            "DFADD_0": 5.678
         },
         "throughput_total": {
-            "ADPCM": 5.674,
-            "AES": 11.829,
-            "DFADD": 9.631
+            "ADPCM": 11.81,
+            "AES": 9.582,
+            "DFADD": 5.678
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3583,20 +3583,20 @@
         "FF": 187310,
         "LUT": 196806,
         "throughput": {
-            "ADPCM_0": 5.203,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 2.736,
-            "AES_1": 5.343,
-            "AES_2": 5.342,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.873
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 5.333,
+            "ADPCM_2": 5.325,
+            "AES_0": 1.873,
+            "AES_1": 1.89,
+            "AES_2": 1.863,
+            "AES_3": 3.69,
+            "AES_4": 7.089,
+            "DFADD_0": 5.211
         },
         "throughput_total": {
-            "ADPCM": 5.203,
-            "AES": 13.421,
-            "DFADD": 16.492
+            "ADPCM": 13.394,
+            "AES": 16.405,
+            "DFADD": 5.211
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3619,20 +3619,20 @@
         "FF": 212478,
         "LUT": 237077,
         "throughput": {
-            "ADPCM_0": 4.689,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 5.225,
-            "AES_1": 5.225,
-            "AES_2": 5.222,
-            "AES_3": 5.222,
-            "DFADD_0": 3.52
+            "ADPCM_0": 5.243,
+            "ADPCM_1": 5.234,
+            "ADPCM_2": 5.21,
+            "ADPCM_3": 5.199,
+            "AES_0": 3.52,
+            "AES_1": 3.457,
+            "AES_2": 6.652,
+            "AES_3": 6.645,
+            "DFADD_0": 4.686
         },
         "throughput_total": {
-            "ADPCM": 4.689,
-            "AES": 20.894,
-            "DFADD": 20.35
+            "ADPCM": 20.886,
+            "AES": 20.274,
+            "DFADD": 4.686
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3655,20 +3655,20 @@
         "FF": 173047,
         "LUT": 178162,
         "throughput": {
-            "ADPCM_0": 5.265,
-            "ADPCM_1": 5.264,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "ADPCM_5": 0.0,
-            "AES_0": 1.383,
-            "DFADD_0": 1.954,
-            "DFADD_1": 0.0
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 1.381,
+            "ADPCM_2": 1.38,
+            "ADPCM_3": 1.379,
+            "ADPCM_4": 1.377,
+            "ADPCM_5": 5.315,
+            "AES_0": 1.938,
+            "DFADD_0": 5.266,
+            "DFADD_1": 5.259
         },
         "throughput_total": {
-            "ADPCM": 10.529,
-            "AES": 12.262,
-            "DFADD": 1.954
+            "ADPCM": 12.214,
+            "AES": 1.938,
+            "DFADD": 10.525
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3691,20 +3691,20 @@
         "FF": 175172,
         "LUT": 178210,
         "throughput": {
-            "ADPCM_0": 4.94,
-            "ADPCM_1": 4.896,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 1.383,
-            "AES_2": 5.356,
-            "AES_3": 0.0,
-            "DFADD_0": 3.866,
-            "DFADD_1": 3.859
+            "ADPCM_0": 1.376,
+            "ADPCM_1": 1.375,
+            "ADPCM_2": 5.356,
+            "AES_0": 3.856,
+            "AES_1": 3.848,
+            "AES_2": 3.842,
+            "AES_3": 3.839,
+            "DFADD_0": 4.916,
+            "DFADD_1": 4.87
         },
         "throughput_total": {
-            "ADPCM": 9.836,
-            "AES": 8.122,
-            "DFADD": 15.441
+            "ADPCM": 8.107,
+            "AES": 15.385,
+            "DFADD": 9.786
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3727,20 +3727,20 @@
         "FF": 181960,
         "LUT": 183421,
         "throughput": {
-            "ADPCM_0": 3.943,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "AES_5": 0.0,
-            "DFADD_0": 3.945,
-            "DFADD_1": 7.594
+            "ADPCM_0": 1.375,
+            "AES_0": 3.942,
+            "AES_1": 7.572,
+            "AES_2": 7.569,
+            "AES_3": 7.548,
+            "AES_4": 7.538,
+            "AES_5": 7.532,
+            "DFADD_0": 3.929,
+            "DFADD_1": 3.905
         },
         "throughput_total": {
-            "ADPCM": 7.866,
-            "AES": 1.384,
-            "DFADD": 41.894
+            "ADPCM": 1.375,
+            "AES": 41.701,
+            "DFADD": 7.834
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3763,20 +3763,20 @@
         "FF": 186905,
         "LUT": 194312,
         "throughput": {
-            "ADPCM_0": 4.302,
-            "ADPCM_1": 4.256,
-            "AES_0": 2.737,
-            "AES_1": 5.355,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.883,
-            "DFADD_1": 3.811
+            "ADPCM_0": 2.731,
+            "ADPCM_1": 5.336,
+            "AES_0": 1.879,
+            "AES_1": 3.789,
+            "AES_2": 7.237,
+            "AES_3": 7.226,
+            "AES_4": 7.284,
+            "DFADD_0": 4.303,
+            "DFADD_1": 4.252
         },
         "throughput_total": {
-            "ADPCM": 8.558,
-            "AES": 8.092,
-            "DFADD": 27.59
+            "ADPCM": 8.067,
+            "AES": 27.415,
+            "DFADD": 8.555
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3799,20 +3799,20 @@
         "FF": 182075,
         "LUT": 187640,
         "throughput": {
-            "ADPCM_0": 4.605,
-            "ADPCM_1": 4.555,
-            "AES_0": 2.737,
-            "AES_1": 5.356,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 3.826,
-            "DFADD_1": 3.827
+            "ADPCM_0": 2.721,
+            "ADPCM_1": 5.316,
+            "AES_0": 3.823,
+            "AES_1": 3.82,
+            "AES_2": 3.795,
+            "AES_3": 3.787,
+            "AES_4": 7.265,
+            "DFADD_0": 4.582,
+            "DFADD_1": 4.529
         },
         "throughput_total": {
-            "ADPCM": 9.16,
-            "AES": 8.093,
-            "DFADD": 22.556
+            "ADPCM": 8.037,
+            "AES": 22.49,
+            "DFADD": 9.111
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3835,20 +3835,20 @@
         "FF": 198339,
         "LUT": 216108,
         "throughput": {
-            "ADPCM_0": 4.37,
-            "ADPCM_1": 4.339,
-            "ADPCM_2": 0.0,
-            "AES_0": 5.343,
-            "AES_1": 5.319,
-            "AES_2": 5.309,
-            "AES_3": 0.0,
-            "DFADD_0": 1.841,
-            "DFADD_1": 1.816
+            "ADPCM_0": 5.33,
+            "ADPCM_1": 5.312,
+            "ADPCM_2": 5.294,
+            "AES_0": 1.832,
+            "AES_1": 1.809,
+            "AES_2": 6.959,
+            "AES_3": 6.961,
+            "DFADD_0": 4.362,
+            "DFADD_1": 4.323
         },
         "throughput_total": {
-            "ADPCM": 8.709,
-            "AES": 15.971,
-            "DFADD": 17.605
+            "ADPCM": 15.936,
+            "AES": 17.561,
+            "DFADD": 8.685
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3871,20 +3871,20 @@
         "FF": 166580,
         "LUT": 164701,
         "throughput": {
-            "ADPCM_0": 5.008,
-            "AES_0": 5.363,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "AES_5": 0.0,
-            "DFADD_0": 1.981,
-            "DFADD_1": 1.976
+            "ADPCM_0": 5.341,
+            "AES_0": 1.972,
+            "AES_1": 1.966,
+            "AES_2": 1.968,
+            "AES_3": 1.977,
+            "AES_4": 1.973,
+            "AES_5": 3.884,
+            "DFADD_0": 4.993,
+            "DFADD_1": 4.95
         },
         "throughput_total": {
-            "ADPCM": 9.975,
-            "AES": 5.363,
-            "DFADD": 13.785
+            "ADPCM": 5.341,
+            "AES": 13.74,
+            "DFADD": 9.943
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3907,20 +3907,20 @@
         "FF": 181845,
         "LUT": 186105,
         "throughput": {
-            "ADPCM_0": 4.304,
-            "AES_0": 5.359,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "AES_5": 0.0,
-            "DFADD_0": 1.927,
-            "DFADD_1": 1.906
+            "ADPCM_0": 5.359,
+            "AES_0": 1.929,
+            "AES_1": 1.906,
+            "AES_2": 3.832,
+            "AES_3": 7.356,
+            "AES_4": 7.348,
+            "AES_5": 7.344,
+            "DFADD_0": 4.278,
+            "DFADD_1": 4.212
         },
         "throughput_total": {
-            "ADPCM": 8.544,
-            "AES": 5.359,
-            "DFADD": 29.883
+            "ADPCM": 5.359,
+            "AES": 29.715,
+            "DFADD": 8.49
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3943,20 +3943,20 @@
         "FF": 174177,
         "LUT": 180359,
         "throughput": {
-            "ADPCM_0": 3.562,
-            "ADPCM_1": 3.541,
-            "ADPCM_2": 3.54,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 1.383,
-            "DFADD_0": 3.834,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 1.381,
+            "ADPCM_2": 1.38,
+            "ADPCM_3": 1.379,
+            "ADPCM_4": 5.323,
+            "AES_0": 3.81,
+            "DFADD_0": 3.539,
+            "DFADD_1": 3.538,
+            "DFADD_2": 3.538
         },
         "throughput_total": {
-            "ADPCM": 10.643,
-            "AES": 10.88,
-            "DFADD": 3.834
+            "ADPCM": 10.845,
+            "AES": 3.81,
+            "DFADD": 10.615
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -3979,20 +3979,20 @@
         "FF": 159249,
         "LUT": 154529,
         "throughput": {
-            "ADPCM_0": 3.595,
-            "ADPCM_1": 3.557,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 2.011,
-            "DFADD_1": 2.006,
-            "DFADD_2": 2.005
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 1.381,
+            "AES_0": 2.004,
+            "AES_1": 1.997,
+            "AES_2": 1.995,
+            "AES_3": 3.935,
+            "DFADD_0": 3.569,
+            "DFADD_1": 3.557,
+            "DFADD_2": 3.555
         },
         "throughput_total": {
-            "ADPCM": 10.709,
-            "AES": 2.768,
-            "DFADD": 9.986
+            "ADPCM": 2.763,
+            "AES": 9.931,
+            "DFADD": 10.681
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4015,20 +4015,20 @@
         "FF": 166021,
         "LUT": 163236,
         "throughput": {
-            "ADPCM_0": 3.377,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.984,
-            "DFADD_1": 1.992,
-            "DFADD_2": 1.963
+            "ADPCM_0": 1.379,
+            "AES_0": 1.972,
+            "AES_1": 1.978,
+            "AES_2": 1.955,
+            "AES_3": 7.522,
+            "AES_4": 7.508,
+            "DFADD_0": 3.372,
+            "DFADD_1": 3.244,
+            "DFADD_2": 3.248
         },
         "throughput_total": {
-            "ADPCM": 9.89,
-            "AES": 1.384,
-            "DFADD": 21.005
+            "ADPCM": 1.379,
+            "AES": 20.935,
+            "DFADD": 9.864
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4051,20 +4051,20 @@
         "FF": 172900,
         "LUT": 178338,
         "throughput": {
-            "ADPCM_0": 2.215,
-            "AES_0": 1.383,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 3.884,
-            "DFADD_1": 7.347,
-            "DFADD_2": 7.349,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 1.377,
+            "AES_0": 3.856,
+            "AES_1": 7.282,
+            "AES_2": 7.338,
+            "DFADD_0": 2.212,
+            "DFADD_1": 2.08,
+            "DFADD_2": 2.082,
+            "DFADD_3": 1.966,
+            "DFADD_4": 3.827
         },
         "throughput_total": {
-            "ADPCM": 12.201,
-            "AES": 1.383,
-            "DFADD": 18.58
+            "ADPCM": 1.377,
+            "AES": 18.476,
+            "DFADD": 12.167
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4087,20 +4087,20 @@
         "FF": 181583,
         "LUT": 198613,
         "throughput": {
-            "ADPCM_0": 2.157,
-            "ADPCM_1": 2.099,
-            "AES_0": 2.737,
-            "AES_1": 5.355,
-            "DFADD_0": 1.904,
-            "DFADD_1": 1.904,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 2.733,
+            "ADPCM_1": 5.341,
+            "AES_0": 1.896,
+            "AES_1": 1.895,
+            "DFADD_0": 2.146,
+            "DFADD_1": 2.086,
+            "DFADD_2": 2.086,
+            "DFADD_3": 2.091,
+            "DFADD_4": 8.106
         },
         "throughput_total": {
-            "ADPCM": 16.561,
-            "AES": 8.092,
-            "DFADD": 3.808
+            "ADPCM": 8.074,
+            "AES": 3.791,
+            "DFADD": 16.515
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4123,20 +4123,20 @@
         "FF": 180080,
         "LUT": 193147,
         "throughput": {
-            "ADPCM_0": 2.122,
-            "AES_0": 2.736,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 1.942,
-            "DFADD_1": 7.279,
-            "DFADD_2": 7.284,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 2.728,
+            "AES_0": 1.932,
+            "AES_1": 7.222,
+            "AES_2": 7.219,
+            "DFADD_0": 2.108,
+            "DFADD_1": 2.041,
+            "DFADD_2": 2.043,
+            "DFADD_3": 1.957,
+            "DFADD_4": 7.651
         },
         "throughput_total": {
-            "ADPCM": 15.836,
-            "AES": 2.736,
-            "DFADD": 16.505
+            "ADPCM": 2.728,
+            "AES": 16.373,
+            "DFADD": 15.8
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4159,20 +4159,20 @@
         "FF": 188483,
         "LUT": 206437,
         "throughput": {
-            "ADPCM_0": 2.063,
-            "AES_0": 5.356,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 3.775,
-            "DFADD_1": 7.146,
-            "DFADD_2": 7.149,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 5.321,
+            "AES_0": 3.745,
+            "AES_1": 7.128,
+            "AES_2": 7.13,
+            "DFADD_0": 2.061,
+            "DFADD_1": 1.983,
+            "DFADD_2": 1.983,
+            "DFADD_3": 1.889,
+            "DFADD_4": 7.404
         },
         "throughput_total": {
-            "ADPCM": 15.383,
-            "AES": 5.356,
-            "DFADD": 18.07
+            "ADPCM": 5.321,
+            "AES": 18.003,
+            "DFADD": 15.32
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4195,20 +4195,20 @@
         "FF": 185210,
         "LUT": 201243,
         "throughput": {
-            "ADPCM_0": 2.621,
-            "ADPCM_1": 2.578,
-            "ADPCM_2": 2.582,
-            "ADPCM_3": 5.121,
-            "AES_0": 2.737,
-            "DFADD_0": 1.902,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 2.733,
+            "ADPCM_2": 2.731,
+            "ADPCM_3": 5.33,
+            "AES_0": 1.892,
+            "DFADD_0": 2.606,
+            "DFADD_1": 2.562,
+            "DFADD_2": 2.563,
+            "DFADD_3": 5.122
         },
         "throughput_total": {
-            "ADPCM": 12.902,
-            "AES": 13.556,
-            "DFADD": 1.902
+            "ADPCM": 13.53,
+            "AES": 1.892,
+            "DFADD": 12.853
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4231,20 +4231,20 @@
         "FF": 190278,
         "LUT": 214210,
         "throughput": {
-            "ADPCM_0": 1.956,
-            "AES_0": 5.355,
-            "AES_1": 0.0,
-            "DFADD_0": 3.73,
-            "DFADD_1": 7.042,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0,
-            "DFADD_5": 0.0
+            "ADPCM_0": 5.351,
+            "AES_0": 3.72,
+            "AES_1": 7.005,
+            "DFADD_0": 1.951,
+            "DFADD_1": 1.702,
+            "DFADD_2": 1.699,
+            "DFADD_3": 3.198,
+            "DFADD_4": 3.194,
+            "DFADD_5": 6.449
         },
         "throughput_total": {
-            "ADPCM": 18.257,
-            "AES": 5.355,
-            "DFADD": 10.772
+            "ADPCM": 5.351,
+            "AES": 10.725,
+            "DFADD": 18.193
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4267,20 +4267,20 @@
         "FF": 168925,
         "LUT": 174686,
         "throughput": {
-            "ADPCM_0": 2.713,
-            "AES_0": 1.383,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 1.995,
-            "DFADD_1": 1.996,
-            "DFADD_2": 3.971,
-            "DFADD_3": 3.971
+            "ADPCM_0": 1.375,
+            "AES_0": 1.993,
+            "AES_1": 1.993,
+            "AES_2": 3.955,
+            "AES_3": 3.952,
+            "DFADD_0": 2.701,
+            "DFADD_1": 2.548,
+            "DFADD_2": 2.585,
+            "DFADD_3": 9.977
         },
         "throughput_total": {
-            "ADPCM": 17.852,
-            "AES": 1.383,
-            "DFADD": 11.933
+            "ADPCM": 1.375,
+            "AES": 11.893,
+            "DFADD": 17.811
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4303,20 +4303,20 @@
         "FF": 182485,
         "LUT": 197663,
         "throughput": {
-            "ADPCM_0": 2.637,
-            "ADPCM_1": 2.533,
-            "ADPCM_2": 2.571,
-            "AES_0": 2.737,
-            "AES_1": 2.737,
-            "DFADD_0": 3.872,
-            "DFADD_1": 3.871,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 2.734,
+            "ADPCM_2": 2.731,
+            "AES_0": 3.852,
+            "AES_1": 3.848,
+            "DFADD_0": 2.623,
+            "DFADD_1": 2.518,
+            "DFADD_2": 2.552,
+            "DFADD_3": 9.875
         },
         "throughput_total": {
-            "ADPCM": 17.618,
-            "AES": 8.211,
-            "DFADD": 7.743
+            "ADPCM": 8.201,
+            "AES": 7.7,
+            "DFADD": 17.568
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4339,20 +4339,20 @@
         "FF": 190436,
         "LUT": 207650,
         "throughput": {
-            "ADPCM_0": 3.311,
-            "ADPCM_1": 3.262,
-            "ADPCM_2": 6.547,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 1.38,
-            "DFADD_0": 6.992,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.372,
+            "ADPCM_1": 1.379,
+            "ADPCM_2": 1.378,
+            "ADPCM_3": 5.193,
+            "ADPCM_4": 5.188,
+            "AES_0": 6.927,
+            "DFADD_0": 3.292,
+            "DFADD_1": 3.262,
+            "DFADD_2": 6.542
         },
         "throughput_total": {
-            "ADPCM": 13.12,
-            "AES": 14.556,
-            "DFADD": 6.992
+            "ADPCM": 14.51,
+            "AES": 6.927,
+            "DFADD": 13.096
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4375,20 +4375,20 @@
         "FF": 185404,
         "LUT": 203067,
         "throughput": {
-            "ADPCM_0": 2.124,
-            "ADPCM_1": 2.082,
-            "AES_0": 2.736,
-            "AES_1": 5.354,
-            "DFADD_0": 3.78,
-            "DFADD_1": 3.781,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 2.721,
+            "ADPCM_1": 5.316,
+            "AES_0": 3.774,
+            "AES_1": 3.771,
+            "DFADD_0": 2.116,
+            "DFADD_1": 2.078,
+            "DFADD_2": 4.138,
+            "DFADD_3": 3.97,
+            "DFADD_4": 3.939
         },
         "throughput_total": {
-            "ADPCM": 16.302,
-            "AES": 8.09,
-            "DFADD": 7.561
+            "ADPCM": 8.037,
+            "AES": 7.545,
+            "DFADD": 16.241
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4411,20 +4411,20 @@
         "FF": 171943,
         "LUT": 181231,
         "throughput": {
-            "ADPCM_0": 2.188,
-            "AES_0": 2.737,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 1.958,
-            "DFADD_1": 1.957,
-            "DFADD_2": 3.887,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 2.731,
+            "AES_0": 1.951,
+            "AES_1": 1.948,
+            "AES_2": 3.863,
+            "DFADD_0": 2.173,
+            "DFADD_1": 2.126,
+            "DFADD_2": 4.259,
+            "DFADD_3": 4.135,
+            "DFADD_4": 4.094
         },
         "throughput_total": {
-            "ADPCM": 16.827,
-            "AES": 2.737,
-            "DFADD": 7.802
+            "ADPCM": 2.731,
+            "AES": 7.762,
+            "DFADD": 16.787
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4447,20 +4447,20 @@
         "FF": 186390,
         "LUT": 209418,
         "throughput": {
-            "ADPCM_0": 1.836,
-            "ADPCM_1": 1.756,
-            "AES_0": 1.383,
-            "DFADD_0": 7.168,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0,
-            "DFADD_5": 0.0
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 2.728,
+            "AES_0": 7.125,
+            "DFADD_0": 1.83,
+            "DFADD_1": 1.746,
+            "DFADD_2": 3.465,
+            "DFADD_3": 3.402,
+            "DFADD_4": 3.433,
+            "DFADD_5": 6.786
         },
         "throughput_total": {
-            "ADPCM": 20.731,
-            "AES": 4.118,
-            "DFADD": 7.168
+            "ADPCM": 4.11,
+            "AES": 7.125,
+            "DFADD": 20.662
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4483,20 +4483,20 @@
         "FF": 188428,
         "LUT": 207799,
         "throughput": {
-            "ADPCM_0": 2.549,
-            "ADPCM_1": 2.441,
-            "ADPCM_2": 4.931,
-            "AES_0": 1.382,
-            "AES_1": 1.382,
-            "DFADD_0": 3.831,
-            "DFADD_1": 7.226,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 1.379,
+            "ADPCM_2": 5.341,
+            "AES_0": 3.813,
+            "AES_1": 7.178,
+            "DFADD_0": 2.536,
+            "DFADD_1": 2.424,
+            "DFADD_2": 4.895,
+            "DFADD_3": 9.557
         },
         "throughput_total": {
-            "ADPCM": 19.473,
-            "AES": 8.118,
-            "DFADD": 11.057
+            "ADPCM": 8.101,
+            "AES": 10.991,
+            "DFADD": 19.412
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4519,20 +4519,20 @@
         "FF": 183622,
         "LUT": 199133,
         "throughput": {
-            "ADPCM_0": 2.569,
-            "ADPCM_1": 2.438,
-            "AES_0": 2.737,
-            "AES_1": 2.737,
-            "AES_2": 0.0,
-            "DFADD_0": 1.949,
-            "DFADD_1": 3.878,
-            "DFADD_2": 7.301,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.726,
+            "ADPCM_1": 2.723,
+            "AES_0": 1.935,
+            "AES_1": 3.843,
+            "AES_2": 7.294,
+            "DFADD_0": 2.567,
+            "DFADD_1": 2.433,
+            "DFADD_2": 4.931,
+            "DFADD_3": 9.492
         },
         "throughput_total": {
-            "ADPCM": 19.477,
-            "AES": 5.474,
-            "DFADD": 13.128
+            "ADPCM": 5.449,
+            "AES": 13.072,
+            "DFADD": 19.423
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4555,20 +4555,20 @@
         "FF": 194641,
         "LUT": 224971,
         "throughput": {
-            "ADPCM_0": 2.071,
-            "ADPCM_1": 2.036,
-            "ADPCM_2": 4.056,
-            "AES_0": 1.383,
-            "DFADD_0": 1.891,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 2.725,
+            "ADPCM_2": 5.328,
+            "AES_0": 1.878,
+            "DFADD_0": 2.06,
+            "DFADD_1": 2.023,
+            "DFADD_2": 4.054,
+            "DFADD_3": 7.986,
+            "DFADD_4": 7.991
         },
         "throughput_total": {
-            "ADPCM": 24.163,
-            "AES": 9.471,
-            "DFADD": 1.891
+            "ADPCM": 9.434,
+            "AES": 1.878,
+            "DFADD": 24.114
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4591,20 +4591,20 @@
         "FF": 174621,
         "LUT": 176613,
         "throughput": {
-            "ADPCM_0": 4.594,
-            "ADPCM_1": 9.012,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "AES_2": 1.383,
-            "AES_3": 0.0,
-            "DFADD_0": 3.934,
-            "DFADD_1": 3.902
+            "ADPCM_0": 1.38,
+            "ADPCM_1": 1.379,
+            "ADPCM_2": 1.377,
+            "AES_0": 3.909,
+            "AES_1": 3.875,
+            "AES_2": 7.525,
+            "AES_3": 7.518,
+            "DFADD_0": 4.585,
+            "DFADD_1": 8.989
         },
         "throughput_total": {
-            "ADPCM": 13.606,
-            "AES": 4.151,
-            "DFADD": 22.9
+            "ADPCM": 4.136,
+            "AES": 22.827,
+            "DFADD": 13.574
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4627,20 +4627,20 @@
         "FF": 174906,
         "LUT": 176837,
         "throughput": {
-            "ADPCM_0": 4.64,
-            "ADPCM_1": 9.062,
-            "AES_0": 1.384,
-            "AES_1": 2.737,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 3.923,
-            "DFADD_1": 3.926
+            "ADPCM_0": 1.384,
+            "ADPCM_1": 2.734,
+            "AES_0": 3.911,
+            "AES_1": 3.912,
+            "AES_2": 3.883,
+            "AES_3": 3.874,
+            "AES_4": 7.432,
+            "DFADD_0": 4.605,
+            "DFADD_1": 9.059
         },
         "throughput_total": {
-            "ADPCM": 13.702,
-            "AES": 4.121,
-            "DFADD": 23.131
+            "ADPCM": 4.118,
+            "AES": 23.012,
+            "DFADD": 13.664
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4663,20 +4663,20 @@
         "FF": 217947,
         "LUT": 251701,
         "throughput": {
-            "ADPCM_0": 4.293,
-            "ADPCM_1": 8.493,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "ADPCM_5": 0.0,
-            "AES_0": 2.732,
-            "DFADD_0": 6.613,
-            "DFADD_1": 0.0
+            "ADPCM_0": 2.723,
+            "ADPCM_1": 2.718,
+            "ADPCM_2": 5.198,
+            "ADPCM_3": 5.193,
+            "ADPCM_4": 5.172,
+            "ADPCM_5": 5.164,
+            "AES_0": 6.469,
+            "DFADD_0": 4.284,
+            "DFADD_1": 8.554
         },
         "throughput_total": {
-            "ADPCM": 12.786,
-            "AES": 26.716,
-            "DFADD": 6.613
+            "ADPCM": 26.168,
+            "AES": 6.469,
+            "DFADD": 12.838
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4699,20 +4699,20 @@
         "FF": 180217,
         "LUT": 192381,
         "throughput": {
-            "ADPCM_0": 3.447,
-            "ADPCM_1": 6.768,
-            "ADPCM_2": 6.777,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 1.382,
-            "DFADD_0": 3.861,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.375,
+            "ADPCM_1": 1.379,
+            "ADPCM_2": 2.731,
+            "ADPCM_3": 2.728,
+            "ADPCM_4": 2.726,
+            "AES_0": 3.836,
+            "DFADD_0": 3.427,
+            "DFADD_1": 6.783,
+            "DFADD_2": 6.76
         },
         "throughput_total": {
-            "ADPCM": 16.992,
-            "AES": 10.973,
-            "DFADD": 3.861
+            "ADPCM": 10.939,
+            "AES": 3.836,
+            "DFADD": 16.97
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4735,20 +4735,20 @@
         "FF": 200226,
         "LUT": 222574,
         "throughput": {
-            "ADPCM_0": 3.092,
-            "ADPCM_1": 5.948,
-            "ADPCM_2": 5.988,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.382,
-            "AES_1": 2.733,
-            "DFADD_0": 7.042,
-            "DFADD_1": 7.03,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.379,
+            "ADPCM_1": 2.725,
+            "ADPCM_2": 5.272,
+            "ADPCM_3": 5.267,
+            "AES_0": 6.96,
+            "AES_1": 6.948,
+            "DFADD_0": 3.075,
+            "DFADD_1": 5.952,
+            "DFADD_2": 5.994
         },
         "throughput_total": {
-            "ADPCM": 15.028,
-            "AES": 14.804,
-            "DFADD": 14.072
+            "ADPCM": 14.643,
+            "AES": 13.908,
+            "DFADD": 15.021
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4771,20 +4771,20 @@
         "FF": 185366,
         "LUT": 197769,
         "throughput": {
-            "ADPCM_0": 3.207,
-            "ADPCM_1": 6.171,
-            "ADPCM_2": 6.186,
-            "AES_0": 2.735,
-            "AES_1": 2.733,
-            "AES_2": 2.733,
-            "DFADD_0": 1.907,
-            "DFADD_1": 7.295,
-            "DFADD_2": 7.302
+            "ADPCM_0": 2.726,
+            "ADPCM_1": 2.723,
+            "ADPCM_2": 2.721,
+            "AES_0": 1.9,
+            "AES_1": 7.287,
+            "AES_2": 7.287,
+            "DFADD_0": 3.202,
+            "DFADD_1": 6.15,
+            "DFADD_2": 6.164
         },
         "throughput_total": {
-            "ADPCM": 15.564,
-            "AES": 8.201,
-            "DFADD": 16.504
+            "ADPCM": 8.17,
+            "AES": 16.474,
+            "DFADD": 15.516
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4807,20 +4807,20 @@
         "FF": 215808,
         "LUT": 252595,
         "throughput": {
-            "ADPCM_0": 2.329,
-            "ADPCM_1": 4.537,
-            "ADPCM_2": 4.566,
-            "ADPCM_3": 4.554,
-            "AES_0": 5.222,
-            "DFADD_0": 6.546,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 5.22,
+            "ADPCM_1": 5.215,
+            "ADPCM_2": 5.207,
+            "ADPCM_3": 5.202,
+            "AES_0": 6.49,
+            "DFADD_0": 2.321,
+            "DFADD_1": 4.509,
+            "DFADD_2": 4.528,
+            "DFADD_3": 4.552
         },
         "throughput_total": {
-            "ADPCM": 15.986,
-            "AES": 20.882,
-            "DFADD": 6.546
+            "ADPCM": 20.844,
+            "AES": 6.49,
+            "DFADD": 15.91
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4843,20 +4843,20 @@
         "FF": 191469,
         "LUT": 211255,
         "throughput": {
-            "ADPCM_0": 2.451,
-            "ADPCM_1": 4.513,
-            "AES_0": 1.383,
-            "AES_1": 2.736,
-            "AES_2": 0.0,
-            "DFADD_0": 7.337,
-            "DFADD_1": 7.338,
-            "DFADD_2": 7.338,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 2.731,
+            "AES_0": 7.3,
+            "AES_1": 7.293,
+            "AES_2": 7.287,
+            "DFADD_0": 2.436,
+            "DFADD_1": 4.479,
+            "DFADD_2": 4.655,
+            "DFADD_3": 8.939
         },
         "throughput_total": {
-            "ADPCM": 20.561,
-            "AES": 4.119,
-            "DFADD": 22.013
+            "ADPCM": 4.113,
+            "AES": 21.88,
+            "DFADD": 20.509
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4879,20 +4879,20 @@
         "FF": 211276,
         "LUT": 247681,
         "throughput": {
-            "ADPCM_0": 2.382,
-            "ADPCM_1": 4.563,
-            "ADPCM_2": 4.646,
-            "ADPCM_3": 9.092,
-            "AES_0": 1.38,
-            "DFADD_0": 6.796,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.378,
+            "ADPCM_1": 5.25,
+            "ADPCM_2": 5.191,
+            "ADPCM_3": 5.158,
+            "AES_0": 6.742,
+            "DFADD_0": 2.364,
+            "DFADD_1": 4.568,
+            "DFADD_2": 4.643,
+            "DFADD_3": 9.082
         },
         "throughput_total": {
-            "ADPCM": 20.683,
-            "AES": 17.092,
-            "DFADD": 6.796
+            "ADPCM": 16.977,
+            "AES": 6.742,
+            "DFADD": 20.657
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4915,20 +4915,20 @@
         "FF": 184731,
         "LUT": 202659,
         "throughput": {
-            "ADPCM_0": 2.564,
-            "ADPCM_1": 4.826,
-            "AES_0": 2.737,
-            "AES_1": 2.737,
-            "AES_2": 0.0,
-            "DFADD_0": 1.931,
-            "DFADD_1": 1.93,
-            "DFADD_2": 7.281,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.731,
+            "ADPCM_1": 2.728,
+            "AES_0": 1.922,
+            "AES_1": 1.919,
+            "AES_2": 7.218,
+            "DFADD_0": 2.546,
+            "DFADD_1": 4.827,
+            "DFADD_2": 4.891,
+            "DFADD_3": 9.52
         },
         "throughput_total": {
-            "ADPCM": 21.824,
-            "AES": 5.474,
-            "DFADD": 11.142
+            "ADPCM": 5.459,
+            "AES": 11.059,
+            "DFADD": 21.784
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4951,20 +4951,20 @@
         "FF": 198228,
         "LUT": 224772,
         "throughput": {
-            "ADPCM_0": 2.479,
-            "ADPCM_1": 4.661,
-            "AES_0": 5.353,
-            "AES_1": 5.351,
-            "AES_2": 0.0,
-            "DFADD_0": 3.752,
-            "DFADD_1": 3.751,
-            "DFADD_2": 3.749,
-            "DFADD_3": 0.0
+            "ADPCM_0": 5.3,
+            "ADPCM_1": 5.337,
+            "AES_0": 3.744,
+            "AES_1": 3.738,
+            "AES_2": 3.734,
+            "DFADD_0": 2.471,
+            "DFADD_1": 4.641,
+            "DFADD_2": 4.714,
+            "DFADD_3": 9.076
         },
         "throughput_total": {
-            "ADPCM": 21.007,
-            "AES": 10.704,
-            "DFADD": 11.252
+            "ADPCM": 10.637,
+            "AES": 11.216,
+            "DFADD": 20.902
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -4987,20 +4987,20 @@
         "FF": 175896,
         "LUT": 184568,
         "throughput": {
-            "ADPCM_0": 3.387,
-            "ADPCM_1": 6.453,
-            "AES_0": 1.384,
-            "AES_1": 1.383,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 3.97,
-            "DFADD_1": 3.965,
-            "DFADD_2": 3.964
+            "ADPCM_0": 1.376,
+            "ADPCM_1": 1.375,
+            "AES_0": 3.965,
+            "AES_1": 3.957,
+            "AES_2": 3.953,
+            "AES_3": 3.948,
+            "DFADD_0": 3.372,
+            "DFADD_1": 6.424,
+            "DFADD_2": 12.533
         },
         "throughput_total": {
-            "ADPCM": 22.434,
-            "AES": 2.767,
-            "DFADD": 15.863
+            "ADPCM": 2.751,
+            "AES": 15.823,
+            "DFADD": 22.329
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5023,20 +5023,20 @@
         "FF": 190963,
         "LUT": 212818,
         "throughput": {
-            "ADPCM_0": 3.31,
-            "ADPCM_1": 6.541,
-            "ADPCM_2": 12.851,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 2.738,
-            "DFADD_0": 1.924,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.721,
+            "ADPCM_1": 2.736,
+            "ADPCM_2": 2.733,
+            "ADPCM_3": 2.731,
+            "ADPCM_4": 2.728,
+            "AES_0": 1.92,
+            "DFADD_0": 3.286,
+            "DFADD_1": 6.489,
+            "DFADD_2": 12.892
         },
         "throughput_total": {
-            "ADPCM": 22.702,
-            "AES": 13.687,
-            "DFADD": 1.924
+            "ADPCM": 13.649,
+            "AES": 1.92,
+            "DFADD": 22.667
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5059,20 +5059,20 @@
         "FF": 201435,
         "LUT": 238147,
         "throughput": {
-            "ADPCM_0": 2.013,
-            "ADPCM_1": 4.096,
-            "AES_0": 1.383,
-            "AES_1": 5.356,
-            "DFADD_0": 3.795,
-            "DFADD_1": 3.797,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 1.38,
+            "ADPCM_1": 5.331,
+            "AES_0": 3.766,
+            "AES_1": 3.765,
+            "DFADD_0": 2.007,
+            "DFADD_1": 4.099,
+            "DFADD_2": 7.665,
+            "DFADD_3": 7.514,
+            "DFADD_4": 7.494
         },
         "throughput_total": {
-            "ADPCM": 28.851,
-            "AES": 6.739,
-            "DFADD": 7.592
+            "ADPCM": 6.711,
+            "AES": 7.531,
+            "DFADD": 28.779
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5095,20 +5095,20 @@
         "FF": 183869,
         "LUT": 194098,
         "throughput": {
-            "ADPCM_0": 4.431,
-            "ADPCM_1": 16.897,
-            "AES_0": 2.739,
-            "AES_1": 2.737,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 3.892,
-            "DFADD_1": 3.895
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 2.734,
+            "AES_0": 3.88,
+            "AES_1": 3.88,
+            "AES_2": 3.851,
+            "AES_3": 3.843,
+            "AES_4": 7.364,
+            "DFADD_0": 4.397,
+            "DFADD_1": 16.891
         },
         "throughput_total": {
-            "ADPCM": 21.328,
-            "AES": 5.476,
-            "DFADD": 22.94
+            "ADPCM": 5.47,
+            "AES": 22.818,
+            "DFADD": 21.288
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5131,20 +5131,20 @@
         "FF": 185401,
         "LUT": 198001,
         "throughput": {
-            "ADPCM_0": 4.563,
-            "ADPCM_1": 17.41,
-            "AES_0": 2.737,
-            "AES_1": 5.357,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.938,
-            "DFADD_1": 3.846
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 5.349,
+            "AES_0": 1.934,
+            "AES_1": 3.827,
+            "AES_2": 3.816,
+            "AES_3": 3.811,
+            "AES_4": 3.808,
+            "DFADD_0": 4.528,
+            "DFADD_1": 17.424
         },
         "throughput_total": {
-            "ADPCM": 21.973,
-            "AES": 8.094,
-            "DFADD": 17.294
+            "ADPCM": 8.085,
+            "AES": 17.196,
+            "DFADD": 21.952
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5167,20 +5167,20 @@
         "FF": 178266,
         "LUT": 185105,
         "throughput": {
-            "ADPCM_0": 10.791,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "ADPCM_5": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 1.383,
-            "DFADD_0": 3.842
+            "ADPCM_0": 1.379,
+            "ADPCM_1": 1.377,
+            "ADPCM_2": 1.376,
+            "ADPCM_3": 1.372,
+            "ADPCM_4": 1.382,
+            "ADPCM_5": 5.345,
+            "AES_0": 3.827,
+            "AES_1": 3.837,
+            "DFADD_0": 10.742
         },
         "throughput_total": {
-            "ADPCM": 10.791,
-            "AES": 12.262,
-            "DFADD": 7.693
+            "ADPCM": 12.231,
+            "AES": 7.664,
+            "DFADD": 10.742
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5203,20 +5203,20 @@
         "FF": 198283,
         "LUT": 217710,
         "throughput": {
-            "ADPCM_0": 9.849,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 1.378,
-            "AES_1": 1.378,
-            "AES_2": 5.145,
-            "DFADD_0": 1.787
+            "ADPCM_0": 1.377,
+            "ADPCM_1": 1.376,
+            "ADPCM_2": 5.143,
+            "ADPCM_3": 5.11,
+            "ADPCM_4": 5.099,
+            "AES_0": 1.791,
+            "AES_1": 1.789,
+            "AES_2": 6.821,
+            "DFADD_0": 9.838
         },
         "throughput_total": {
-            "ADPCM": 9.849,
-            "AES": 18.14,
-            "DFADD": 10.448
+            "ADPCM": 18.105,
+            "AES": 10.401,
+            "DFADD": 9.838
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5239,20 +5239,20 @@
         "FF": 182219,
         "LUT": 183460,
         "throughput": {
-            "ADPCM_0": 8.964,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "AES_5": 0.0,
-            "AES_6": 0.0,
-            "DFADD_0": 3.98
+            "ADPCM_0": 1.379,
+            "AES_0": 3.956,
+            "AES_1": 3.944,
+            "AES_2": 3.939,
+            "AES_3": 7.639,
+            "AES_4": 7.624,
+            "AES_5": 7.617,
+            "AES_6": 7.609,
+            "DFADD_0": 8.931
         },
         "throughput_total": {
-            "ADPCM": 8.964,
-            "AES": 1.384,
-            "DFADD": 42.505
+            "ADPCM": 1.379,
+            "AES": 42.328,
+            "DFADD": 8.931
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5275,20 +5275,20 @@
         "FF": 180496,
         "LUT": 187124,
         "throughput": {
-            "ADPCM_0": 10.513,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 2.739,
-            "AES_1": 2.739,
-            "AES_2": 2.738,
-            "AES_3": 2.737,
-            "DFADD_0": 1.945
+            "ADPCM_0": 2.724,
+            "ADPCM_1": 2.721,
+            "ADPCM_2": 2.736,
+            "ADPCM_3": 2.734,
+            "AES_0": 1.942,
+            "AES_1": 3.827,
+            "AES_2": 3.811,
+            "AES_3": 3.818,
+            "DFADD_0": 10.502
         },
         "throughput_total": {
-            "ADPCM": 10.513,
-            "AES": 10.953,
-            "DFADD": 13.464
+            "ADPCM": 10.915,
+            "AES": 13.398,
+            "DFADD": 10.502
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5311,20 +5311,20 @@
         "FF": 191982,
         "LUT": 205157,
         "throughput": {
-            "ADPCM_0": 9.731,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 2.736,
-            "AES_1": 5.355,
-            "AES_2": 5.354,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.864
+            "ADPCM_0": 2.718,
+            "ADPCM_1": 5.356,
+            "ADPCM_2": 5.351,
+            "AES_0": 1.866,
+            "AES_1": 1.884,
+            "AES_2": 3.71,
+            "AES_3": 3.695,
+            "AES_4": 7.104,
+            "DFADD_0": 9.673
         },
         "throughput_total": {
-            "ADPCM": 9.731,
-            "AES": 13.445,
-            "DFADD": 18.333
+            "ADPCM": 13.425,
+            "AES": 18.259,
+            "DFADD": 9.673
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5347,20 +5347,20 @@
         "FF": 196498,
         "LUT": 217524,
         "throughput": {
-            "ADPCM_0": 6.187,
-            "ADPCM_1": 5.99,
-            "ADPCM_2": 6.03,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.382,
-            "AES_1": 2.733,
-            "DFADD_0": 7.143,
-            "DFADD_1": 7.139,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.375,
+            "ADPCM_1": 2.73,
+            "ADPCM_2": 2.727,
+            "ADPCM_3": 5.335,
+            "AES_0": 7.101,
+            "AES_1": 7.091,
+            "DFADD_0": 6.152,
+            "DFADD_1": 5.95,
+            "DFADD_2": 6.03
         },
         "throughput_total": {
-            "ADPCM": 18.207,
-            "AES": 12.195,
-            "DFADD": 14.282
+            "ADPCM": 12.167,
+            "AES": 14.192,
+            "DFADD": 18.132
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5383,20 +5383,20 @@
         "FF": 195590,
         "LUT": 217166,
         "throughput": {
-            "ADPCM_0": 4.821,
-            "ADPCM_1": 4.566,
-            "AES_0": 2.735,
-            "AES_1": 5.353,
-            "AES_2": 0.0,
-            "DFADD_0": 3.785,
-            "DFADD_1": 7.172,
-            "DFADD_2": 7.167,
-            "DFADD_3": 0.0
+            "ADPCM_0": 2.733,
+            "ADPCM_1": 5.343,
+            "AES_0": 3.773,
+            "AES_1": 7.135,
+            "AES_2": 7.122,
+            "DFADD_0": 4.794,
+            "DFADD_1": 4.537,
+            "DFADD_2": 4.626,
+            "DFADD_3": 4.474
         },
         "throughput_total": {
-            "ADPCM": 18.518,
-            "AES": 8.088,
-            "DFADD": 18.124
+            "ADPCM": 8.076,
+            "AES": 18.03,
+            "DFADD": 18.431
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5419,20 +5419,20 @@
         "FF": 198951,
         "LUT": 231216,
         "throughput": {
-            "ADPCM_0": 3.681,
-            "AES_0": 5.355,
-            "AES_1": 0.0,
-            "DFADD_0": 3.728,
-            "DFADD_1": 7.022,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0,
-            "DFADD_5": 0.0
+            "ADPCM_0": 5.321,
+            "AES_0": 3.698,
+            "AES_1": 7.014,
+            "DFADD_0": 3.675,
+            "DFADD_1": 3.312,
+            "DFADD_2": 3.313,
+            "DFADD_3": 3.148,
+            "DFADD_4": 3.146,
+            "DFADD_5": 6.305
         },
         "throughput_total": {
-            "ADPCM": 22.973,
-            "AES": 5.355,
-            "DFADD": 10.75
+            "ADPCM": 5.321,
+            "AES": 10.712,
+            "DFADD": 22.899
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5455,20 +5455,20 @@
         "FF": 202259,
         "LUT": 235873,
         "throughput": {
-            "ADPCM_0": 3.957,
-            "AES_0": 5.356,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 3.785,
-            "DFADD_1": 3.781,
-            "DFADD_2": 7.111,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 5.349,
+            "AES_0": 3.77,
+            "AES_1": 3.764,
+            "AES_2": 7.07,
+            "DFADD_0": 3.936,
+            "DFADD_1": 3.798,
+            "DFADD_2": 3.81,
+            "DFADD_3": 7.241,
+            "DFADD_4": 7.241
         },
         "throughput_total": {
-            "ADPCM": 26.105,
-            "AES": 5.356,
-            "DFADD": 14.677
+            "ADPCM": 5.349,
+            "AES": 14.604,
+            "DFADD": 26.026
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5491,20 +5491,20 @@
         "FF": 195452,
         "LUT": 214902,
         "throughput": {
-            "ADPCM_0": 5.835,
-            "ADPCM_1": 5.478,
-            "AES_0": 1.383,
-            "AES_1": 2.735,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 7.467,
-            "DFADD_1": 7.43,
-            "DFADD_2": 7.426
+            "ADPCM_0": 1.377,
+            "ADPCM_1": 2.718,
+            "AES_0": 7.396,
+            "AES_1": 7.416,
+            "AES_2": 7.404,
+            "AES_3": 7.398,
+            "DFADD_0": 5.82,
+            "DFADD_1": 5.463,
+            "DFADD_2": 10.7
         },
         "throughput_total": {
-            "ADPCM": 22.052,
-            "AES": 4.118,
-            "DFADD": 29.751
+            "ADPCM": 4.095,
+            "AES": 29.614,
+            "DFADD": 21.983
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5527,20 +5527,20 @@
         "FF": 196418,
         "LUT": 224541,
         "throughput": {
-            "ADPCM_0": 4.848,
-            "ADPCM_1": 4.665,
-            "ADPCM_2": 9.174,
-            "AES_0": 1.383,
-            "AES_1": 1.383,
-            "DFADD_0": 7.343,
-            "DFADD_1": 7.33,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 1.381,
+            "ADPCM_2": 2.725,
+            "AES_0": 7.296,
+            "AES_1": 7.275,
+            "DFADD_0": 4.817,
+            "DFADD_1": 4.63,
+            "DFADD_2": 9.175,
+            "DFADD_3": 9.105
         },
         "throughput_total": {
-            "ADPCM": 27.795,
-            "AES": 5.501,
-            "DFADD": 14.673
+            "ADPCM": 5.488,
+            "AES": 14.571,
+            "DFADD": 27.727
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5563,20 +5563,20 @@
         "FF": 206487,
         "LUT": 242935,
         "throughput": {
-            "ADPCM_0": 4.773,
-            "ADPCM_1": 4.64,
-            "ADPCM_2": 9.166,
-            "AES_0": 1.382,
-            "AES_1": 5.347,
-            "DFADD_0": 3.729,
-            "DFADD_1": 3.728,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.375,
+            "ADPCM_1": 5.349,
+            "ADPCM_2": 5.341,
+            "AES_0": 3.713,
+            "AES_1": 3.706,
+            "DFADD_0": 4.746,
+            "DFADD_1": 4.611,
+            "DFADD_2": 9.163,
+            "DFADD_3": 9.109
         },
         "throughput_total": {
-            "ADPCM": 27.698,
-            "AES": 12.074,
-            "DFADD": 7.457
+            "ADPCM": 12.065,
+            "AES": 7.419,
+            "DFADD": 27.629
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5599,20 +5599,20 @@
         "FF": 192510,
         "LUT": 225053,
         "throughput": {
-            "ADPCM_0": 4.156,
-            "AES_0": 2.738,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 1.941,
-            "DFADD_1": 1.942,
-            "DFADD_2": 1.942,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 2.728,
+            "AES_0": 1.932,
+            "AES_1": 1.93,
+            "AES_2": 1.928,
+            "DFADD_0": 4.13,
+            "DFADD_1": 4.002,
+            "DFADD_2": 7.852,
+            "DFADD_3": 7.731,
+            "DFADD_4": 7.747
         },
         "throughput_total": {
-            "ADPCM": 31.535,
-            "AES": 2.738,
-            "DFADD": 5.825
+            "ADPCM": 2.728,
+            "AES": 5.79,
+            "DFADD": 31.462
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5635,20 +5635,20 @@
         "FF": 189853,
         "LUT": 208434,
         "throughput": {
-            "ADPCM_0": 9.144,
-            "ADPCM_1": 17.757,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 2.738,
-            "DFADD_0": 3.807,
-            "DFADD_1": 3.82
+            "ADPCM_0": 1.383,
+            "ADPCM_1": 2.731,
+            "ADPCM_2": 2.728,
+            "ADPCM_3": 2.726,
+            "ADPCM_4": 2.723,
+            "AES_0": 3.78,
+            "AES_1": 3.785,
+            "DFADD_0": 9.139,
+            "DFADD_1": 17.767
         },
         "throughput_total": {
-            "ADPCM": 26.901,
-            "AES": 12.334,
-            "DFADD": 7.627
+            "ADPCM": 12.291,
+            "AES": 7.565,
+            "DFADD": 26.906
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5671,20 +5671,20 @@
         "FF": 189820,
         "LUT": 206012,
         "throughput": {
-            "ADPCM_0": 8.538,
-            "ADPCM_1": 16.534,
-            "AES_0": 2.738,
-            "AES_1": 5.356,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.919,
-            "DFADD_1": 1.931
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 5.349,
+            "AES_0": 1.916,
+            "AES_1": 1.926,
+            "AES_2": 3.796,
+            "AES_3": 3.784,
+            "AES_4": 7.241,
+            "DFADD_0": 8.474,
+            "DFADD_1": 16.535
         },
         "throughput_total": {
-            "ADPCM": 25.072,
-            "AES": 8.094,
-            "DFADD": 18.769
+            "ADPCM": 8.085,
+            "AES": 18.663,
+            "DFADD": 25.009
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5707,20 +5707,20 @@
         "FF": 194378,
         "LUT": 217139,
         "throughput": {
-            "ADPCM_0": 6.022,
-            "ADPCM_1": 11.35,
-            "AES_0": 1.383,
-            "AES_1": 2.736,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 3.913,
-            "DFADD_1": 3.903,
-            "DFADD_2": 7.416
+            "ADPCM_0": 1.375,
+            "ADPCM_1": 2.735,
+            "AES_0": 3.906,
+            "AES_1": 3.893,
+            "AES_2": 7.382,
+            "AES_3": 7.376,
+            "DFADD_0": 5.995,
+            "DFADD_1": 11.291,
+            "DFADD_2": 11.218
         },
         "throughput_total": {
-            "ADPCM": 28.662,
-            "AES": 4.119,
-            "DFADD": 22.648
+            "ADPCM": 4.11,
+            "AES": 22.557,
+            "DFADD": 28.504
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5743,20 +5743,20 @@
         "FF": 177646,
         "LUT": 183685,
         "throughput": {
-            "ADPCM_0": 19.487,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.382,
-            "AES_1": 1.382,
-            "AES_2": 2.737,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 3.954
+            "ADPCM_0": 1.377,
+            "ADPCM_1": 1.376,
+            "ADPCM_2": 2.731,
+            "AES_0": 3.931,
+            "AES_1": 3.933,
+            "AES_2": 3.914,
+            "AES_3": 3.909,
+            "AES_4": 3.905,
+            "DFADD_0": 19.535
         },
         "throughput_total": {
-            "ADPCM": 19.487,
-            "AES": 5.501,
-            "DFADD": 19.745
+            "ADPCM": 5.484,
+            "AES": 19.592,
+            "DFADD": 19.535
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5779,20 +5779,20 @@
         "FF": 212411,
         "LUT": 245478,
         "throughput": {
-            "ADPCM_0": 18.209,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "ADPCM_5": 0.0,
-            "ADPCM_6": 0.0,
-            "AES_0": 1.378,
-            "DFADD_0": 1.809
+            "ADPCM_0": 1.377,
+            "ADPCM_1": 2.721,
+            "ADPCM_2": 2.712,
+            "ADPCM_3": 2.706,
+            "ADPCM_4": 5.258,
+            "ADPCM_5": 5.145,
+            "ADPCM_6": 5.137,
+            "AES_0": 1.793,
+            "DFADD_0": 18.201
         },
         "throughput_total": {
-            "ADPCM": 18.209,
-            "AES": 25.154,
-            "DFADD": 1.809
+            "ADPCM": 25.056,
+            "AES": 1.793,
+            "DFADD": 18.201
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5815,20 +5815,20 @@
         "FF": 189222,
         "LUT": 200916,
         "throughput": {
-            "ADPCM_0": 17.37,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 2.738,
-            "AES_2": 2.737,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.917
+            "ADPCM_0": 1.38,
+            "ADPCM_1": 2.726,
+            "ADPCM_2": 2.723,
+            "AES_0": 1.91,
+            "AES_1": 3.872,
+            "AES_2": 7.429,
+            "AES_3": 7.421,
+            "AES_4": 7.418,
+            "DFADD_0": 17.337
         },
         "throughput_total": {
-            "ADPCM": 17.37,
-            "AES": 6.859,
-            "DFADD": 28.147
+            "ADPCM": 6.829,
+            "AES": 28.05,
+            "DFADD": 17.337
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5851,20 +5851,20 @@
         "FF": 182641,
         "LUT": 191440,
         "throughput": {
-            "ADPCM_0": 18.988,
-            "ADPCM_1": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 5.36,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "AES_5": 0.0,
-            "DFADD_0": 1.972
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 5.343,
+            "AES_0": 1.965,
+            "AES_1": 3.88,
+            "AES_2": 3.873,
+            "AES_3": 3.866,
+            "AES_4": 3.892,
+            "AES_5": 3.889,
+            "DFADD_0": 18.953
         },
         "throughput_total": {
-            "ADPCM": 18.988,
-            "AES": 6.744,
-            "DFADD": 21.465
+            "ADPCM": 6.724,
+            "AES": 21.365,
+            "DFADD": 18.953
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5887,20 +5887,20 @@
         "FF": 195915,
         "LUT": 214494,
         "throughput": {
-            "ADPCM_0": 17.761,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 2.737,
-            "AES_1": 2.736,
-            "AES_2": 2.736,
-            "DFADD_0": 1.872
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 2.734,
+            "ADPCM_2": 2.731,
+            "ADPCM_3": 2.728,
+            "ADPCM_4": 2.726,
+            "AES_0": 1.869,
+            "AES_1": 7.175,
+            "AES_2": 7.174,
+            "DFADD_0": 17.763
         },
         "throughput_total": {
-            "ADPCM": 17.761,
-            "AES": 13.679,
-            "DFADD": 16.338
+            "ADPCM": 13.655,
+            "AES": 16.218,
+            "DFADD": 17.763
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5923,20 +5923,20 @@
         "FF": 195091,
         "LUT": 219935,
         "throughput": {
-            "ADPCM_0": 17.123,
-            "ADPCM_1": 17.103,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "ADPCM_5": 0.0,
-            "AES_0": 1.384,
-            "DFADD_0": 7.299,
-            "DFADD_1": 0.0
+            "ADPCM_0": 1.379,
+            "ADPCM_1": 1.377,
+            "ADPCM_2": 1.376,
+            "ADPCM_3": 2.718,
+            "ADPCM_4": 2.733,
+            "ADPCM_5": 2.73,
+            "AES_0": 7.266,
+            "DFADD_0": 17.053,
+            "DFADD_1": 17.095
         },
         "throughput_total": {
-            "ADPCM": 34.226,
-            "AES": 12.354,
-            "DFADD": 7.299
+            "ADPCM": 12.313,
+            "AES": 7.266,
+            "DFADD": 34.148
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5959,20 +5959,20 @@
         "FF": 206503,
         "LUT": 238089,
         "throughput": {
-            "ADPCM_0": 10.986,
-            "ADPCM_1": 10.441,
-            "AES_0": 1.383,
-            "AES_1": 2.735,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 7.446,
-            "DFADD_1": 7.4,
-            "DFADD_2": 7.397
+            "ADPCM_0": 1.375,
+            "ADPCM_1": 2.733,
+            "AES_0": 7.415,
+            "AES_1": 7.366,
+            "AES_2": 7.357,
+            "AES_3": 7.351,
+            "DFADD_0": 10.929,
+            "DFADD_1": 10.375,
+            "DFADD_2": 10.282
         },
         "throughput_total": {
-            "ADPCM": 31.701,
-            "AES": 4.118,
-            "DFADD": 29.644
+            "ADPCM": 4.108,
+            "AES": 29.489,
+            "DFADD": 31.586
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -5995,20 +5995,20 @@
         "FF": 218779,
         "LUT": 272724,
         "throughput": {
-            "ADPCM_0": 1.619,
-            "ADPCM_1": 9.273,
-            "ADPCM_2": 9.123,
-            "AES_0": 2.729,
-            "DFADD_0": 6.869,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 2.717,
+            "ADPCM_1": 2.714,
+            "ADPCM_2": 2.709,
+            "AES_0": 6.689,
+            "DFADD_0": 1.568,
+            "DFADD_1": 9.272,
+            "DFADD_2": 9.124,
+            "DFADD_3": 8.999,
+            "DFADD_4": 8.985
         },
         "throughput_total": {
-            "ADPCM": 38.019,
-            "AES": 8.177,
-            "DFADD": 6.869
+            "ADPCM": 8.14,
+            "AES": 6.689,
+            "DFADD": 37.948
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6096,19 +6096,19 @@
         "FF": 162962,
         "LUT": 156831,
         "throughput": {
-            "ADPCM_0": 6.391,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.385,
-            "AES_1": 1.384,
-            "AES_2": 1.384,
-            "DFADD_0": 2.003
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 1.381,
+            "ADPCM_2": 1.38,
+            "ADPCM_3": 1.379,
+            "AES_0": 2.005,
+            "AES_1": 2.041,
+            "AES_2": 7.694,
+            "DFADD_0": 6.389
         },
         "throughput_total": {
-            "ADPCM": 6.391,
-            "AES": 5.537,
-            "DFADD": 11.77
+            "ADPCM": 5.522,
+            "AES": 11.74,
+            "DFADD": 6.389
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6131,19 +6131,19 @@
         "FF": 183458,
         "LUT": 189460,
         "throughput": {
-            "ADPCM_0": 6.101,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 2.737,
-            "AES_2": 2.738,
-            "DFADD_0": 3.92
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 2.728,
+            "ADPCM_2": 2.726,
+            "ADPCM_3": 5.326,
+            "AES_0": 3.897,
+            "AES_1": 3.886,
+            "AES_2": 7.567,
+            "DFADD_0": 6.088
         },
         "throughput_total": {
-            "ADPCM": 6.101,
-            "AES": 12.213,
-            "DFADD": 15.394
+            "ADPCM": 12.161,
+            "AES": 15.35,
+            "DFADD": 6.088
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6166,19 +6166,19 @@
         "FF": 163178,
         "LUT": 154759,
         "throughput": {
-            "ADPCM_0": 6.1,
-            "AES_0": 1.385,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "AES_5": 0.0,
-            "DFADD_0": 2.039
+            "ADPCM_0": 1.381,
+            "AES_0": 2.041,
+            "AES_1": 2.025,
+            "AES_2": 2.014,
+            "AES_3": 2.023,
+            "AES_4": 7.72,
+            "AES_5": 7.716,
+            "DFADD_0": 6.102
         },
         "throughput_total": {
-            "ADPCM": 6.1,
-            "AES": 1.385,
-            "DFADD": 23.579
+            "ADPCM": 1.381,
+            "AES": 23.539,
+            "DFADD": 6.102
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6201,19 +6201,19 @@
         "FF": 165851,
         "LUT": 164384,
         "throughput": {
-            "ADPCM_0": 6.272,
-            "ADPCM_1": 6.439,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "DFADD_0": 2.037,
-            "DFADD_1": 2.031
+            "ADPCM_0": 1.38,
+            "ADPCM_1": 1.379,
+            "ADPCM_2": 2.723,
+            "ADPCM_3": 2.721,
+            "AES_0": 2.037,
+            "AES_1": 2.029,
+            "DFADD_0": 6.25,
+            "DFADD_1": 6.402
         },
         "throughput_total": {
-            "ADPCM": 12.711,
-            "AES": 8.241,
-            "DFADD": 4.068
+            "ADPCM": 8.203,
+            "AES": 4.066,
+            "DFADD": 12.652
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6236,19 +6236,19 @@
         "FF": 176623,
         "LUT": 183567,
         "throughput": {
-            "ADPCM_0": 5.733,
-            "ADPCM_1": 5.954,
-            "ADPCM_2": 11.389,
-            "AES_0": 1.384,
-            "AES_1": 2.737,
-            "DFADD_0": 2.026,
-            "DFADD_1": 3.912,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 2.728,
+            "ADPCM_2": 5.334,
+            "AES_0": 2.016,
+            "AES_1": 3.883,
+            "DFADD_0": 5.736,
+            "DFADD_1": 5.947,
+            "DFADD_2": 11.368
         },
         "throughput_total": {
-            "ADPCM": 23.076,
-            "AES": 9.48,
-            "DFADD": 5.938
+            "ADPCM": 9.443,
+            "AES": 5.899,
+            "DFADD": 23.051
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6271,19 +6271,19 @@
         "FF": 175173,
         "LUT": 187401,
         "throughput": {
-            "ADPCM_0": 3.875,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "DFADD_0": 4.028,
-            "DFADD_1": 3.992,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 1.377,
+            "AES_0": 3.998,
+            "AES_1": 3.989,
+            "DFADD_0": 3.871,
+            "DFADD_1": 5.472,
+            "DFADD_2": 7.605,
+            "DFADD_3": 10.732,
+            "DFADD_4": 14.914
         },
         "throughput_total": {
-            "ADPCM": 42.726,
-            "AES": 1.384,
-            "DFADD": 8.02
+            "ADPCM": 1.377,
+            "AES": 7.987,
+            "DFADD": 42.594
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6306,19 +6306,19 @@
         "FF": 213813,
         "LUT": 247092,
         "throughput": {
-            "ADPCM_0": 5.151,
-            "ADPCM_1": 5.61,
-            "ADPCM_2": 19.823,
-            "ADPCM_3": 0.0,
-            "AES_0": 5.218,
-            "DFADD_0": 7.262,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 5.337,
+            "ADPCM_1": 5.313,
+            "ADPCM_2": 5.327,
+            "ADPCM_3": 5.287,
+            "AES_0": 7.198,
+            "DFADD_0": 5.044,
+            "DFADD_1": 5.457,
+            "DFADD_2": 19.187
         },
         "throughput_total": {
-            "ADPCM": 30.584,
-            "AES": 20.872,
-            "DFADD": 7.262
+            "ADPCM": 21.264,
+            "AES": 7.198,
+            "DFADD": 29.688
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6341,19 +6341,19 @@
         "FF": 185540,
         "LUT": 195309,
         "throughput": {
-            "ADPCM_0": 5.967,
-            "ADPCM_1": 11.31,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "DFADD_0": 7.611,
-            "DFADD_1": 7.498
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 1.38,
+            "ADPCM_2": 2.726,
+            "ADPCM_3": 5.326,
+            "AES_0": 7.551,
+            "AES_1": 7.482,
+            "DFADD_0": 5.956,
+            "DFADD_1": 11.28
         },
         "throughput_total": {
-            "ADPCM": 17.277,
-            "AES": 10.861,
-            "DFADD": 15.109
+            "ADPCM": 10.813,
+            "AES": 15.033,
+            "DFADD": 17.236
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6376,19 +6376,19 @@
         "FF": 192472,
         "LUT": 204737,
         "throughput": {
-            "ADPCM_0": 5.764,
-            "ADPCM_1": 11.189,
-            "AES_0": 5.355,
-            "AES_1": 5.355,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 3.889,
-            "DFADD_1": 3.898
+            "ADPCM_0": 5.351,
+            "ADPCM_1": 5.346,
+            "AES_0": 3.875,
+            "AES_1": 3.878,
+            "AES_2": 7.48,
+            "AES_3": 7.492,
+            "DFADD_0": 5.735,
+            "DFADD_1": 11.187
         },
         "throughput_total": {
-            "ADPCM": 16.953,
-            "AES": 10.71,
-            "DFADD": 22.844
+            "ADPCM": 10.697,
+            "AES": 22.725,
+            "DFADD": 16.922
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6411,19 +6411,19 @@
         "FF": 176916,
         "LUT": 186023,
         "throughput": {
-            "ADPCM_0": 5.466,
-            "ADPCM_1": 10.686,
-            "AES_0": 1.384,
-            "AES_1": 2.738,
-            "DFADD_0": 3.982,
-            "DFADD_1": 7.603,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 2.731,
+            "AES_0": 3.966,
+            "AES_1": 7.555,
+            "DFADD_0": 5.434,
+            "DFADD_1": 10.613,
+            "DFADD_2": 10.83,
+            "DFADD_3": 10.643
         },
         "throughput_total": {
-            "ADPCM": 37.635,
-            "AES": 4.122,
-            "DFADD": 11.585
+            "ADPCM": 4.113,
+            "AES": 11.521,
+            "DFADD": 37.52
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6446,19 +6446,19 @@
         "FF": 186916,
         "LUT": 204501,
         "throughput": {
-            "ADPCM_0": 5.318,
-            "ADPCM_1": 11.292,
-            "ADPCM_2": 20.384,
-            "ADPCM_3": 0.0,
-            "AES_0": 2.739,
-            "DFADD_0": 3.95,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.724,
+            "ADPCM_1": 2.736,
+            "ADPCM_2": 2.734,
+            "ADPCM_3": 2.731,
+            "AES_0": 3.929,
+            "DFADD_0": 5.309,
+            "DFADD_1": 11.225,
+            "DFADD_2": 20.436
         },
         "throughput_total": {
-            "ADPCM": 36.994,
-            "AES": 10.944,
-            "DFADD": 3.95
+            "ADPCM": 10.925,
+            "AES": 3.929,
+            "DFADD": 36.97
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6481,19 +6481,19 @@
         "FF": 179539,
         "LUT": 186461,
         "throughput": {
-            "ADPCM_0": 5.98,
-            "ADPCM_1": 21.002,
-            "AES_0": 1.384,
-            "AES_1": 2.739,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 1.997,
-            "DFADD_1": 3.96
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 2.728,
+            "AES_0": 2.002,
+            "AES_1": 3.932,
+            "AES_2": 7.627,
+            "AES_3": 7.659,
+            "DFADD_0": 5.979,
+            "DFADD_1": 20.934
         },
         "throughput_total": {
-            "ADPCM": 26.982,
-            "AES": 4.123,
-            "DFADD": 21.299
+            "ADPCM": 4.109,
+            "AES": 21.22,
+            "DFADD": 26.913
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6516,19 +6516,19 @@
         "FF": 194605,
         "LUT": 214776,
         "throughput": {
-            "ADPCM_0": 6.015,
-            "ADPCM_1": 21.133,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 2.727,
-            "DFADD_0": 3.936,
-            "DFADD_1": 0.0
+            "ADPCM_0": 2.733,
+            "ADPCM_1": 2.734,
+            "ADPCM_2": 2.728,
+            "ADPCM_3": 2.728,
+            "ADPCM_4": 5.325,
+            "AES_0": 3.913,
+            "DFADD_0": 5.946,
+            "DFADD_1": 21.23
         },
         "throughput_total": {
-            "ADPCM": 27.148,
-            "AES": 16.268,
-            "DFADD": 3.936
+            "ADPCM": 16.248,
+            "AES": 3.913,
+            "DFADD": 27.176
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6551,19 +6551,19 @@
         "FF": 199471,
         "LUT": 221886,
         "throughput": {
-            "ADPCM_0": 6.029,
-            "ADPCM_1": 20.12,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 2.739,
-            "AES_1": 2.736,
-            "DFADD_0": 1.984,
-            "DFADD_1": 7.373
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 2.734,
+            "ADPCM_2": 5.338,
+            "ADPCM_3": 5.33,
+            "AES_0": 1.975,
+            "AES_1": 7.309,
+            "DFADD_0": 5.99,
+            "DFADD_1": 20.106
         },
         "throughput_total": {
-            "ADPCM": 26.149,
-            "AES": 16.175,
-            "DFADD": 9.357
+            "ADPCM": 16.138,
+            "AES": 9.284,
+            "DFADD": 26.096
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6586,19 +6586,19 @@
         "FF": 183941,
         "LUT": 201380,
         "throughput": {
-            "ADPCM_0": 5.4,
-            "ADPCM_1": 21.154,
-            "ADPCM_2": 21.056,
-            "AES_0": 1.384,
-            "AES_1": 2.729,
-            "DFADD_0": 2.032,
-            "DFADD_1": 3.976,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 2.725,
+            "ADPCM_2": 2.722,
+            "AES_0": 2.023,
+            "AES_1": 3.948,
+            "DFADD_0": 5.367,
+            "DFADD_1": 21.149,
+            "DFADD_2": 21.035
         },
         "throughput_total": {
-            "ADPCM": 47.61,
-            "AES": 6.842,
-            "DFADD": 6.008
+            "ADPCM": 6.829,
+            "AES": 5.971,
+            "DFADD": 47.551
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6621,19 +6621,19 @@
         "FF": 186272,
         "LUT": 192808,
         "throughput": {
-            "ADPCM_0": 11.189,
-            "ADPCM_1": 0.0,
-            "AES_0": 2.74,
-            "AES_1": 5.36,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 1.961
+            "ADPCM_0": 2.732,
+            "ADPCM_1": 5.338,
+            "AES_0": 1.962,
+            "AES_1": 1.958,
+            "AES_2": 7.604,
+            "AES_3": 7.516,
+            "AES_4": 7.604,
+            "DFADD_0": 11.169
         },
         "throughput_total": {
-            "ADPCM": 11.189,
-            "AES": 8.1,
-            "DFADD": 26.689
+            "ADPCM": 8.07,
+            "AES": 26.644,
+            "DFADD": 11.169
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6656,19 +6656,19 @@
         "FF": 181976,
         "LUT": 190831,
         "throughput": {
-            "ADPCM_0": 11.398,
-            "ADPCM_1": 11.733,
-            "ADPCM_2": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 2.738,
-            "AES_2": 5.359,
-            "DFADD_0": 3.956,
-            "DFADD_1": 3.912
+            "ADPCM_0": 1.376,
+            "ADPCM_1": 2.736,
+            "ADPCM_2": 5.35,
+            "AES_0": 3.942,
+            "AES_1": 3.895,
+            "AES_2": 3.936,
+            "DFADD_0": 11.33,
+            "DFADD_1": 11.747
         },
         "throughput_total": {
-            "ADPCM": 23.131,
-            "AES": 9.481,
-            "DFADD": 11.826
+            "ADPCM": 9.462,
+            "AES": 11.773,
+            "DFADD": 23.077
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6691,19 +6691,19 @@
         "FF": 175409,
         "LUT": 176626,
         "throughput": {
-            "ADPCM_0": 11.134,
-            "AES_0": 1.384,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 4.017,
-            "DFADD_1": 3.979
+            "ADPCM_0": 1.381,
+            "AES_0": 3.991,
+            "AES_1": 3.957,
+            "AES_2": 3.974,
+            "AES_3": 7.643,
+            "AES_4": 7.724,
+            "DFADD_0": 11.142,
+            "DFADD_1": 11.401
         },
         "throughput_total": {
-            "ADPCM": 22.563,
-            "AES": 1.384,
-            "DFADD": 27.453
+            "ADPCM": 1.381,
+            "AES": 27.289,
+            "DFADD": 22.543
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6726,19 +6726,19 @@
         "FF": 189914,
         "LUT": 216259,
         "throughput": {
-            "ADPCM_0": 7.55,
-            "AES_0": 2.739,
-            "AES_1": 0.0,
-            "DFADD_0": 4.026,
-            "DFADD_1": 3.966,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 2.727,
+            "AES_0": 3.996,
+            "AES_1": 3.962,
+            "DFADD_0": 7.545,
+            "DFADD_1": 10.061,
+            "DFADD_2": 7.506,
+            "DFADD_3": 19.618,
+            "DFADD_4": 14.681
         },
         "throughput_total": {
-            "ADPCM": 59.55,
-            "AES": 2.739,
-            "DFADD": 7.992
+            "ADPCM": 2.727,
+            "AES": 7.958,
+            "DFADD": 59.411
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6761,19 +6761,19 @@
         "FF": 211994,
         "LUT": 256123,
         "throughput": {
-            "ADPCM_0": 7.24,
-            "ADPCM_1": 9.777,
-            "AES_0": 5.325,
-            "DFADD_0": 3.865,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0,
-            "DFADD_4": 0.0
+            "ADPCM_0": 5.293,
+            "ADPCM_1": 5.288,
+            "AES_0": 3.833,
+            "DFADD_0": 7.227,
+            "DFADD_1": 9.765,
+            "DFADD_2": 14.166,
+            "DFADD_3": 19.124,
+            "DFADD_4": 14.136
         },
         "throughput_total": {
-            "ADPCM": 64.543,
-            "AES": 10.65,
-            "DFADD": 3.865
+            "ADPCM": 10.581,
+            "AES": 3.833,
+            "DFADD": 64.418
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6796,19 +6796,19 @@
         "FF": 188865,
         "LUT": 205375,
         "throughput": {
-            "ADPCM_0": 11.751,
-            "ADPCM_1": 20.544,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.384,
-            "AES_1": 1.384,
-            "DFADD_0": 2.035,
-            "DFADD_1": 7.49
+            "ADPCM_0": 1.384,
+            "ADPCM_1": 1.383,
+            "ADPCM_2": 2.731,
+            "ADPCM_3": 5.336,
+            "AES_0": 2.024,
+            "AES_1": 7.433,
+            "DFADD_0": 11.7,
+            "DFADD_1": 20.491
         },
         "throughput_total": {
-            "ADPCM": 32.295,
-            "AES": 10.861,
-            "DFADD": 9.525
+            "ADPCM": 10.834,
+            "AES": 9.457,
+            "DFADD": 32.191
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6831,19 +6831,19 @@
         "FF": 202384,
         "LUT": 225965,
         "throughput": {
-            "ADPCM_0": 10.759,
-            "ADPCM_1": 20.407,
-            "ADPCM_2": 0.0,
-            "AES_0": 2.738,
-            "AES_1": 5.293,
-            "AES_2": 5.293,
-            "DFADD_0": 1.997,
-            "DFADD_1": 7.367
+            "ADPCM_0": 2.736,
+            "ADPCM_1": 5.285,
+            "ADPCM_2": 5.281,
+            "AES_0": 1.989,
+            "AES_1": 7.311,
+            "AES_2": 7.368,
+            "DFADD_0": 10.686,
+            "DFADD_1": 20.403
         },
         "throughput_total": {
-            "ADPCM": 31.166,
-            "AES": 13.324,
-            "DFADD": 16.782
+            "ADPCM": 13.302,
+            "AES": 16.668,
+            "DFADD": 31.089
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6866,19 +6866,19 @@
         "FF": 211274,
         "LUT": 251718,
         "throughput": {
-            "ADPCM_0": 9.887,
-            "ADPCM_1": 18.782,
-            "AES_0": 5.36,
-            "AES_1": 5.355,
-            "DFADD_0": 1.984,
-            "DFADD_1": 7.4,
-            "DFADD_2": 0.0,
-            "DFADD_3": 0.0
+            "ADPCM_0": 5.354,
+            "ADPCM_1": 5.346,
+            "AES_0": 1.976,
+            "AES_1": 7.359,
+            "DFADD_0": 9.832,
+            "DFADD_1": 18.678,
+            "DFADD_2": 18.981,
+            "DFADD_3": 18.792
         },
         "throughput_total": {
-            "ADPCM": 66.46,
-            "AES": 10.715,
-            "DFADD": 9.384
+            "ADPCM": 10.7,
+            "AES": 9.335,
+            "DFADD": 66.283
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6901,19 +6901,19 @@
         "FF": 193371,
         "LUT": 210622,
         "throughput": {
-            "ADPCM_0": 21.424,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "ADPCM_4": 0.0,
-            "AES_0": 1.383,
-            "AES_1": 2.737,
-            "DFADD_0": 2.024
+            "ADPCM_0": 1.382,
+            "ADPCM_1": 2.725,
+            "ADPCM_2": 2.725,
+            "ADPCM_3": 2.72,
+            "ADPCM_4": 5.323,
+            "AES_0": 2.01,
+            "AES_1": 7.42,
+            "DFADD_0": 21.411
         },
         "throughput_total": {
-            "ADPCM": 21.424,
-            "AES": 14.941,
-            "DFADD": 9.468
+            "ADPCM": 14.875,
+            "AES": 9.43,
+            "DFADD": 21.411
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6936,19 +6936,19 @@
         "FF": 193174,
         "LUT": 211731,
         "throughput": {
-            "ADPCM_0": 20.389,
-            "ADPCM_1": 20.864,
-            "AES_0": 2.737,
-            "AES_1": 2.737,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "DFADD_0": 3.961,
-            "DFADD_1": 3.959
+            "ADPCM_0": 2.723,
+            "ADPCM_1": 2.721,
+            "AES_0": 3.955,
+            "AES_1": 3.949,
+            "AES_2": 7.606,
+            "AES_3": 7.618,
+            "DFADD_0": 20.349,
+            "DFADD_1": 20.854
         },
         "throughput_total": {
-            "ADPCM": 41.253,
-            "AES": 5.474,
-            "DFADD": 23.23
+            "ADPCM": 5.444,
+            "AES": 23.128,
+            "DFADD": 41.203
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -6971,19 +6971,19 @@
         "FF": 184803,
         "LUT": 198695,
         "throughput": {
-            "ADPCM_0": 21.083,
-            "AES_0": 2.739,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "AES_3": 0.0,
-            "AES_4": 0.0,
-            "DFADD_0": 2.015,
-            "DFADD_1": 3.992
+            "ADPCM_0": 2.724,
+            "AES_0": 2.023,
+            "AES_1": 3.983,
+            "AES_2": 3.994,
+            "AES_3": 3.978,
+            "AES_4": 7.679,
+            "DFADD_0": 20.963,
+            "DFADD_1": 21.074
         },
         "throughput_total": {
-            "ADPCM": 42.126,
-            "AES": 2.739,
-            "DFADD": 21.728
+            "ADPCM": 2.724,
+            "AES": 21.657,
+            "DFADD": 42.037
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -7006,19 +7006,19 @@
         "FF": 187101,
         "LUT": 210994,
         "throughput": {
-            "ADPCM_0": 20.701,
-            "ADPCM_1": 21.195,
-            "ADPCM_2": 20.692,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.384,
-            "DFADD_0": 4.018,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 1.38,
+            "ADPCM_2": 1.379,
+            "ADPCM_3": 1.377,
+            "AES_0": 3.984,
+            "DFADD_0": 20.677,
+            "DFADD_1": 21.222,
+            "DFADD_2": 20.635
         },
         "throughput_total": {
-            "ADPCM": 62.588,
-            "AES": 5.534,
-            "DFADD": 4.018
+            "ADPCM": 5.517,
+            "AES": 3.984,
+            "DFADD": 62.534
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -7041,19 +7041,19 @@
         "FF": 197474,
         "LUT": 224130,
         "throughput": {
-            "ADPCM_0": 19.424,
-            "ADPCM_1": 20.317,
-            "AES_0": 1.384,
-            "AES_1": 2.738,
-            "AES_2": 0.0,
-            "DFADD_0": 3.971,
-            "DFADD_1": 7.578,
-            "DFADD_2": 7.667
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 2.728,
+            "AES_0": 3.95,
+            "AES_1": 7.532,
+            "AES_2": 7.603,
+            "DFADD_0": 19.406,
+            "DFADD_1": 20.29,
+            "DFADD_2": 19.272
         },
         "throughput_total": {
-            "ADPCM": 59.062,
-            "AES": 4.122,
-            "DFADD": 19.216
+            "ADPCM": 4.109,
+            "AES": 19.085,
+            "DFADD": 58.968
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -7076,19 +7076,19 @@
         "FF": 220587,
         "LUT": 265126,
         "throughput": {
-            "ADPCM_0": 19.21,
-            "ADPCM_1": 19.63,
-            "ADPCM_2": 19.188,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.383,
-            "DFADD_0": 7.394,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 1.381,
+            "ADPCM_1": 5.292,
+            "ADPCM_2": 5.309,
+            "ADPCM_3": 5.279,
+            "AES_0": 7.331,
+            "DFADD_0": 19.124,
+            "DFADD_1": 19.58,
+            "DFADD_2": 19.02
         },
         "throughput_total": {
-            "ADPCM": 58.028,
-            "AES": 17.308,
-            "DFADD": 7.394
+            "ADPCM": 17.261,
+            "AES": 7.331,
+            "DFADD": 57.724
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -7111,17 +7111,17 @@
         "FF": 166828,
         "LUT": 164775,
         "throughput": {
-            "ADPCM_0": 6.284,
-            "AES_0": 5.365,
-            "AES_1": 0.0,
-            "DFADD_0": 2.078,
-            "DFADD_1": 2.039,
-            "DFADD_2": 0.0
+            "ADPCM_0": 5.351,
+            "AES_0": 2.068,
+            "AES_1": 2.03,
+            "DFADD_0": 6.282,
+            "DFADD_1": 6.117,
+            "DFADD_2": 12.282
         },
         "throughput_total": {
-            "ADPCM": 24.669,
-            "AES": 5.365,
-            "DFADD": 4.117
+            "ADPCM": 5.351,
+            "AES": 4.098,
+            "DFADD": 24.681
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -7144,17 +7144,17 @@
         "FF": 173811,
         "LUT": 179951,
         "throughput": {
-            "ADPCM_0": 6.354,
-            "ADPCM_1": 11.901,
-            "AES_0": 2.74,
-            "DFADD_0": 2.064,
-            "DFADD_1": 0.0,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.739,
+            "ADPCM_1": 2.737,
+            "AES_0": 2.058,
+            "DFADD_0": 6.334,
+            "DFADD_1": 11.832,
+            "DFADD_2": 22.389
         },
         "throughput_total": {
-            "ADPCM": 40.715,
-            "AES": 5.48,
-            "DFADD": 2.064
+            "ADPCM": 5.476,
+            "AES": 2.058,
+            "DFADD": 40.555
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -7177,17 +7177,17 @@
         "FF": 184323,
         "LUT": 196998,
         "throughput": {
-            "ADPCM_0": 6.255,
-            "AES_0": 2.74,
-            "AES_1": 0.0,
-            "DFADD_0": 7.762,
-            "DFADD_1": 7.758,
-            "DFADD_2": 0.0
+            "ADPCM_0": 2.739,
+            "AES_0": 7.737,
+            "AES_1": 7.708,
+            "DFADD_0": 6.233,
+            "DFADD_1": 20.67,
+            "DFADD_2": 21.209
         },
         "throughput_total": {
-            "ADPCM": 48.259,
-            "AES": 2.74,
-            "DFADD": 15.52
+            "ADPCM": 2.739,
+            "AES": 15.445,
+            "DFADD": 48.112
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -7210,17 +7210,17 @@
         "FF": 171528,
         "LUT": 170080,
         "throughput": {
-            "ADPCM_0": 11.663,
-            "ADPCM_1": 0.0,
-            "ADPCM_2": 0.0,
-            "ADPCM_3": 0.0,
-            "AES_0": 1.384,
-            "DFADD_0": 4.022
+            "ADPCM_0": 1.384,
+            "ADPCM_1": 2.702,
+            "ADPCM_2": 2.699,
+            "ADPCM_3": 2.696,
+            "AES_0": 4.006,
+            "DFADD_0": 11.664
         },
         "throughput_total": {
-            "ADPCM": 11.663,
-            "AES": 9.508,
-            "DFADD": 4.022
+            "ADPCM": 9.481,
+            "AES": 4.006,
+            "DFADD": 11.664
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -7243,17 +7243,17 @@
         "FF": 176422,
         "LUT": 175301,
         "throughput": {
-            "ADPCM_0": 11.32,
-            "ADPCM_1": 0.0,
-            "AES_0": 1.385,
-            "AES_1": 5.359,
-            "AES_2": 0.0,
-            "DFADD_0": 2.082
+            "ADPCM_0": 1.384,
+            "ADPCM_1": 5.349,
+            "AES_0": 2.075,
+            "AES_1": 7.603,
+            "AES_2": 7.674,
+            "DFADD_0": 11.322
         },
         "throughput_total": {
-            "ADPCM": 11.32,
-            "AES": 6.744,
-            "DFADD": 17.433
+            "ADPCM": 6.733,
+            "AES": 17.352,
+            "DFADD": 11.322
         },
         "tile_config": {
             "X0Y0": "CPU",
@@ -7276,17 +7276,17 @@
         "FF": 176038,
         "LUT": 178696,
         "throughput": {
-            "ADPCM_0": 11.393,
-            "AES_0": 1.385,
-            "AES_1": 0.0,
-            "AES_2": 0.0,
-            "DFADD_0": 4.013,
-            "DFADD_1": 7.802
+            "ADPCM_0": 1.383,
+            "AES_0": 4.001,
+            "AES_1": 7.771,
+            "AES_2": 7.774,
+            "DFADD_0": 11.394,
+            "DFADD_1": 21.054
         },
         "throughput_total": {
-            "ADPCM": 32.487,
-            "AES": 1.385,
-            "DFADD": 19.637
+            "ADPCM": 1.383,
+            "AES": 19.546,
+            "DFADD": 32.448
         },
         "tile_config": {
             "X0Y0": "CPU",

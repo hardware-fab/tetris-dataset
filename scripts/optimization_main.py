@@ -21,7 +21,7 @@ num_test = 10                                                                   
 threshold_list = {"ADPCM": 5, "AES": 11, "DFADD": 35, "DFMUL": 30, "GSM": 25, "SHA3": 350}    #Optimization thresholds for the various applications (edit them as needed)    
 n_iter_max = 30                                                                               #Number of iterations performed by the optimization loop
 
-acc_info = sys.path[0] + "/../data/accelerators.json"        #File containing accelerators' information
+acc_info = sys.path[0] + "/../data/tiles.json"        #File containing accelerators' information
 
 plot_styles = ["blue", "green"]                                          #List of colors (for the plot)
 font_size =30                                                            #Size of the font (for the plot)

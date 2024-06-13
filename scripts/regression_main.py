@@ -15,7 +15,7 @@ dataset = sys.argv[1]    #Main dataset used for training and testing
 
 #----------------Configurable variables--------------
 
-acc_info = sys.path[0] + "/../data/accelerators.json"        #File containing accelerators' information
+acc_info = sys.path[0] + "/../data/tiles.json"        #File containing accelerators' information
 
 perc_training_set = [10, 20, 30, 40, 50, 60, 70, 80, 90]     #Training percentages for cross-validation
 perc_testing_set = 10                                        #Testing percentage for cross-validation 
